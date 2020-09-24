@@ -1,0 +1,10 @@
+.MenuItemsBox {
+    background: rgba(50, 50, 50, 0.7);
+    padding: 20px;
+    margin: 20px;
+}
+
+.MenuItemTitle {
+    font-family: 'Orbitron', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
+}

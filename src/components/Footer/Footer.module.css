@@ -1,0 +1,11 @@
+.FooterContainer {
+    background: rgba(50, 50, 50, 0.5);
+    padding: 20px;
+    margin: 20px;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.FooterText {
+    text-transform: uppercase;
+}

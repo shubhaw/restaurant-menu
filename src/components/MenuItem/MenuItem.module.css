@@ -1,0 +1,17 @@
+.MenuItemContainer {
+    display: flex;
+    flex-direction: column;
+    text-transform: uppercase;
+    margin: 20px 0;
+}
+
+.MenuItemTitle {
+    display: flex;
+    column-gap: 1em;
+    justify-content: center;
+}
+
+.MenuItemDescription {
+    font-weight: lighter;
+    font-size: small;
+}
