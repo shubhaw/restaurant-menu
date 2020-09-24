@@ -1,0 +1,37 @@
+.SideNavbarContainer {
+    position: fixed;
+    right: 0;
+    top: 0;
+    width: 200px;
+    text-transform: uppercase;
+    /* padding: 10px; */
+    height: 100vh;
+    overflow: scroll;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background: url("../../assets/images/bg1.JPG");
+    font-family: 'Orbitron', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    -webkit-box-shadow: -2px 0px 10px 1px rgba(115, 115, 115, 0.75);
+    -moz-box-shadow: -2px 0px 10px 1px rgba(115, 115, 115, 0.75);
+    box-shadow: -2px 0px 10px 1px rgba(115, 115, 115, 0.75);
+}
+
+.Overlay {
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 100vh;
+}
+
+.NavmenuItem, .NavmenuItemHeading {
+    padding: 10px;
+    border-bottom: 1px solid rgb(150, 150, 150);
+}
+
+.NavmenuItemHeading {
+    font-size: 1.5em;
+    font-weight: bolder;
+}
+
+.Hide {
+    display: none;
+}

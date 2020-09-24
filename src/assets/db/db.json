@@ -328,6 +328,331 @@
         }
     ],
     "barMenu": [
-
+        {
+            "title": "Quick Bites",
+            "description": "",
+            "submenu": [
+                {
+                    "title": "Vegeterian",
+                    "showTitle": true,
+                    "icon": "veg",
+                    "items": [
+                        {
+                            "name": "Crunchy Onion Rings",
+                            "price": 245,
+                            "speciality": "nonveg",
+                            "details": "Crispy fried rings of onion dusted with cajun spice and served with chilli mayo"
+                        },
+                        {
+                            "name": "Tandoori Makhanes",
+                            "price": 245,
+                            "speciality": "veg",
+                            "details": "Puffed lotus seeds tossed in our in house tandoori dry seasoning, served with tzastiki."
+                        }
+                    ]
+                },
+                {
+                    "title": "Non - Vegeterian",
+                    "showTitle": true,
+                    "icon": "nonveg",
+                    "items": [
+                        {
+                            "name": "Crunchy Onion Rings",
+                            "price": 245,
+                            "speciality": "gravityspecial",
+                            "details": "Crispy fried rings of onion dusted with cajun spice and served with chilli mayo"
+                        },
+                        {
+                            "name": "Tandoori Makhanes",
+                            "price": 245,
+                            "speciality": "gravityspecial",
+                            "details": "Puffed lotus seeds tossed in our in house tandoori dry seasoning, served with tzastiki."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Small Plates",
+            "description": "",
+            "submenu": [
+                {
+                    "title": "Vegeterian",
+                    "showTitle": true,
+                    "icon": "veg",
+                    "items": [
+                        {
+                            "name": "Crunchy Onion Rings",
+                            "price": 245,
+                            "speciality": "gravity special",
+                            "details": "Crispy fried rings of onion dusted with cajun spice and served with chilli mayo"
+                        },
+                        {
+                            "name": "Tandoori Makhanes",
+                            "price": 245,
+                            "speciality": "veg",
+                            "details": "Puffed lotus seeds tossed in our in house tandoori dry seasoning, served with tzastiki."
+                        }
+                    ]
+                },
+                {
+                    "title": "Non - Vegeterian",
+                    "showTitle": true,
+                    "icon": "nonveg",
+                    "items": [
+                        {
+                            "name": "Crunchy Onion Rings",
+                            "price": 245,
+                            "speciality": "gravity special",
+                            "details": "Crispy fried rings of onion dusted with cajun spice and served with chilli mayo"
+                        },
+                        {
+                            "name": "Tandoori Makhanes",
+                            "price": 245,
+                            "speciality": "gravity special",
+                            "details": "Puffed lotus seeds tossed in our in house tandoori dry seasoning, served with tzastiki."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Thin Crust Pizza's",
+            "description": "",
+            "submenu": [
+                {
+                    "title": "",
+                    "showTitle": false,
+                    "icon": "veg",
+                    "items": [
+                        {
+                            "name": "Crunchy Onion Rings",
+                            "price": 245,
+                            "speciality": "gravity special",
+                            "details": "Crispy fried rings of onion dusted with cajun spice and served with chilli mayo"
+                        },
+                        {
+                            "name": "Tandoori Makhanes",
+                            "price": 245,
+                            "speciality": "veg",
+                            "details": "Puffed lotus seeds tossed in our in house tandoori dry seasoning, served with tzastiki."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Tibetan Juicy Momos",
+            "description": "",
+            "submenu": [
+                {
+                    "title": "",
+                    "showTitle": false,
+                    "icon": "veg",
+                    "items": [
+                        {
+                            "name": "Crunchy Onion Rings",
+                            "price": 245,
+                            "speciality": "gravity special",
+                            "details": "Crispy fried rings of onion dusted with cajun spice and served with chilli mayo"
+                        },
+                        {
+                            "name": "Tandoori Makhanes",
+                            "price": 245,
+                            "speciality": "",
+                            "details": "Puffed lotus seeds tossed in our in house tandoori dry seasoning, served with tzastiki."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Assorted Platters",
+            "description": "",
+            "submenu": [
+                {
+                    "title": "",
+                    "showTitle": false,
+                    "icon": "veg",
+                    "items": [
+                        {
+                            "name": "Crunchy Onion Rings",
+                            "price": 245,
+                            "speciality": "gravity special",
+                            "details": "Crispy fried rings of onion dusted with cajun spice and served with chilli mayo"
+                        },
+                        {
+                            "name": "Tandoori Makhanes",
+                            "price": 245,
+                            "speciality": "veg",
+                            "details": "Puffed lotus seeds tossed in our in house tandoori dry seasoning, served with tzastiki."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Pasta's",
+            "description": "All pasta’s are served with garlic tartine.\nChoice of Penne & Spaghetti",
+            "submenu": [
+                {
+                    "title": "",
+                    "showTitle": false,
+                    "icon": "veg",
+                    "items": [
+                        {
+                            "name": "Crunchy Onion Rings",
+                            "price": 245,
+                            "speciality": "gravity special",
+                            "details": "Crispy fried rings of onion dusted with cajun spice and served with chilli mayo"
+                        },
+                        {
+                            "name": "Tandoori Makhanes",
+                            "price": 245,
+                            "speciality": "veg",
+                            "details": "Puffed lotus seeds tossed in our in house tandoori dry seasoning, served with tzastiki."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "North Indian Main Course",
+            "description": "",
+            "submenu": [
+                {
+                    "title": "Vegeterian",
+                    "showTitle": true,
+                    "icon": "veg",
+                    "items": [
+                        {
+                            "name": "Crunchy Onion Rings",
+                            "price": 245,
+                            "speciality": "gravity special",
+                            "details": "Crispy fried rings of onion dusted with cajun spice and served with chilli mayo"
+                        },
+                        {
+                            "name": "Tandoori Makhanes",
+                            "price": 245,
+                            "speciality": "veg",
+                            "details": "Puffed lotus seeds tossed in our in house tandoori dry seasoning, served with tzastiki."
+                        }
+                    ]
+                },
+                {
+                    "title": "Non - Vegeterian",
+                    "showTitle": true,
+                    "icon": "nonveg",
+                    "items": [
+                        {
+                            "name": "Crunchy Onion Rings",
+                            "price": 245,
+                            "speciality": "gravity special",
+                            "details": "Crispy fried rings of onion dusted with cajun spice and served with chilli mayo"
+                        },
+                        {
+                            "name": "Tandoori Makhanes",
+                            "price": 245,
+                            "speciality": "gravity special",
+                            "details": "Puffed lotus seeds tossed in our in house tandoori dry seasoning, served with tzastiki."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Oriental Meals",
+            "description": "",
+            "submenu": [
+                {
+                    "title": "Vegeterian",
+                    "showTitle": true,
+                    "icon": "veg",
+                    "items": [
+                        {
+                            "name": "Crunchy Onion Rings",
+                            "price": 245,
+                            "speciality": "gravity special",
+                            "details": "Crispy fried rings of onion dusted with cajun spice and served with chilli mayo"
+                        },
+                        {
+                            "name": "Tandoori Makhanes",
+                            "price": 245,
+                            "speciality": "veg",
+                            "details": "Puffed lotus seeds tossed in our in house tandoori dry seasoning, served with tzastiki."
+                        }
+                    ]
+                },
+                {
+                    "title": "Non - Vegeterian",
+                    "showTitle": true,
+                    "icon": "nonveg",
+                    "items": [
+                        {
+                            "name": "Crunchy Onion Rings",
+                            "price": 245,
+                            "speciality": "gravity special",
+                            "details": "Crispy fried rings of onion dusted with cajun spice and served with chilli mayo"
+                        },
+                        {
+                            "name": "Tandoori Makhanes",
+                            "price": 245,
+                            "speciality": "gravity special",
+                            "details": "Puffed lotus seeds tossed in our in house tandoori dry seasoning, served with tzastiki."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Sides",
+            "description": "",
+            "submenu": [
+                {
+                    "title": "",
+                    "showTitle": false,
+                    "icon": "",
+                    "items": [
+                        {
+                            "name": "Crunchy Onion Rings",
+                            "price": 245,
+                            "speciality": "gravity special",
+                            "details": "Crispy fried rings of onion dusted with cajun spice and served with chilli mayo"
+                        },
+                        {
+                            "name": "Tandoori Makhanes",
+                            "price": 245,
+                            "speciality": "veg",
+                            "details": "Puffed lotus seeds tossed in our in house tandoori dry seasoning, served with tzastiki."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Desserts",
+            "description": "",
+            "submenu": [
+                {
+                    "title": "",
+                    "showTitle": false,
+                    "icon": "",
+                    "items": [
+                        {
+                            "name": "Crunchy Onion Rings",
+                            "price": 245,
+                            "speciality": "gravity special",
+                            "details": "Crispy fried rings of onion dusted with cajun spice and served with chilli mayo"
+                        },
+                        {
+                            "name": "Tandoori Makhanes",
+                            "price": 245,
+                            "speciality": "veg",
+                            "details": "Puffed lotus seeds tossed in our in house tandoori dry seasoning, served with tzastiki."
+                        }
+                    ]
+                }
+            ]
+        }
     ]
 }

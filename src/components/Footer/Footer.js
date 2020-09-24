@@ -6,7 +6,7 @@ import classes from "./Footer.module.css";
 const Footer = () => {
     return <div className={classes.FooterContainer}>
         <p className={classes.FooterText}>All government taxes are applicable & we levy 10% service charge.</p>
-        <img src={GravitySpacebarLogo} width="150" />
+        <img src={GravitySpacebarLogo} width="150" alt="Gravity Spacebar" />
     </div>
 }
 
