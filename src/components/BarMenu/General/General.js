@@ -5,7 +5,7 @@ const GeneralBarMenu = props => {
     return <div className={classes.GeneralMenuContainer}>
         {props.title && <h2 className={classes.Heading}>{props.title}</h2>}
         {(props.items || []).map(item => {
-            return <div className={classes.MenuContainer}>
+            return <div key={item.name} className={classes.MenuContainer}>
                 <div className={classes.ItemRow}>
                     <div className={classes.TitleDetailsContainer}>
                         <h4 className={classes.Title}>{item.name}</h4>

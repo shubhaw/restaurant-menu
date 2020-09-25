@@ -744,6 +744,1228 @@
     ],
     "barMenu": [
         {
+            "title": "Liquor & Spirits",
+            "submenu": [
+                {
+                    "title": "Fresh Beer",
+                    "quantities": [
+                        "330 ml",
+                        "500 ml",
+                        "1.5 l",
+                        "3 l"
+                    ],
+                    "items": [
+                        {
+                            "name": "dark",
+                            "details": [
+                                {
+                                    "quantity": "330 ml",
+                                    "price": 165
+                                },
+                                {
+                                    "quantity": "500 ml",
+                                    "price": 235
+                                },
+                                {
+                                    "quantity": "1.5 Litre",
+                                    "price": 595
+                                },
+                                {
+                                    "quantity": "3 Litre",
+                                    "price": 995
+                                }
+                            ]
+                        },
+                        {
+                            "name": "wheat",
+                            "details": [
+                                {
+                                    "quantity": "330 ml",
+                                    "price": 165
+                                },
+                                {
+                                    "quantity": "500 ml",
+                                    "price": 235
+                                },
+                                {
+                                    "quantity": "1.5 Litre",
+                                    "price": 595
+                                },
+                                {
+                                    "quantity": "3 Litre",
+                                    "price": 995
+                                }
+                            ]
+                        },
+                        {
+                            "name": "special",
+                            "details": [
+                                {
+                                    "quantity": "330 ml",
+                                    "price": 165
+                                },
+                                {
+                                    "quantity": "500 ml",
+                                    "price": 235
+                                },
+                                {
+                                    "quantity": "1.5 Litre",
+                                    "price": 595
+                                },
+                                {
+                                    "quantity": "3 Litre",
+                                    "price": 995
+                                }
+                            ]
+                        },
+                        {
+                            "name": "premium",
+                            "details": [
+                                {
+                                    "quantity": "330 ml",
+                                    "price": 165
+                                },
+                                {
+                                    "quantity": "500 ml",
+                                    "price": 235
+                                },
+                                {
+                                    "quantity": "1.5 Litre",
+                                    "price": 595
+                                },
+                                {
+                                    "quantity": "3 Litre",
+                                    "price": 995
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Aperitifs",
+                    "quantities": [
+                        "30 ml"
+                    ],
+                    "items": [
+                        {
+                            "name": "Martini Rosso",
+                            "details": [
+                                {
+                                    "quantity": "30 ml",
+                                    "price": 275
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Martini Bianco",
+                            "details": [
+                                {
+                                    "quantity": "30 ml",
+                                    "price": 275
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Martini Dry",
+                            "details": [
+                                {
+                                    "quantity": "30 ml",
+                                    "price": 275
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Campari",
+                            "details": [
+                                {
+                                    "quantity": "30 ml",
+                                    "price": 275
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Imported Beer",
+                    "quantities": [
+                        "1 bottle",
+                        "6 bottles",
+                        "12 bottles"
+                    ],
+                    "items": [
+                        {
+                            "name": "Hoegaarden",
+                            "details": [
+                                {
+                                    "quantity": "1 bottle",
+                                    "price": 495
+                                },
+                                {
+                                    "quantity": "6 bottles",
+                                    "price": 2550
+                                },
+                                {
+                                    "quantity": "12 bottles",
+                                    "price": 4900
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Corona",
+                            "details": [
+                                {
+                                    "quantity": "1 bottle",
+                                    "price": 495
+                                },
+                                {
+                                    "quantity": "6 bottles",
+                                    "price": 2550
+                                },
+                                {
+                                    "quantity": "12 bottles",
+                                    "price": 4900
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Vodka",
+                    "quantities": [
+                        "30 ml",
+                        "360 ml",
+                        "bottle"
+                    ],
+                    "items": [
+                        {
+                            "name": "Smirnoff",
+                            "details": [
+                                {
+                                    "quantity": "30 ml",
+                                    "price": 195
+                                },
+                                {
+                                    "quantity": "360 ml",
+                                    "price": 1430
+                                },
+                                {
+                                    "quantity": "bottle",
+                                    "price": 2550
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Absolut Blue",
+                            "details": [
+                                {
+                                    "quantity": "30 ml",
+                                    "price": 295
+                                },
+                                {
+                                    "quantity": "360 ml",
+                                    "price": 2400
+                                },
+                                {
+                                    "quantity": "bottle",
+                                    "price": 4375
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Grey Goose",
+                            "details": [
+                                {
+                                    "quantity": "30 ml",
+                                    "price": 410
+                                },
+                                {
+                                    "quantity": "360 ml",
+                                    "price": 3790
+                                },
+                                {
+                                    "quantity": "bottle",
+                                    "price": 6910
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Ciroc",
+                            "details": [
+                                {
+                                    "quantity": "30 ml",
+                                    "price": 410
+                                },
+                                {
+                                    "quantity": "360 ml",
+                                    "price": 3790
+                                },
+                                {
+                                    "quantity": "bottle",
+                                    "price": 6910
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Gin",
+                    "quantities": [
+                        "30 ml",
+                        "360 ml",
+                        "bottle"
+                    ],
+                    "items": [
+                        {
+                            "name": "Beefeater",
+                            "details": [
+                                {
+                                    "quantity": "30 ml",
+                                    "price": 275
+                                },
+                                {
+                                    "quantity": "360 ml",
+                                    "price": 1800
+                                },
+                                {
+                                    "quantity": "bottle",
+                                    "price": 3000
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Bombay Sapphire",
+                            "details": [
+                                {
+                                    "quantity": "30 ml",
+                                    "price": 325
+                                },
+                                {
+                                    "quantity": "360 ml",
+                                    "price": 2950
+                                },
+                                {
+                                    "quantity": "bottle",
+                                    "price": 5800
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Tanqueray",
+                            "details": [
+                                {
+                                    "quantity": "30 ml",
+                                    "price": 295
+                                },
+                                {
+                                    "quantity": "360 ml",
+                                    "price": 1800
+                                },
+                                {
+                                    "quantity": "bottle",
+                                    "price": 3150
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Tequila",
+                    "quantities": [
+                        "30 ml",
+                        "360 ml",
+                        "bottle"
+                    ],
+                    "items": [
+                        {
+                            "name": "Sauza Silver",
+                            "details": [
+                                {
+                                    "quantity": "30 ml",
+                                    "price": 290
+                                },
+                                {
+                                    "quantity": "360 ml",
+                                    "price": 1150
+                                },
+                                {
+                                    "quantity": "bottle",
+                                    "price": 2250
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Sauza Gold",
+                            "details": [
+                                {
+                                    "quantity": "30 ml",
+                                    "price": 325
+                                },
+                                {
+                                    "quantity": "360 ml",
+                                    "price": 1290
+                                },
+                                {
+                                    "quantity": "bottle",
+                                    "price": 2550
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Pablina Silver",
+                            "details": [
+                                {
+                                    "quantity": "30 ml",
+                                    "price": 290
+                                },
+                                {
+                                    "quantity": "360 ml",
+                                    "price": 1150
+                                },
+                                {
+                                    "quantity": "bottle",
+                                    "price": 2250
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Cognac",
+                    "quantities": [
+                        "30 ml"
+                    ],
+                    "items": [
+                        {
+                            "name": "Martell VS",
+                            "details": [
+                                {
+                                    "quantity": "30 ml",
+                                    "price": 329
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Hennessy VS",
+                            "details": [
+                                {
+                                    "quantity": "30 ml",
+                                    "price": 349
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Liquers",
+                    "quantities": [
+                        "30 ml"
+                    ],
+                    "items": [
+                        {
+                            "name": "Sambuca",
+                            "details": [
+                                {
+                                    "quantity": "30 ml",
+                                    "price": 295
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Kahlua",
+                            "details": [
+                                {
+                                    "quantity": "30 ml",
+                                    "price": 295
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Bailey's",
+                            "details": [
+                                {
+                                    "quantity": "30 ml",
+                                    "price": 295
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Cointreau",
+                            "details": [
+                                {
+                                    "quantity": "30 ml",
+                                    "price": 295
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Absinthe",
+                            "details": [
+                                {
+                                    "quantity": "30 ml",
+                                    "price": 355
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Jagermeister",
+                            "details": [
+                                {
+                                    "quantity": "30 ml",
+                                    "price": 355
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Patron X.O Cafe",
+                            "details": [
+                                {
+                                    "quantity": "30 ml",
+                                    "price": 445
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "White Wine",
+                    "quantities": [
+                        "Glass",
+                        "Bottle"
+                    ],
+                    "items": [
+                        {
+                            "name": "Jacob's Creek chardonnay, Australia",
+                            "details": [
+                                {
+                                    "quantity": "Glass",
+                                    "price": 525
+                                },
+                                {
+                                    "quantity": "Bottle",
+                                    "price": 2400
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Tarapaca sauvignon blac, chile",
+                            "details": [
+                                {
+                                    "quantity": "Glass",
+                                    "price": 525
+                                },
+                                {
+                                    "quantity": "Bottle",
+                                    "price": 2400
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Sula Chenin Blanc",
+                            "details": [
+                                {
+                                    "quantity": "Glass",
+                                    "price": 410
+                                },
+                                {
+                                    "quantity": "Bottle",
+                                    "price": 1750
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Red Wine",
+                    "quantities": [
+                        "Glass",
+                        "Bottle"
+                    ],
+                    "items": [
+                        {
+                            "name": "Jacob's Creek shiraz cabernet, Australia",
+                            "details": [
+                                {
+                                    "quantity": "Glass",
+                                    "price": 525
+                                },
+                                {
+                                    "quantity": "Bottle",
+                                    "price": 2400
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Tarapaca pinot noir, chile",
+                            "details": [
+                                {
+                                    "quantity": "Glass",
+                                    "price": 525
+                                },
+                                {
+                                    "quantity": "Bottle",
+                                    "price": 2400
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Sula shiraz",
+                            "details": [
+                                {
+                                    "quantity": "Glass",
+                                    "price": 410
+                                },
+                                {
+                                    "quantity": "Bottle",
+                                    "price": 1750
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Champagne/Sparkling Wine",
+                    "quantities": [
+                        "Bottle"
+                    ],
+                    "items": [
+                        {
+                            "name": "Sula Brut",
+                            "details": [
+                                {
+                                    "quantity": "Bottle",
+                                    "price": 3000
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Chandon Brut",
+                            "details": [
+                                {
+                                    "quantity": "Bottle",
+                                    "price": 3200
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Moet & Chandon",
+                            "details": [
+                                {
+                                    "quantity": "Bottle",
+                                    "price": 8500
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Single Malt",
+                    "quantities": [
+                        "30 ml",
+                        "360 ml",
+                        "bottle"
+                    ],
+                    "items": [
+                        {
+                            "name": "Glenlivet 12 yrs",
+                            "details": [
+                                {
+                                    "quantity": "30 ml",
+                                    "price": 425
+                                },
+                                {
+                                    "quantity": "360 ml",
+                                    "price": 4480
+                                },
+                                {
+                                    "quantity": "bottle",
+                                    "price": 7400
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Glenfiddich 12 yrs",
+                            "details": [
+                                {
+                                    "quantity": "30 ml",
+                                    "price": 425
+                                },
+                                {
+                                    "quantity": "360 ml",
+                                    "price": 4480
+                                },
+                                {
+                                    "quantity": "bottle",
+                                    "price": 7400
+                                }
+                            ]
+                        },
+                        {
+                            "name": "The single tone 12 yrs",
+                            "details": [
+                                {
+                                    "quantity": "30 ml",
+                                    "price": 425
+                                },
+                                {
+                                    "quantity": "360 ml",
+                                    "price": 4080
+                                },
+                                {
+                                    "quantity": "bottle",
+                                    "price": 7400
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Oban 14 yrs",
+                            "details": [
+                                {
+                                    "quantity": "30 ml",
+                                    "price": 425
+                                },
+                                {
+                                    "quantity": "360 ml",
+                                    "price": 4165
+                                },
+                                {
+                                    "quantity": "bottle",
+                                    "price": 7415
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Balvenie 12 yrs",
+                            "details": [
+                                {
+                                    "quantity": "30 ml",
+                                    "price": 425
+                                },
+                                {
+                                    "quantity": "360 ml",
+                                    "price": 4165
+                                },
+                                {
+                                    "quantity": "bottle",
+                                    "price": 7415
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Glenmorangie 10 yrs",
+                            "details": [
+                                {
+                                    "quantity": "30 ml",
+                                    "price": 475
+                                },
+                                {
+                                    "quantity": "360 ml",
+                                    "price": 4370
+                                },
+                                {
+                                    "quantity": "bottle",
+                                    "price": 7900
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Laphroiag",
+                            "details": [
+                                {
+                                    "quantity": "30 ml",
+                                    "price": 475
+                                },
+                                {
+                                    "quantity": "360 ml",
+                                    "price": 4560
+                                },
+                                {
+                                    "quantity": "bottle",
+                                    "price": 8310
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Talisker 10 yrs",
+                            "details": [
+                                {
+                                    "quantity": "30 ml",
+                                    "price": 475
+                                },
+                                {
+                                    "quantity": "360 ml",
+                                    "price": 4560
+                                },
+                                {
+                                    "quantity": "bottle",
+                                    "price": 8310
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Cardhu",
+                            "details": [
+                                {
+                                    "quantity": "30 ml",
+                                    "price": 475
+                                },
+                                {
+                                    "quantity": "360 ml",
+                                    "price": 4560
+                                },
+                                {
+                                    "quantity": "bottle",
+                                    "price": 8310
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Glenfiddich 15 yrs",
+                            "details": [
+                                {
+                                    "quantity": "30 ml",
+                                    "price": 495
+                                },
+                                {
+                                    "quantity": "360 ml",
+                                    "price": 4750
+                                },
+                                {
+                                    "quantity": "bottle",
+                                    "price": 8660
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Scotch",
+                    "quantities": [
+                        "30 ml",
+                        "360 ml",
+                        "bottle"
+                    ],
+                    "items": [
+                        {
+                            "name": "Dewar's White Label",
+                            "details": [
+                                {
+                                    "quantity": "30 ml",
+                                    "price": 255
+                                },
+                                {
+                                    "quantity": "360 ml",
+                                    "price": 1930
+                                },
+                                {
+                                    "quantity": "bottle",
+                                    "price": 3450
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Johnnie Walker red label",
+                            "details": [
+                                {
+                                    "quantity": "30 ml",
+                                    "price": 299
+                                },
+                                {
+                                    "quantity": "360 ml",
+                                    "price": 2640
+                                },
+                                {
+                                    "quantity": "bottle",
+                                    "price": 4790
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Ballantine's",
+                            "details": [
+                                {
+                                    "quantity": "30 ml",
+                                    "price": 299
+                                },
+                                {
+                                    "quantity": "360 ml",
+                                    "price": 2640
+                                },
+                                {
+                                    "quantity": "bottle",
+                                    "price": 4790
+                                }
+                            ]
+                        },
+                        {
+                            "name": "JW Blck Label",
+                            "details": [
+                                {
+                                    "quantity": "30 ml",
+                                    "price": 375
+                                },
+                                {
+                                    "quantity": "360 ml",
+                                    "price": 3360
+                                },
+                                {
+                                    "quantity": "bottle",
+                                    "price": 5900
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Chivas Regal 12 yrs",
+                            "details": [
+                                {
+                                    "quantity": "30 ml",
+                                    "price": 375
+                                },
+                                {
+                                    "quantity": "360 ml",
+                                    "price": 3360
+                                },
+                                {
+                                    "quantity": "bottle",
+                                    "price": 5900
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Monkey Shoulder",
+                            "details": [
+                                {
+                                    "quantity": "30 ml",
+                                    "price": 455
+                                },
+                                {
+                                    "quantity": "360 ml",
+                                    "price": 3360
+                                },
+                                {
+                                    "quantity": "bottle",
+                                    "price": 5900
+                                }
+                            ]
+                        },
+                        {
+                            "name": "JW Double black",
+                            "details": [
+                                {
+                                    "quantity": "30 ml",
+                                    "price": 455
+                                },
+                                {
+                                    "quantity": "360 ml",
+                                    "price": 4080
+                                },
+                                {
+                                    "quantity": "bottle",
+                                    "price": 7400
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Johnnie walker gold label",
+                            "details": [
+                                {
+                                    "quantity": "30 ml",
+                                    "price": 495
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Chivas Regal 18 yrs",
+                            "details": [
+                                {
+                                    "quantity": "30 ml",
+                                    "price": 550
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Royal Salute",
+                            "details": [
+                                {
+                                    "quantity": "30 ml",
+                                    "price": 999
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Johnnie walker blue label",
+                            "details": [
+                                {
+                                    "quantity": "30 ml",
+                                    "price": 999
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Others",
+                    "quantities": [
+                        "30 ml",
+                        "360 ml",
+                        "bottle"
+                    ],
+                    "items": [
+                        {
+                            "name": "Jack Daniel's",
+                            "details": [
+                                {
+                                    "quantity": "30 ml",
+                                    "price": 375
+                                },
+                                {
+                                    "quantity": "360 ml",
+                                    "price": 3360
+                                },
+                                {
+                                    "quantity": "bottle",
+                                    "price": 5900
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Jameson's irish",
+                            "details": [
+                                {
+                                    "quantity": "30 ml",
+                                    "price": 325
+                                },
+                                {
+                                    "quantity": "360 ml",
+                                    "price": 2830
+                                },
+                                {
+                                    "quantity": "bottle",
+                                    "price": 5160
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Jim Beam",
+                            "details": [
+                                {
+                                    "quantity": "30 ml",
+                                    "price": 255
+                                },
+                                {
+                                    "quantity": "360 ml",
+                                    "price": 1930
+                                },
+                                {
+                                    "quantity": "bottle",
+                                    "price": 3450
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Domestic Whiskey",
+                    "quantities": [
+                        "30 ml",
+                        "360 ml",
+                        "bottle"
+                    ],
+                    "items": [
+                        {
+                            "name": "Teacher's highland",
+                            "details": [
+                                {
+                                    "quantity": "30 ml",
+                                    "price": 255
+                                },
+                                {
+                                    "quantity": "360 ml",
+                                    "price": 1930
+                                },
+                                {
+                                    "quantity": "bottle",
+                                    "price": 2450
+                                }
+                            ]
+                        },
+                        {
+                            "name": "William lawson",
+                            "details": [
+                                {
+                                    "quantity": "30 ml",
+                                    "price": 225
+                                },
+                                {
+                                    "quantity": "360 ml",
+                                    "price": 1775
+                                },
+                                {
+                                    "quantity": "bottle",
+                                    "price": 3150
+                                }
+                            ]
+                        },
+                        {
+                            "name": "100 pipers",
+                            "details": [
+                                {
+                                    "quantity": "30 ml",
+                                    "price": 255
+                                },
+                                {
+                                    "quantity": "360 ml",
+                                    "price": 1930
+                                },
+                                {
+                                    "quantity": "bottle",
+                                    "price": 3450
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Black & white",
+                            "details": [
+                                {
+                                    "quantity": "30 ml",
+                                    "price": 255
+                                },
+                                {
+                                    "quantity": "360 ml",
+                                    "price": 1930
+                                },
+                                {
+                                    "quantity": "bottle",
+                                    "price": 3450
+                                }
+                            ]
+                        },
+                        {
+                            "name": "black dog 8 yrs",
+                            "details": [
+                                {
+                                    "quantity": "30 ml",
+                                    "price": 255
+                                },
+                                {
+                                    "quantity": "360 ml",
+                                    "price": 1930
+                                },
+                                {
+                                    "quantity": "bottle",
+                                    "price": 3450
+                                }
+                            ]
+                        },
+                        {
+                            "name": "100 pipers 12 yrs",
+                            "details": [
+                                {
+                                    "quantity": "30 ml",
+                                    "price": 295
+                                },
+                                {
+                                    "quantity": "360 ml",
+                                    "price": 2310
+                                },
+                                {
+                                    "quantity": "bottle",
+                                    "price": 4790
+                                }
+                            ]
+                        },
+                        {
+                            "name": "black dog triple",
+                            "details": [
+                                {
+                                    "quantity": "30 ml",
+                                    "price": 295
+                                },
+                                {
+                                    "quantity": "360 ml",
+                                    "price": 2640
+                                },
+                                {
+                                    "quantity": "bottle",
+                                    "price": 4790
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Rum",
+                    "quantities": [
+                        "30 ml",
+                        "360 ml",
+                        "bottle"
+                    ],
+                    "items": [
+                        {
+                            "name": "Old Monk",
+                            "details": [
+                                {
+                                    "quantity": "30 ml",
+                                    "price": 175
+                                },
+                                {
+                                    "quantity": "360 ml",
+                                    "price": 1260
+                                },
+                                {
+                                    "quantity": "bottle",
+                                    "price": 2550
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Bacardi superior white",
+                            "details": [
+                                {
+                                    "quantity": "30 ml",
+                                    "price": 225
+                                },
+                                {
+                                    "quantity": "360 ml",
+                                    "price": 1490
+                                },
+                                {
+                                    "quantity": "bottle",
+                                    "price": 2850
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Breezers",
+                    "quantities": [
+                        "1 bottle",
+                        "6 bottles",
+                        " 12 bottles"
+                    ],
+                    "items": [
+                        {
+                            "name": "",
+                            "details": [
+                                {
+                                    "quantity": "1 bottle",
+                                    "price": 235
+                                },
+                                {
+                                    "quantity": "6 bottles",
+                                    "price": 1385
+                                },
+                                {
+                                    "quantity": "12 bottles",
+                                    "price": 2750
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "title": "Cocktails",
             "description": "",
             "submenu": [
@@ -883,15 +2105,18 @@
             "submenu": [
                 {
                     "title": "",
-                    "showTitle": false,
+                    "quantities": [
+                        "1000 ml",
+                        "500 ml"
+                    ],
                     "icon": "",
                     "items": [
                         {
                             "name": "LIIT YEARS AHEAD",
-                            "details": "This legend never runs out of greatness and is conjured up with the right mix of Barcadi, Gin, Vodka, Tequila, Triple Sec, Sweet and Sour, and Coke!",
+                            "description": "This legend never runs out of greatness and is conjured up with the right mix of Barcadi, Gin, Vodka, Tequila, Triple Sec, Sweet and Sour, and Coke!",
                             "speciality": "",
                             "price": "",
-                            "subItems": [
+                            "details": [
                                 {
                                     "quantity": "1000ml",
                                     "price": 955
@@ -904,10 +2129,10 @@
                         },
                         {
                             "name": 42,
-                            "details": "We've managed to capture the meaning of life in our cocktail. This beaut is made of Barcadi, Gin, Vodka, Tequila, Sweet and Sour, Green Tea, Honey, and Red Bull.",
+                            "description": "We've managed to capture the meaning of life in our cocktail. This beaut is made of Barcadi, Gin, Vodka, Tequila, Sweet and Sour, Green Tea, Honey, and Red Bull.",
                             "speciality": "",
                             "price": "",
-                            "subItems": [
+                            "details": [
                                 {
                                     "quantity": "1000ml",
                                     "price": 955
@@ -920,10 +2145,10 @@
                         },
                         {
                             "name": "SMOOTH & EARTHISTIC",
-                            "details": "The perfect antidote to despair is right here made with hope and sunshine along with a little bit of Vodka, Gin, Bacardi, Tequila, Passion Fruit, and Banana Puree.",
+                            "description": "The perfect antidote to despair is right here made with hope and sunshine along with a little bit of Vodka, Gin, Bacardi, Tequila, Passion Fruit, and Banana Puree.",
                             "speciality": "",
                             "price": "",
-                            "subItems": [
+                            "details": [
                                 {
                                     "quantity": "1000ml",
                                     "price": 955
@@ -936,10 +2161,10 @@
                         },
                         {
                             "name": "GRAWITTY",
-                            "details": "The grandmaster is witty and has carefully sealed the answers of the universe in this drink made with Vodka, Bacardi, Gin, Tequila, Cinnamon Syrup, Captain Morgan, and Tea.",
+                            "description": "The grandmaster is witty and has carefully sealed the answers of the universe in this drink made with Vodka, Bacardi, Gin, Tequila, Cinnamon Syrup, Captain Morgan, and Tea.",
                             "speciality": "",
                             "price": "",
-                            "subItems": [
+                            "details": [
                                 {
                                     "quantity": "1000ml",
                                     "price": 955
@@ -991,11 +2216,6 @@
                         {
                             "name": "Jelly Flavours",
                             "details": "Watermelon/4pes\nMango/4pes\nMango/4pes",
-                            "price": 395
-                        },
-                        {
-                            "name": "Jelly Flavours",
-                            "details": "Watermelon/Mango/Strawberry / 4pes",
                             "price": 395
                         }
                     ]

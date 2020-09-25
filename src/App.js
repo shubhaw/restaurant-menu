@@ -18,7 +18,7 @@ function App() {
         if(selectedMainMenu === "barMenu") {
             setAppClass("black");
         } else {
-            setAppClass(`bg${(selectedSubMenuIndex%5)+2}`)
+            setAppClass(`bg${(selectedSubMenuIndex%6)+1}`)
         }
     }, [selectedMainMenu, selectedSubMenuIndex])
     return (
@@ -33,7 +33,10 @@ function App() {
                     foodMenu={data.foodMenu}
                     barMenu={data.barMenu}
                     selectedMenu={selectedMainMenu}
-                    onMainMenuChange={selectedMainMenu => setSelectedMainMenu(selectedMainMenu)}
+                    onMainMenuChange={selectedMainMenu => {
+                        setSelectedMainMenu(selectedMainMenu);
+                        setSelectedSubMenuIndex(0);
+                    }}
                     onSubMenuChange={selectedSubMenuIndex => setSelectedSubMenuIndex(selectedSubMenuIndex)} />
                 <div className="mainBody" onClick={() => setIsSideNavbarOpen(false)}>
                     {selectedMainMenu === "foodMenu" && <Menu {...data.foodMenu[selectedSubMenuIndex]} />}
