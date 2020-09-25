@@ -13,9 +13,16 @@ function App() {
     const [isSideNavbarOpen, setIsSideNavbarOpen] = React.useState(false);
     const [selectedMainMenu, setSelectedMainMenu] = React.useState();
     const [selectedSubMenuIndex, setSelectedSubMenuIndex] = React.useState(0);
-
+    const [appClass, setAppClass] = React.useState("black");
+    React.useEffect(() => {
+        if(selectedMainMenu === "barMenu") {
+            setAppClass("black");
+        } else {
+            setAppClass(`bg${(selectedSubMenuIndex%5)+1}`)
+        }
+    }, [selectedMainMenu, selectedSubMenuIndex])
     return (
-        <div className="app">
+        <div className={appClass}>
             {!selectedMainMenu && <Home setMainMenu={mainMenu => setSelectedMainMenu(mainMenu)} />}
 
             {!!selectedMainMenu && <>
