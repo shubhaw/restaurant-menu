@@ -12,14 +12,44 @@
                         {
                             "name": "Crunchy Onion Rings",
                             "price": 245,
-                            "speciality": "nonveg",
+                            "speciality": "None",
                             "details": "Crispy fried rings of onion dusted with cajun spice and served with chilli mayo"
                         },
                         {
-                            "name": "Tandoori Makhanes",
+                            "name": "Tandoori Makhane",
                             "price": 245,
-                            "speciality": "veg",
-                            "details": "Puffed lotus seeds tossed in our in house tandoori dry seasoning, served with tzastiki."
+                            "speciality": "None",
+                            "details": "Puffed lotus seeds tossed in our in house tandoori dry seasoning, served with tzastik"
+                        },
+                        {
+                            "name": "Achaari Peanut Masala",
+                            "price": 245,
+                            "speciality": "None",
+                            "details": "Salted peanuts tossed with chop onion and tomato salsa, infused with carrot pickle."
+                        },
+                        {
+                            "name": "Peri Peri Corn Chaat",
+                            "price": 265,
+                            "speciality": "None",
+                            "details": "Crispy corns sprinkled with peri peri chaat masala, mixed with chop onion and tomato salsa."
+                        },
+                        {
+                            "name": "Peri Peri French Fries",
+                            "price": 245,
+                            "speciality": "None",
+                            "details": "Served with original mayonnaise"
+                        },
+                        {
+                            "name": "Maggi Masala Fries",
+                            "price": 245,
+                            "speciality": "None",
+                            "details": "Served with original mayonnaise."
+                        },
+                        {
+                            "name": "Cheese garlic bread sticks",
+                            "price": 245,
+                            "speciality": "None",
+                            "details": "Served with chipotle mayonnaise"
                         }
                     ]
                 },
@@ -29,16 +59,45 @@
                     "icon": "nonveg",
                     "items": [
                         {
-                            "name": "Crunchy Onion Rings",
-                            "price": 245,
-                            "speciality": "gravityspecial",
-                            "details": "Crispy fried rings of onion dusted with cajun spice and served with chilli mayo"
+                            "name": "Garlic Bread with Chicken Tikka",
+                            "price": 295,
+                            "speciality": "None"
                         },
                         {
-                            "name": "Tandoori Makhanes",
-                            "price": 245,
-                            "speciality": "gravityspecial",
-                            "details": "Puffed lotus seeds tossed in our in house tandoori dry seasoning, served with tzastiki."
+                            "name": "Extra Hot & Spicy Chicken Popcorn",
+                            "price": 295,
+                            "speciality": "None",
+                            "details": "Served with lemon n garlic mayo"
+                        },
+                        {
+                            "name": "Matthi Canape",
+                            "price": 295,
+                            "speciality": "Gravity Special",
+                            "details": "Pulled smoked chicken, Caramelized onion, fruit preserve"
+                        },
+                        {
+                            "name": "Three Chicken Loaded Fries",
+                            "price": 325,
+                            "speciality": "Spicy",
+                            "details": "Chicken tikka, peri peri chicken & roasted chicken topped over dusted french fries with cheese sauce"
+                        },
+                        {
+                            "name": "Zingy Chicken Rolls",
+                            "price": 325,
+                            "speciality": "None",
+                            "details": "Chicken mince stuffed in roll sheet, fried to golden crisp, served with chilli mayo"
+                        },
+                        {
+                            "name": "Olive Oil Chicken",
+                            "price": 325,
+                            "speciality": "None",
+                            "details": "Chunks of chicken breast tossed in olive oil and spicy seasoning along with exotic vegetables"
+                        },
+                        {
+                            "name": "N2O Battered Chicken Sausage",
+                            "price": 325,
+                            "speciality": "None",
+                            "details": "Served with di jon mustard labneh and chili myo"
                         }
                     ]
                 }
@@ -54,16 +113,94 @@
                     "icon": "veg",
                     "items": [
                         {
-                            "name": "Crunchy Onion Rings",
-                            "price": 245,
-                            "speciality": "gravity special",
-                            "details": "Crispy fried rings of onion dusted with cajun spice and served with chilli mayo"
+                            "name": "Caesar Salad",
+                            "price": 275,
+                            "speciality": "None",
+                            "details": "Chilled ice berg, Creamy caesar dressing, Pesto croutons and tossed vegetables\nAdd on: - Spicy chicken   65/-"
                         },
                         {
-                            "name": "Tandoori Makhanes",
-                            "price": 245,
-                            "speciality": "veg",
-                            "details": "Puffed lotus seeds tossed in our in house tandoori dry seasoning, served with tzastiki."
+                            "name": "Lovely Corns",
+                            "price": 275,
+                            "speciality": "None",
+                            "details": "Crispy corns tossed in chop onion and bell pepper salsa with Szechwan sauce"
+                        },
+                        {
+                            "name": "Duet of Soya Chaap",
+                            "price": 295,
+                            "speciality": "None",
+                            "details": "Achaari and malai soya chaap with shaslik, served with essentials"
+                        },
+                        {
+                            "name": "Chili Cheese rolls",
+                            "price": 295,
+                            "speciality": "None",
+                            "details": "Spring rolled filled with a mixture of assorted cheese, corn and olive tapenade, fried to golden crisp and served with dipping sauce."
+                        },
+                        {
+                            "name": "Palak Patta Mille Fieulle",
+                            "price": 295,
+                            "speciality": "Gravity Special",
+                            "details": "Battered fried spinach leaves, Sweetened yogurt mousse, Nylon sev and Pomegranate"
+                        },
+                        {
+                            "name": "Bhelpuri Bar",
+                            "price": 295,
+                            "speciality": "Gravity Special",
+                            "details": "Duo of apples & fried potatoes, meethi dahi granita and pomegranate pearls"
+                        },
+                        {
+                            "name": "Pao Bhaji Mollete",
+                            "price": 295,
+                            "speciality": "Gravity Special",
+                            "details": "Bombay style vegetable mash, Salted chili, Smoked scarmoza melt"
+                        },
+                        {
+                            "name": "Magic Quesadilla",
+                            "price": 295,
+                            "speciality": "None",
+                            "details": "Exotic vegetable masala, Cajun rice, Lehsuni sour cream"
+                        },
+                        {
+                            "name": "Bharwan Dahi Kebab",
+                            "price": 295,
+                            "speciality": "None",
+                            "details": "Orange marmalade and jalapeno stuffed dahi ke kebab, served with essentials"
+                        },
+                        {
+                            "name": "Exotic Mushroom Croquette",
+                            "price": 295,
+                            "speciality": "None",
+                            "details": "Served with fries and lemon n garlic aioli"
+                        },
+                        {
+                            "name": "Old School Chili Paneer",
+                            "price": 315,
+                            "speciality": "Double Spicy",
+                            "details": "Indo Chinese cottage cheese"
+                        },
+                        {
+                            "name": "Trinity of Paneer Tikka",
+                            "price": 325,
+                            "speciality": "None",
+                            "details": "Saffron methi malai, Garlic & kashmiri chili, Basil pesto paneer tikka, Served with side salad and chutney"
+                        },
+                        {
+                            "name": "Chermoula Cottage Cheese Skewers",
+                            "price": 325,
+                            "speciality": "None",
+                            "details": "Served with basil pesto mayo"
+                        },
+                        {
+                            "name": "Stuffed Tandoori Mushrooms",
+                            "price": 325,
+                            "speciality": "None",
+                            "details": "Spinach and corn stuffed charcoal roasted mushrooms, served with essentials"
+                        },
+                        {
+                            "name": "Obsessive Nachos",
+                            "price": 335,
+                            "speciality": "None",
+                            "details": "Three cheese melt, tomato salsa, Burani sour cream\nAdd on: - Pulled BBQ chicken   65/-"
                         }
                     ]
                 },
@@ -73,16 +210,94 @@
                     "icon": "nonveg",
                     "items": [
                         {
-                            "name": "Crunchy Onion Rings",
-                            "price": 245,
-                            "speciality": "gravity special",
-                            "details": "Crispy fried rings of onion dusted with cajun spice and served with chilli mayo"
+                            "name": "Country Style Fried chicken Strips",
+                            "price": 345,
+                            "speciality": "None",
+                            "details": "Flaky chicken strips, breaded, fried to golden crisp and served with tomato salsa"
                         },
                         {
-                            "name": "Tandoori Makhanes",
-                            "price": 245,
-                            "speciality": "gravity special",
-                            "details": "Puffed lotus seeds tossed in our in house tandoori dry seasoning, served with tzastiki."
+                            "name": "Peri Peri Chicken Seekh",
+                            "price": 375,
+                            "speciality": "None",
+                            "details": "Chicken mince infused with peri peri spice, roasted in clay oven, served with side salad and chutney."
+                        },
+                        {
+                            "name": "Chicken Shawarma Tikka",
+                            "price": 395,
+                            "speciality": "None",
+                            "details": "Served with hummus, tzastiki and pita chips"
+                        },
+                        {
+                            "name": "Irani Chicken Tikka",
+                            "price": 395,
+                            "speciality": "None",
+                            "details": "Amul cheese sauce coated murgh malai tikka, served with essentials."
+                        },
+                        {
+                            "name": "Black Pepper Chicken",
+                            "price": 395,
+                            "speciality": "None",
+                            "details": "Crispy chicken tossed in house made black pepper sauce along with onion, bell peppers and spring onion"
+                        },
+                        {
+                            "name": "Malai Chicken Brucshetta",
+                            "price": 395,
+                            "speciality": "None",
+                            "details": "Garlic bread, malai chicken rilette, andhra tomato chutney, garlic crumbs."
+                        },
+                        {
+                            "name": "Kung Pao Chicken Sausage",
+                            "price": 395,
+                            "speciality": "None",
+                            "details": "Hot dog sausage prepared in kung pao chicken style."
+                        },
+                        {
+                            "name": "Good Old Chili chicken",
+                            "price": 395,
+                            "speciality": "Double Spicy",
+                            "details": "Indo Chinese chicken"
+                        },
+                        {
+                            "name": "Roasted Tandoori Chicken",
+                            "price": 395,
+                            "speciality": "None",
+                            "details": "Half portion, served with essentials"
+                        },
+                        {
+                            "name": "Jama Masjid’s Chicken Tikka",
+                            "price": 395,
+                            "speciality": "Spicy",
+                            "details": "Tandoori Chicken tikka, Butter & cream emulsion, Chuntey & pyaaz"
+                        },
+                        {
+                            "name": "Amritsari or Ajwaini Fish Tikka",
+                            "price": 445,
+                            "speciality": "None",
+                            "details": "Good old classic recipe, served with side salad and green chutney"
+                        },
+                        {
+                            "name": "Dragon Fish Finger",
+                            "price": 445,
+                            "speciality": "None",
+                            "details": "Served with tartar sauce, dusted french fries and szechwan chutney."
+                        },
+                        {
+                            "name": "Keema Ghotala Pao",
+                            "price": 445,
+                            "speciality": "None",
+                            "details": "Fragrant lamb mince topped with soft fried egg, served with maska pao and chutney onion rings."
+                        },
+                        {
+                            "name": "Bae’s Lamb Chop",
+                            "price": 525,
+                            "speciality": "Gravity Special",
+                            "details": "Braised Indian lamb chops, masala creme, in house chutneys."
+                        },
+                        {
+                            "name": "Prawn Salt n Pepper",
+                            "price": 545,
+                            "speciality": "None",
+                            "details": "Tempura prawns tossed in salt n pepper style"
                         }
                     ]
                 }
@@ -98,16 +313,54 @@
                     "icon": "veg",
                     "items": [
                         {
-                            "name": "Crunchy Onion Rings",
-                            "price": 245,
-                            "speciality": "gravity special",
-                            "details": "Crispy fried rings of onion dusted with cajun spice and served with chilli mayo"
+                            "name": "Margarita",
+                            "price": 395,
+                            "speciality": "Veg"
                         },
                         {
-                            "name": "Tandoori Makhanes",
-                            "price": 245,
-                            "speciality": "veg",
-                            "details": "Puffed lotus seeds tossed in our in house tandoori dry seasoning, served with tzastiki."
+                            "name": "Thai Style Grilled Vegetables",
+                            "price": 425,
+                            "speciality": "Veg"
+                        },
+                        {
+                            "name": "Paneer Tikka Masala, onion, tomato, and green chili",
+                            "price": 425,
+                            "speciality": "Veg"
+                        },
+                        {
+                            "name": "Roasted peppers, onion, mushrooms and corn",
+                            "price": 425,
+                            "speciality": "Veg"
+                        },
+                        {
+                            "name": "Overloaded",
+                            "price": 455,
+                            "speciality": "Veg"
+                        },
+                        {
+                            "name": "Chicken Tikka Masala, onion, tomato, green chili",
+                            "price": 475,
+                            "speciality": "Non - Veg"
+                        },
+                        {
+                            "name": "Paprika chicken, mushroom, fresh thyme",
+                            "price": 475,
+                            "speciality": "Non - Veg"
+                        },
+                        {
+                            "name": "Chicken malai tikka, Jalapeno, Trio of peppers",
+                            "price": 475,
+                            "speciality": "Non - Veg"
+                        },
+                        {
+                            "name": "Chicken sausage, roasted peppers, green chili, corn",
+                            "price": 475,
+                            "speciality": "Non - Veg"
+                        },
+                        {
+                            "name": "Mutton keema, sliced onion, jalapeno, fresh coriander",
+                            "price": 495,
+                            "speciality": "Non - Veg"
                         }
                     ]
                 }
@@ -115,24 +368,32 @@
         },
         {
             "title": "Tibetan Juicy Momos",
-            "description": "",
+            "description": "Vegeterian / Chicken      275/ 345",
             "submenu": [
                 {
                     "title": "",
                     "showTitle": false,
-                    "icon": "veg",
+                    "icon": "",
                     "items": [
                         {
-                            "name": "Crunchy Onion Rings",
-                            "price": 245,
-                            "speciality": "gravity special",
-                            "details": "Crispy fried rings of onion dusted with cajun spice and served with chilli mayo"
+                            "name": "Steam Momo",
+                            "speciality": "None",
+                            "details": "Served with szechwan chutney and chilli mayo"
                         },
                         {
-                            "name": "Tandoori Makhanes",
-                            "price": 245,
-                            "speciality": "",
-                            "details": "Puffed lotus seeds tossed in our in house tandoori dry seasoning, served with tzastiki."
+                            "name": "Latpate Tandoori Momo",
+                            "speciality": "None",
+                            "details": "Served with side salad and hot garlic sauce"
+                        },
+                        {
+                            "name": "Butter garlic Momo",
+                            "speciality": "None",
+                            "details": "Served with hot garlic sauce"
+                        },
+                        {
+                            "name": "Pan fried Momo",
+                            "speciality": "None",
+                            "details": "Served with hot garlic sauce and chilli mayo"
                         }
                     ]
                 }
@@ -143,21 +404,40 @@
             "description": "",
             "submenu": [
                 {
-                    "title": "",
-                    "showTitle": false,
+                    "title": "Vegeterian",
+                    "showTitle": true,
                     "icon": "veg",
                     "items": [
                         {
-                            "name": "Crunchy Onion Rings",
-                            "price": 245,
-                            "speciality": "gravity special",
-                            "details": "Crispy fried rings of onion dusted with cajun spice and served with chilli mayo"
+                            "name": "Veg Chinese Platter",
+                            "price": 795,
+                            "speciality": "None",
+                            "details": "Cheese chilli rolls, Dry Manchurian, Chili paneer and Lovely Corns. Served with a side portion of hakka noodle and hot garlic sauce"
                         },
                         {
-                            "name": "Tandoori Makhanes",
-                            "price": 245,
-                            "speciality": "veg",
-                            "details": "Puffed lotus seeds tossed in our in house tandoori dry seasoning, served with tzastiki."
+                            "name": "Veg Tandoori Platter",
+                            "price": 795,
+                            "speciality": "None",
+                            "details": "Trio of panner tikka, Tandoori momos, Tandoori mushrooms, Palak & corn seekh kebab and Blackened kebab. Served with side salad, garlic naan and green chutney"
+                        }
+                    ]
+                },
+                {
+                    "title": "Non - Vegeterian",
+                    "showTitle": true,
+                    "icon": "nonveg",
+                    "items": [
+                        {
+                            "name": "Non Veg Chinese Platter",
+                            "price": 895,
+                            "speciality": "None",
+                            "details": "Zingy chicken rolls, Chicken manchurian, Chili chicken and Dragon fish finger. Served with a side portion of egg hakka noodle and hot garlic sauce"
+                        },
+                        {
+                            "name": "Non Veg Tandoori Platter",
+                            "price": 895,
+                            "speciality": "None",
+                            "details": "Jama Masjid chicken tikka, Murgh Malai Tikka, Peri peri chicken seekh kebab and Ajwaini fish tikka. Served with side salad, garlic naan and green chutney"
                         }
                     ]
                 }
@@ -170,19 +450,37 @@
                 {
                     "title": "",
                     "showTitle": false,
-                    "icon": "veg",
+                    "icon": "",
                     "items": [
                         {
-                            "name": "Crunchy Onion Rings",
-                            "price": 245,
-                            "speciality": "gravity special",
-                            "details": "Crispy fried rings of onion dusted with cajun spice and served with chilli mayo"
+                            "name": "Aglio Olio Peperoncino",
+                            "price": 365,
+                            "speciality": "None",
+                            "details": "Roasted garlic flakes, Olive oil emulsion, Parmesan crumb"
                         },
                         {
-                            "name": "Tandoori Makhanes",
-                            "price": 245,
-                            "speciality": "veg",
-                            "details": "Puffed lotus seeds tossed in our in house tandoori dry seasoning, served with tzastiki."
+                            "name": "Puttanesa",
+                            "price": 395,
+                            "speciality": "None",
+                            "details": "Fiery tomato sauce, Duo of olives, Sun dried tomato"
+                        },
+                        {
+                            "name": "Creamy Parmesan",
+                            "price": 395,
+                            "speciality": "None",
+                            "details": "Fresh herbs spiked bechamel, Exotic vegetables, Jalapeno puree"
+                        },
+                        {
+                            "name": "Creamy Mushroom Alfredo",
+                            "price": 395,
+                            "speciality": "None",
+                            "details": "White sauce with lots of mushrooms"
+                        },
+                        {
+                            "name": "Chicken and Mushroom",
+                            "price": 405,
+                            "speciality": "Non - Veg",
+                            "details": "Succulent chicken thighs, button mushrooms, Tomato and cream sauce"
                         }
                     ]
                 }
@@ -198,16 +496,56 @@
                     "icon": "veg",
                     "items": [
                         {
-                            "name": "Crunchy Onion Rings",
-                            "price": 245,
-                            "speciality": "gravity special",
-                            "details": "Crispy fried rings of onion dusted with cajun spice and served with chilli mayo"
+                            "name": "Dal Makhani",
+                            "price": 325,
+                            "speciality": "None"
                         },
                         {
-                            "name": "Tandoori Makhanes",
-                            "price": 245,
-                            "speciality": "veg",
-                            "details": "Puffed lotus seeds tossed in our in house tandoori dry seasoning, served with tzastiki."
+                            "name": "Paneer Tikka Butter Masala",
+                            "price": 375,
+                            "speciality": "None"
+                        },
+                        {
+                            "name": "Jalapeno Kadhai Paneer",
+                            "price": 375,
+                            "speciality": "None"
+                        },
+                        {
+                            "name": "Cheesy Paneer Lababdar",
+                            "price": 375,
+                            "speciality": "None"
+                        },
+                        {
+                            "name": "Butter Paneer Makhani",
+                            "price": 375,
+                            "speciality": "None"
+                        },
+                        {
+                            "name": "Palak Paneer",
+                            "price": 375,
+                            "speciality": "None"
+                        },
+                        {
+                            "name": "Mixed Vegetable Kadhai",
+                            "price": 345,
+                            "speciality": "None"
+                        },
+                        {
+                            "name": "Mushroom, Corn & Peas Masala",
+                            "price": 345,
+                            "speciality": "None"
+                        },
+                        {
+                            "name": "Mixed Vegetable Biryani",
+                            "price": 395,
+                            "speciality": "None",
+                            "details": "Served with burani raita"
+                        },
+                        {
+                            "name": "Paneer Makhani Biryani",
+                            "price": 395,
+                            "speciality": "None",
+                            "details": "Served with burani raita"
                         }
                     ]
                 },
@@ -217,16 +555,57 @@
                     "icon": "nonveg",
                     "items": [
                         {
-                            "name": "Crunchy Onion Rings",
-                            "price": 245,
-                            "speciality": "gravity special",
-                            "details": "Crispy fried rings of onion dusted with cajun spice and served with chilli mayo"
+                            "name": "Butter Chicken",
+                            "price": 395,
+                            "speciality": "None"
                         },
                         {
-                            "name": "Tandoori Makhanes",
-                            "price": 245,
-                            "speciality": "gravity special",
-                            "details": "Puffed lotus seeds tossed in our in house tandoori dry seasoning, served with tzastiki."
+                            "name": "Cheesy Chicken Lababdar",
+                            "price": 395,
+                            "speciality": "None"
+                        },
+                        {
+                            "name": "Jalapeno Kadhai Chicken",
+                            "price": 395,
+                            "speciality": "None"
+                        },
+                        {
+                            "name": "Chicken Rara",
+                            "price": 395,
+                            "speciality": "None"
+                        },
+                        {
+                            "name": "Chicken Tikka Butter Masala",
+                            "price": 395,
+                            "speciality": "None"
+                        },
+                        {
+                            "name": "Mutton Rogan Josh",
+                            "price": 475,
+                            "speciality": "None"
+                        },
+                        {
+                            "name": "Mutton Rara",
+                            "price": 475,
+                            "speciality": "None"
+                        },
+                        {
+                            "name": "Awadhi Chicken Biryani",
+                            "price": 435,
+                            "speciality": "None",
+                            "details": "Served with burani raita"
+                        },
+                        {
+                            "name": "Chicken Rara Biryani",
+                            "price": 435,
+                            "speciality": "None",
+                            "details": "Served with burani raita"
+                        },
+                        {
+                            "name": "Mutton Rara Biryani",
+                            "price": 495,
+                            "speciality": "None",
+                            "details": "Served with burani raita"
                         }
                     ]
                 }
@@ -242,16 +621,19 @@
                     "icon": "veg",
                     "items": [
                         {
-                            "name": "Crunchy Onion Rings",
-                            "price": 245,
-                            "speciality": "gravity special",
-                            "details": "Crispy fried rings of onion dusted with cajun spice and served with chilli mayo"
+                            "name": "Manchurian",
+                            "price": 465,
+                            "speciality": "None"
                         },
                         {
-                            "name": "Tandoori Makhanes",
-                            "price": 245,
-                            "speciality": "veg",
-                            "details": "Puffed lotus seeds tossed in our in house tandoori dry seasoning, served with tzastiki."
+                            "name": "Chili Paneer",
+                            "price": 465,
+                            "speciality": "Double Spicy"
+                        },
+                        {
+                            "name": "Hot garlic and lemon grass sauce",
+                            "price": 465,
+                            "speciality": "Spicy"
                         }
                     ]
                 },
@@ -261,16 +643,19 @@
                     "icon": "nonveg",
                     "items": [
                         {
-                            "name": "Crunchy Onion Rings",
-                            "price": 245,
-                            "speciality": "gravity special",
-                            "details": "Crispy fried rings of onion dusted with cajun spice and served with chilli mayo"
+                            "name": "Chili Chicken",
+                            "price": 495,
+                            "speciality": "Double Spicy"
                         },
                         {
-                            "name": "Tandoori Makhanes",
-                            "price": 245,
-                            "speciality": "gravity special",
-                            "details": "Puffed lotus seeds tossed in our in house tandoori dry seasoning, served with tzastiki."
+                            "name": "Chicken Manchurian",
+                            "price": 495,
+                            "speciality": "None"
+                        },
+                        {
+                            "name": "Hot garlic and lemon grass sauce",
+                            "price": 495,
+                            "speciality": "Spicy"
                         }
                     ]
                 }
@@ -286,16 +671,34 @@
                     "icon": "",
                     "items": [
                         {
-                            "name": "Crunchy Onion Rings",
-                            "price": 245,
-                            "speciality": "gravity special",
-                            "details": "Crispy fried rings of onion dusted with cajun spice and served with chilli mayo"
+                            "name": "Roti / Butter Roti / Garlic Butter Roti",
+                            "price": "35/ 45 /55",
+                            "speciality": "None"
                         },
                         {
-                            "name": "Tandoori Makhanes",
-                            "price": 245,
-                            "speciality": "veg",
-                            "details": "Puffed lotus seeds tossed in our in house tandoori dry seasoning, served with tzastiki."
+                            "name": "Plain naan / Butter naan/ Garlic Naan",
+                            "price": "65/ 75/ 85",
+                            "speciality": "None"
+                        },
+                        {
+                            "name": "Laccha Parantha / Mirchi Parantha/ Garlic Laccha Parantha",
+                            "price": "65/ 75/ 85",
+                            "speciality": "None"
+                        },
+                        {
+                            "name": "Burani Raita",
+                            "price": 95,
+                            "speciality": "None"
+                        },
+                        {
+                            "name": "Green Salad",
+                            "price": 125,
+                            "speciality": "None"
+                        },
+                        {
+                            "name": "Steam Rice",
+                            "price": 155,
+                            "speciality": "None"
                         }
                     ]
                 }
@@ -311,16 +714,21 @@
                     "icon": "",
                     "items": [
                         {
-                            "name": "Crunchy Onion Rings",
-                            "price": 245,
-                            "speciality": "gravity special",
-                            "details": "Crispy fried rings of onion dusted with cajun spice and served with chilli mayo"
+                            "name": "Caramel Brownie Tower",
+                            "price": 325,
+                            "speciality": "Gravity Special",
+                            "details": "Caramel popcorn , Dark chocolate brownie, Hot chocolate"
                         },
                         {
-                            "name": "Tandoori Makhanes",
-                            "price": 245,
-                            "speciality": "veg",
-                            "details": "Puffed lotus seeds tossed in our in house tandoori dry seasoning, served with tzastiki."
+                            "name": "Hot Gulab Jamun with Paan Ice Cream",
+                            "price": 165,
+                            "speciality": "None"
+                        },
+                        {
+                            "name": "Hot Chocolate Fudge",
+                            "price": 265,
+                            "speciality": "None",
+                            "details": "Jumbo scoops of vanilla ice cream poured with hot chocolate sauce, wafer stick, assorted nuts and caramel choora"
                         }
                     ]
                 }
@@ -329,7 +737,7 @@
     ],
     "barMenu": [
         {
-            "title": "Quick Bites",
+            "title": "Desi Daru",
             "description": "",
             "submenu": [
                 {
@@ -340,14 +748,44 @@
                         {
                             "name": "Crunchy Onion Rings",
                             "price": 245,
-                            "speciality": "nonveg",
+                            "speciality": "None",
                             "details": "Crispy fried rings of onion dusted with cajun spice and served with chilli mayo"
                         },
                         {
-                            "name": "Tandoori Makhanes",
+                            "name": "Tandoori Makhane",
                             "price": 245,
-                            "speciality": "veg",
-                            "details": "Puffed lotus seeds tossed in our in house tandoori dry seasoning, served with tzastiki."
+                            "speciality": "None",
+                            "details": "Puffed lotus seeds tossed in our in house tandoori dry seasoning, served with tzastik"
+                        },
+                        {
+                            "name": "Achaari Peanut Masala",
+                            "price": 245,
+                            "speciality": "None",
+                            "details": "Salted peanuts tossed with chop onion and tomato salsa, infused with carrot pickle."
+                        },
+                        {
+                            "name": "Peri Peri Corn Chaat",
+                            "price": 265,
+                            "speciality": "None",
+                            "details": "Crispy corns sprinkled with peri peri chaat masala, mixed with chop onion and tomato salsa."
+                        },
+                        {
+                            "name": "Peri Peri French Fries",
+                            "price": 245,
+                            "speciality": "None",
+                            "details": "Served with original mayonnaise"
+                        },
+                        {
+                            "name": "Maggi Masala Fries",
+                            "price": 245,
+                            "speciality": "None",
+                            "details": "Served with original mayonnaise."
+                        },
+                        {
+                            "name": "Cheese garlic bread sticks",
+                            "price": 245,
+                            "speciality": "None",
+                            "details": "Served with chipotle mayonnaise"
                         }
                     ]
                 },
@@ -357,16 +795,45 @@
                     "icon": "nonveg",
                     "items": [
                         {
-                            "name": "Crunchy Onion Rings",
-                            "price": 245,
-                            "speciality": "gravityspecial",
-                            "details": "Crispy fried rings of onion dusted with cajun spice and served with chilli mayo"
+                            "name": "Garlic Bread with Chicken Tikka",
+                            "price": 295,
+                            "speciality": "None"
                         },
                         {
-                            "name": "Tandoori Makhanes",
-                            "price": 245,
-                            "speciality": "gravityspecial",
-                            "details": "Puffed lotus seeds tossed in our in house tandoori dry seasoning, served with tzastiki."
+                            "name": "Extra Hot & Spicy Chicken Popcorn",
+                            "price": 295,
+                            "speciality": "None",
+                            "details": "Served with lemon n garlic mayo"
+                        },
+                        {
+                            "name": "Matthi Canape",
+                            "price": 295,
+                            "speciality": "Gravity Special",
+                            "details": "Pulled smoked chicken, Caramelized onion, fruit preserve"
+                        },
+                        {
+                            "name": "Three Chicken Loaded Fries",
+                            "price": 325,
+                            "speciality": "Spicy",
+                            "details": "Chicken tikka, peri peri chicken & roasted chicken topped over dusted french fries with cheese sauce"
+                        },
+                        {
+                            "name": "Zingy Chicken Rolls",
+                            "price": 325,
+                            "speciality": "None",
+                            "details": "Chicken mince stuffed in roll sheet, fried to golden crisp, served with chilli mayo"
+                        },
+                        {
+                            "name": "Olive Oil Chicken",
+                            "price": 325,
+                            "speciality": "None",
+                            "details": "Chunks of chicken breast tossed in olive oil and spicy seasoning along with exotic vegetables"
+                        },
+                        {
+                            "name": "N2O Battered Chicken Sausage",
+                            "price": 325,
+                            "speciality": "None",
+                            "details": "Served with di jon mustard labneh and chili myo"
                         }
                     ]
                 }

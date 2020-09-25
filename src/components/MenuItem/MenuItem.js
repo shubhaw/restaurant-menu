@@ -11,19 +11,19 @@ const MenuItem = props => {
     const [icon, setIcon] = React.useState();
     React.useEffect(() => {
         switch(props.speciality) {
-            case "veg":
+            case "Veg":
                 setIcon(VegIcon);
                 break;
-            case "nonveg":
+            case "Non - Veg":
                 setIcon(NonVegIcon);
                 break;
-            case "gravityspecial":
+            case "Gravity Special":
                 setIcon(GravitySpecialIcon);
                 break;
-            case "spicy": 
+            case "Spicy": 
                 setIcon(SpicyIcon);
                 break;
-            case "doublespicy":
+            case "Double Spicy":
                 setIcon(DoubleSpicyIcon);
                 break;
             default:
@@ -34,7 +34,7 @@ const MenuItem = props => {
         <div className={classes.MenuItemTitle}>
             <div>{props.name}</div>
             <div>{props.price}</div>
-            {props.speciality && <img src={icon} alt={props.speciality} width="15" height="15" />}
+            {props.speciality !== "None" && <img src={icon} alt={props.speciality} width="15" height="15" />}
         </div>
         <div className={classes.MenuItemDescription}>{props.details}</div>
     </div>
