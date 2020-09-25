@@ -308,59 +308,66 @@
             "description": "",
             "submenu": [
                 {
-                    "title": "",
-                    "showTitle": false,
+                    "title": "Vegeterian",
+                    "showTitle": true,
                     "icon": "veg",
                     "items": [
                         {
                             "name": "Margarita",
                             "price": 395,
-                            "speciality": "Veg"
+                            "speciality": ""
                         },
                         {
                             "name": "Thai Style Grilled Vegetables",
                             "price": 425,
-                            "speciality": "Veg"
+                            "speciality": ""
                         },
                         {
                             "name": "Paneer Tikka Masala, onion, tomato, and green chili",
                             "price": 425,
-                            "speciality": "Veg"
+                            "speciality": ""
                         },
                         {
                             "name": "Roasted peppers, onion, mushrooms and corn",
                             "price": 425,
-                            "speciality": "Veg"
+                            "speciality": ""
                         },
                         {
                             "name": "Overloaded",
                             "price": 455,
-                            "speciality": "Veg"
-                        },
+                            "speciality": ""
+                        }
+                    ]
+                },
+                {
+                    "title": "Non - Vegeterian",
+                    "showTitle": true,
+                    "icon": "nonveg",
+                    "items": [
                         {
                             "name": "Chicken Tikka Masala, onion, tomato, green chili",
                             "price": 475,
-                            "speciality": "Non - Veg"
+                            "speciality": ""
                         },
                         {
                             "name": "Paprika chicken, mushroom, fresh thyme",
                             "price": 475,
-                            "speciality": "Non - Veg"
+                            "speciality": ""
                         },
                         {
                             "name": "Chicken malai tikka, Jalapeno, Trio of peppers",
                             "price": 475,
-                            "speciality": "Non - Veg"
+                            "speciality": ""
                         },
                         {
                             "name": "Chicken sausage, roasted peppers, green chili, corn",
                             "price": 475,
-                            "speciality": "Non - Veg"
+                            "speciality": ""
                         },
                         {
                             "name": "Mutton keema, sliced onion, jalapeno, fresh coriander",
                             "price": 495,
-                            "speciality": "Non - Veg"
+                            "speciality": ""
                         }
                     ]
                 }
@@ -613,7 +620,7 @@
         },
         {
             "title": "Oriental Meals",
-            "description": "",
+            "description": "All meals are served with either the choice of Garlic Hakka Noodles or Garlic Fried Rice and Kimchi Salad.",
             "submenu": [
                 {
                     "title": "Vegeterian",

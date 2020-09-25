@@ -5,6 +5,16 @@
 }
 
 .MenuItemTitle {
+    display: flex;
     font-family: 'Orbitron', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-transform: uppercase;
+    font-weight: bold;
+    font-size: 1.2em;
+    margin-bottom: 30px;
+    justify-content: center;
+}
+
+.MenuItemTitleIcon {
+    margin-top: 3px;
+    margin-left: 15px;
 }

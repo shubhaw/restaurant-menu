@@ -35,7 +35,7 @@ function App() {
                     selectedMenu={selectedMainMenu}
                     onMainMenuChange={selectedMainMenu => setSelectedMainMenu(selectedMainMenu)}
                     onSubMenuChange={selectedSubMenuIndex => setSelectedSubMenuIndex(selectedSubMenuIndex)} />
-                <div onClick={() => setIsSideNavbarOpen(false)}>
+                <div className="mainBody" onClick={() => setIsSideNavbarOpen(false)}>
                     {selectedMainMenu === "foodMenu" && <Menu {...data.foodMenu[selectedSubMenuIndex]} />}
                     {/* {selectedMainMenu === "barMenu" && <Menu {...data.barMenu[selectedSubMenuIndex]} />} */}
                     {selectedMainMenu === "barMenu" && <BarMenu {...data.barMenu[selectedSubMenuIndex]} />}

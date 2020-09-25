@@ -4,8 +4,8 @@ import MenuItemsBox from "../MenuItemsBox/MenuItemsBox";
 
 const Menu = props => {
     return <div>
-        <h2 className={classes.title}>{props.title}</h2>
-        {props.description && <p>{props.description}</p>}
+        <h2 className={classes.Title}>{props.title}</h2>
+        {props.description && <p className={classes.Description}>{props.description}</p>}
         {
             props.submenu && props.submenu.map((submenu, index) => <MenuItemsBox key={index} {...submenu} />)
         }

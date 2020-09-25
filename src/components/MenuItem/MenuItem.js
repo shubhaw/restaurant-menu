@@ -33,7 +33,7 @@ const MenuItem = props => {
         <div className={classes.MenuItemTitle}>
             <div>{props.name}</div>
             <div>{props.price}</div>
-            {props.speciality !== "None" && props.speciality !== "Double Spicy" && <img src={icon} alt={props.speciality} width="15" height="15" />}
+            {props.speciality !== "None" && props.speciality !== "" && props.speciality !== "Double Spicy" && <img src={icon} alt={props.speciality} width="15" height="15" />}
             {props.speciality === "Double Spicy" && <img src={icon} alt={props.speciality} width="32" height="15" />}
         </div>
         <div className={classes.MenuItemDescription}>{props.details}</div>

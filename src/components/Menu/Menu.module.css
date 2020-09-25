@@ -1,5 +1,15 @@
-.title {
+.Title {
     text-transform: uppercase;
     color: #DAA202;
     font-family: 'Orbitron', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.Description {
+    text-transform: uppercase;
+    font-family: 'Orbitron', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: rgba(50, 50, 50, 0.7);
+    padding: 20px;
+    margin: 20px;
+    letter-spacing: 0.2em;
+    font-size: 0.9em;
 }
