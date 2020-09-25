@@ -1,14 +1,10 @@
-.bg1, .bg2, .bg3, .bg4, .bg5, .black {
+.bg2, .bg3, .bg4, .bg5, .bg6, .black {
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
     text-align: center;
     overflow: hidden;
     min-height: 100vh;
-}
-
-.bg1 {
-    background-image: url("./assets/images/bg1.jpg");
 }
 
 .bg2 {
@@ -25,6 +21,10 @@
 
 .bg5 {
     background-image: url("./assets/images/bg5.jpg");
+}
+
+.bg6 {
+    background-image: url("./assets/images/bg6.jpg");
 }
 
 .black {

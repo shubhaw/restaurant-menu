@@ -9,12 +9,6 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-
-  /* background: url("./assets/images/bg1.JPG") no-repeat;
-  background-size: cover;
-  background-position: center;
-  background-attachment: fixed; */
-  background-color: black;
   color: white
 }
 

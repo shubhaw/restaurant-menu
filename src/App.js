@@ -18,7 +18,7 @@ function App() {
         if(selectedMainMenu === "barMenu") {
             setAppClass("black");
         } else {
-            setAppClass(`bg${(selectedSubMenuIndex%5)+1}`)
+            setAppClass(`bg${(selectedSubMenuIndex%5)+2}`)
         }
     }, [selectedMainMenu, selectedSubMenuIndex])
     return (
