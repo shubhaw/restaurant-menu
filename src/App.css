@@ -42,3 +42,17 @@
     justify-content: space-between;
     min-height: calc(100vh - 70px);
 }
+
+@media (hover: none) {
+    .bg1, .bg2, .bg3, .bg4, .bg5, .bg6, .black {
+        background-position: 0 0;
+    }
+    .bg1:before, .bg2:before, .bg3:before, .bg4:before, .bg5:before, .bg6:before, .black:before {
+        content: "";
+        background-image: inherit;
+        position: fixed;
+        top: 0;
+        left: 0;
+        z-index: -1;
+    }
+}
