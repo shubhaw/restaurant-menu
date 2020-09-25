@@ -7,8 +7,12 @@
 
 .MenuItemTitle {
     display: flex;
-    column-gap: 1em;
+    /* column-gap: 1em; */
     justify-content: center;
+}
+
+.MenuItemTitle > div {
+    margin-right: 1em;
 }
 
 .MenuItemDescription {

@@ -6,28 +6,33 @@ import Footer from './components/Footer/Footer';
 import Toolbar from './components/Toolbar/Toolbar';
 import SideNavbar from './components/SideNavbar/SideNavbar';
 import MakeData from './components/MakeData';
+import Home from './components/Home/Home';
 
 function App() {
     const [isSideNavbarOpen, setIsSideNavbarOpen] = React.useState(false);
-    const [selectedMainMenu, setSelectedMainMenu] = React.useState("foodMenu");
+    const [selectedMainMenu, setSelectedMainMenu] = React.useState();
     const [selectedSubMenuIndex, setSelectedSubMenuIndex] = React.useState(0);
-    
+
     return (
         <div className="app">
-            <Toolbar onMenuIconClick={() => setIsSideNavbarOpen(true)} />
-            <MakeData />
-            <SideNavbar open={isSideNavbarOpen}
-                closeSideNavbar={() => setIsSideNavbarOpen(false)}
-                foodMenu={data.foodMenu}
-                barMenu={data.barMenu}
-                selectedMenu={selectedMainMenu}
-                onMainMenuChange={selectedMainMenu => setSelectedMainMenu(selectedMainMenu)}
-                onSubMenuChange={selectedSubMenuIndex => setSelectedSubMenuIndex(selectedSubMenuIndex)} />
-            <div onClick={() => setIsSideNavbarOpen(false)}>
-                {selectedMainMenu === "foodMenu" && <Menu { ...data.foodMenu[selectedSubMenuIndex] } />}
-                {selectedMainMenu === "barMenu" && <Menu { ...data.barMenu[selectedSubMenuIndex] } />}
-                <Footer />
-            </div>
+            {!selectedMainMenu && <Home setMainMenu={mainMenu => setSelectedMainMenu(mainMenu)} />}
+
+            {!!selectedMainMenu && <>
+                <Toolbar onLogoClick={() => setSelectedMainMenu()} onMenuIconClick={() => setIsSideNavbarOpen(true)} />
+                <MakeData />
+                <SideNavbar open={isSideNavbarOpen}
+                    closeSideNavbar={() => setIsSideNavbarOpen(false)}
+                    foodMenu={data.foodMenu}
+                    barMenu={data.barMenu}
+                    selectedMenu={selectedMainMenu}
+                    onMainMenuChange={selectedMainMenu => setSelectedMainMenu(selectedMainMenu)}
+                    onSubMenuChange={selectedSubMenuIndex => setSelectedSubMenuIndex(selectedSubMenuIndex)} />
+                <div onClick={() => setIsSideNavbarOpen(false)}>
+                    {selectedMainMenu === "foodMenu" && <Menu {...data.foodMenu[selectedSubMenuIndex]} />}
+                    {selectedMainMenu === "barMenu" && <Menu {...data.barMenu[selectedSubMenuIndex]} />}
+                    <Footer />
+                </div>
+            </>}
         </div>
     );
 }

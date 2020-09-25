@@ -1,0 +1,27 @@
+.HomeContainer {
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+    background-color: #0F0F0F;
+    height: 100vh;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.SpaceFilling {
+    height: 20vh;
+    /* border: 5px red solid; */
+}
+
+.ButtonsDiv {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 100px;
+}
+
+.Button {
+    padding: 20px;
+    width: 200px;
+    font-family: 'Orbitron', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-stretch: ultra-expanded;
+}
