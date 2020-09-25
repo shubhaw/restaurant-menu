@@ -737,385 +737,418 @@
     ],
     "barMenu": [
         {
-            "title": "Desi Daru",
+            "title": "Cocktails",
             "description": "",
             "submenu": [
                 {
-                    "title": "Vegeterian",
-                    "showTitle": true,
+                    "title": "",
+                    "showTitle": false,
                     "icon": "veg",
                     "items": [
                         {
-                            "name": "Crunchy Onion Rings",
-                            "price": 245,
-                            "speciality": "None",
-                            "details": "Crispy fried rings of onion dusted with cajun spice and served with chilli mayo"
+                            "name": "Eureka!",
+                            "details": "Combining the smoothness Jim Beam, a dash of Sweet & Sour with Pinneaple flavour, a pinch of Egg White, donned with the seduction of Red Wine!",
+                            "price": 375
                         },
                         {
-                            "name": "Tandoori Makhane",
-                            "price": 245,
-                            "speciality": "None",
-                            "details": "Puffed lotus seeds tossed in our in house tandoori dry seasoning, served with tzastik"
+                            "name": "Blood Moon",
+                            "details": "A cocktail that brings out ravishing red conjured up with the combo of Beetroot, Carrot, and Cinnamon, topped with essence of Lime.",
+                            "price": 375
                         },
                         {
-                            "name": "Achaari Peanut Masala",
-                            "price": 245,
-                            "speciality": "None",
-                            "details": "Salted peanuts tossed with chop onion and tomato salsa, infused with carrot pickle."
+                            "name": "A Space Odyssey",
+                            "details": "UnEarth the undiscovered truths of the universe with a cocktail made of Triple Sec, Orange Juice, Turmeric, and Chilli Salt Trim.",
+                            "price": 375
                         },
                         {
-                            "name": "Peri Peri Corn Chaat",
-                            "price": 265,
-                            "speciality": "None",
-                            "details": "Crispy corns sprinkled with peri peri chaat masala, mixed with chop onion and tomato salsa."
+                            "name": "Stardust",
+                            "details": "We recreate the cosmos in your cocktail with Vodka, fresh Strawberry, Betal Leaves, Sweet & Sour, and Candy Flower.",
+                            "price": 375
                         },
                         {
-                            "name": "Peri Peri French Fries",
-                            "price": 245,
-                            "speciality": "None",
-                            "details": "Served with original mayonnaise"
+                            "name": "Footprints on the Moon",
+                            "details": "Thi Crazy cocktail made with Vodka, Red Wine, Basil Leaves, Sweet & Sour, Basil Syrup, Clove, and Coke might leave you feeling higher than you've ever been!",
+                            "price": 375
                         },
                         {
-                            "name": "Maggi Masala Fries",
-                            "price": 245,
-                            "speciality": "None",
-                            "details": "Served with original mayonnaise."
+                            "name": "Ale the way to Space!",
+                            "details": "The perfect cocktail made with the magical portion of Jack Daniels, Lime Juice, Ginger Ale, Triple Sec, and Ginger is here to let that trippy feeling kick in.",
+                            "price": 395
                         },
                         {
-                            "name": "Cheese garlic bread sticks",
-                            "price": 245,
-                            "speciality": "None",
-                            "details": "Served with chipotle mayonnaise"
+                            "name": "Dark Matter",
+                            "details": "This one's as dark as the beginning of the Big Bang! All beautiful and chaotic blended with Bacardi, Kala Khatta Syrup, Sweet & Sour, and some Coke.",
+                            "price": 375
+                        },
+                        {
+                            "name": "Axistence",
+                            "details": "Orbiting in our axis of daily life gets pretty mundane. So, shake it up with a cocktail that is made of a dramatic mix of Vodka, Sweet & Sour, Fresh Ginger, and Lemongrass.",
+                            "price": 375
+                        },
+                        {
+                            "name": "Lime Space Continuum",
+                            "details": "And all the banter gets even more interesting with a crazy cocktail created with the magic of Gin, Martini Rosso, Kafir Lime, Lime Juice, and Sugar.",
+                            "price": 375
+                        },
+                        {
+                            "name": "Sunsational",
+                            "details": "A rich yellow that gives you a high so mellow; made with the right proportions of Bacardi, Ripe Banana, Pinneapple Juice, Banana Juice Puree, and Cardamom Powder.",
+                            "price": 375
+                        },
+                        {
+                            "name": "The Big Bang Theory",
+                            "details": "It all started with a big bang of Gin, Earl Grey Tea, Honey, and Lavender Syrup. The truth of the universe is concentrated in this ecstatic cocktail!",
+                            "price": 375
+                        },
+                        {
+                            "name": "Ginesis",
+                            "details": "Truly oriGINal in it taste, this cocktail made with Gin, Rasberry, Sweet & Sour, and Egg White establishes a state of pure bliss and cultivates a following of its own.",
+                            "price": 375
                         }
                     ]
                 },
                 {
-                    "title": "Non - Vegeterian",
+                    "title": "Classic",
                     "showTitle": true,
-                    "icon": "nonveg",
+                    "icon": "",
                     "items": [
                         {
-                            "name": "Garlic Bread with Chicken Tikka",
-                            "price": 295,
+                            "name": "Rocketful of Sunshine",
+                            "details": "Your all time favourite MOJITO made with the goodness of Bacardi, Mint Leaves, Lemon Chunks, Brown Sugar, Lime Juice, Soda, Sprite, and Monin Mint Syrup.",
+                            "price": 325,
+                            "pitcherPrice": 1499
+                        },
+                        {
+                            "name": "Plutonic Love",
+                            "details": "The classic OLD-FASHIONED cocktail you can always go back to back; made with Jim Beam, Orange Peel, Angostura Bitters, and White Sugar.",
+                            "price": 325
+                        },
+                        {
+                            "name": "Marsgarita",
+                            "details": "The porpular MARGARITA always stealing the show; made with Tequila, Triple Sec, and Lime Juice.",
+                            "price": 325,
+                            "pitcherPrice": 1499
+                        },
+                        {
+                            "name": "The Big Bang",
+                            "details": "All the fun starts here with the WHISKEY SOUR, made with Jim Beam, Egg White, and Sweet & Sour.",
+                            "price": 325
+                        },
+                        {
+                            "name": "Bloody Marry-Go-Round",
+                            "details": "Get tipsy when your BLOODY MARY made of Vodka, Tomato Juice, Celery Salt, Worcestershiresauce, Tabasco, and Black Pepper unleashes the thrill!",
+                            "price": 325
+                        },
+                        {
+                            "name": "Cosmospolitan",
+                            "details": "When Vodka, Triple Sec, Cranberry Juice, and Lime Juice come together, you experience the entire cosmos in a drink!",
+                            "price": 325
+                        },
+                        {
+                            "name": "Stargasm",
+                            "details": "Your SEX-ON-THE-BEACH is only more rewarding when in space; made with Vodka, Peach Syrup, Lime Juice, Orange Juice, and Cranberry Juice.",
+                            "price": 325
+                        },
+                        {
+                            "name": "Ball of Fire",
+                            "details": "That craxy MELON BALL never stops to enthral; made with Vodka, Midori, Orange Juice, and Pinneapple Juice.",
+                            "price": 325
+                        },
+                        {
+                            "name": "The God Particle",
+                            "details": "Never gets old, RED WINE SANGRIA!",
+                            "price": 425,
+                            "pitcherPrice": 1999
+                        },
+                        {
+                            "name": "Paradise Restored",
+                            "details": "WHITE WINE SANGRIA to restore your faith in the brewniverse!",
+                            "price": 425,
+                            "pitcherPrice": 1999
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Litts",
+            "description": "",
+            "submenu": [
+                {
+                    "title": "",
+                    "showTitle": false,
+                    "icon": "",
+                    "items": [
+                        {
+                            "name": "LIIT YEARS AHEAD",
+                            "details": "This legend never runs out of greatness and is conjured up with the right mix of Barcadi, Gin, Vodka, Tequila, Triple Sec, Sweet and Sour, and Coke!",
+                            "speciality": "",
+                            "price": "",
+                            "subItems": [
+                                {
+                                    "quantity": "1000ml",
+                                    "price": 955
+                                },
+                                {
+                                    "quantity": "500ml",
+                                    "price": 655
+                                }
+                            ]
+                        },
+                        {
+                            "name": 42,
+                            "details": "We've managed to capture the meaning of life in our cocktail. This beaut is made of Barcadi, Gin, Vodka, Tequila, Sweet and Sour, Green Tea, Honey, and Red Bull.",
+                            "speciality": "",
+                            "price": "",
+                            "subItems": [
+                                {
+                                    "quantity": "1000ml",
+                                    "price": 955
+                                },
+                                {
+                                    "quantity": "500ml",
+                                    "price": 655
+                                }
+                            ]
+                        },
+                        {
+                            "name": "SMOOTH & EARTHISTIC",
+                            "details": "The perfect antidote to despair is right here made with hope and sunshine along with a little bit of Vodka, Gin, Bacardi, Tequila, Passion Fruit, and Banana Puree.",
+                            "speciality": "",
+                            "price": "",
+                            "subItems": [
+                                {
+                                    "quantity": "1000ml",
+                                    "price": 955
+                                },
+                                {
+                                    "quantity": "500ml",
+                                    "price": 655
+                                }
+                            ]
+                        },
+                        {
+                            "name": "GRAWITTY",
+                            "details": "The grandmaster is witty and has carefully sealed the answers of the universe in this drink made with Vodka, Bacardi, Gin, Tequila, Cinnamon Syrup, Captain Morgan, and Tea.",
+                            "speciality": "",
+                            "price": "",
+                            "subItems": [
+                                {
+                                    "quantity": "1000ml",
+                                    "price": 955
+                                },
+                                {
+                                    "quantity": "500ml",
+                                    "price": 655
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Shots",
+            "description": "",
+            "submenu": [
+                {
+                    "title": "",
+                    "showTitle": false,
+                    "icon": "veg",
+                    "items": [
+                        {
+                            "name": "Jager Bomb",
+                            "details": "Jagermeister, Red Bull",
+                            "price": 375
+                        },
+                        {
+                            "name": "Jelly Fish",
+                            "details": "Grenadine, Sambuca, Baileys, Blue Curacao",
+                            "price": 395
+                        },
+                        {
+                            "name": "Flaming Bomb Marly",
+                            "details": "Grenadine, Bacardi, Cream De Menthe, Banana Liquor",
+                            "price": 395
+                        },
+                        {
+                            "name": "Sliperry Nippel",
+                            "details": "Sambuca, Baileys, Cherry",
+                            "price": 395
+                        },
+                        {
+                            "name": "Blow Job",
+                            "details": "Amaeretto, Kahlija, Baileys, Whipped",
+                            "price": 395
+                        },
+                        {
+                            "name": "Jelly Flavours",
+                            "details": "Watermelon/4pes\nMango/4pes\nMango/4pes",
+                            "price": 395
+                        },
+                        {
+                            "name": "Jelly Flavours",
+                            "details": "Watermelon/Mango/Strawberry / 4pes",
+                            "price": 395
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Mocktails",
+            "description": "",
+            "submenu": [
+                {
+                    "title": "",
+                    "showTitle": false,
+                    "icon": "",
+                    "items": [
+                        {
+                            "name": "WHY SO SIRIUS?",
+                            "details": "Named after a star system, this is your favourite Apple Cinnamon Mojito made with fresh Mint, fresh Lemon chunks, Lime juice, Mint Syrup, and Cinnamon.",
+                            "price": 195,
                             "speciality": "None"
                         },
                         {
-                            "name": "Extra Hot & Spicy Chicken Popcorn",
-                            "price": 295,
-                            "speciality": "None",
-                            "details": "Served with lemon n garlic mayo"
+                            "name": "JEDI HIGH COUNCIL",
+                            "details": "Keeping a check on your saas with this tasteful drink made with fresh Apple chunks, Basil leaves, Chaat Masala, Apple Juice, Lime Juice, and Basil Syrup.",
+                            "price": 225,
+                            "speciality": "None"
                         },
                         {
-                            "name": "Matthi Canape",
-                            "price": 295,
-                            "speciality": "Gravity Special",
-                            "details": "Pulled smoked chicken, Caramelized onion, fruit preserve"
+                            "name": "YODA-LICIOUS!",
+                            "details": "Give wisdom a chance! Lemon Juice, Beetroot, Chaat Masala, Black Salt, and Sugar make it happen.",
+                            "price": 255,
+                            "speciality": "None"
                         },
                         {
-                            "name": "Three Chicken Loaded Fries",
-                            "price": 325,
-                            "speciality": "Spicy",
-                            "details": "Chicken tikka, peri peri chicken & roasted chicken topped over dusted french fries with cheese sauce"
+                            "name": "GUIDE TO THE GALAXY #101",
+                            "details": "Fresh Carrots, Orange Juice, Orange Crush, and Soda blend together to take you on a trip to the universe!",
+                            "price": 255,
+                            "speciality": "None"
                         },
                         {
-                            "name": "Zingy Chicken Rolls",
-                            "price": 325,
-                            "speciality": "None",
-                            "details": "Chicken mince stuffed in roll sheet, fried to golden crisp, served with chilli mayo"
+                            "name": "STRING THEORY",
+                            "details": "This one looks beautiful with a complex miz of colors; made with fresh Watermelon, Orange Chunks, Chaat Masala, fresh Mint, Sweet and Sour, Orange Juice, and Watermelon Syrup.",
+                            "price": 225,
+                            "speciality": "None"
                         },
                         {
-                            "name": "Olive Oil Chicken",
-                            "price": 325,
-                            "speciality": "None",
-                            "details": "Chunks of chicken breast tossed in olive oil and spicy seasoning along with exotic vegetables"
-                        },
-                        {
-                            "name": "N2O Battered Chicken Sausage",
-                            "price": 325,
-                            "speciality": "None",
-                            "details": "Served with di jon mustard labneh and chili myo"
+                            "name": "DELTA OF VENUS",
+                            "details": "Instantly fall in love with this one; made with fresh Orange chunks, Pomegranate Seeds, Chaat Masala, and Sprite!",
+                            "price": 255,
+                            "speciality": "None"
                         }
                     ]
                 }
             ]
         },
         {
-            "title": "Small Plates",
+            "title": "Shakes & Soft Drinks",
             "description": "",
             "submenu": [
                 {
-                    "title": "Vegeterian",
+                    "title": "Shakes",
                     "showTitle": true,
-                    "icon": "veg",
-                    "items": [
-                        {
-                            "name": "Crunchy Onion Rings",
-                            "price": 245,
-                            "speciality": "gravity special",
-                            "details": "Crispy fried rings of onion dusted with cajun spice and served with chilli mayo"
-                        },
-                        {
-                            "name": "Tandoori Makhanes",
-                            "price": 245,
-                            "speciality": "veg",
-                            "details": "Puffed lotus seeds tossed in our in house tandoori dry seasoning, served with tzastiki."
-                        }
-                    ]
-                },
-                {
-                    "title": "Non - Vegeterian",
-                    "showTitle": true,
-                    "icon": "nonveg",
-                    "items": [
-                        {
-                            "name": "Crunchy Onion Rings",
-                            "price": 245,
-                            "speciality": "gravity special",
-                            "details": "Crispy fried rings of onion dusted with cajun spice and served with chilli mayo"
-                        },
-                        {
-                            "name": "Tandoori Makhanes",
-                            "price": 245,
-                            "speciality": "gravity special",
-                            "details": "Puffed lotus seeds tossed in our in house tandoori dry seasoning, served with tzastiki."
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Thin Crust Pizza's",
-            "description": "",
-            "submenu": [
-                {
-                    "title": "",
-                    "showTitle": false,
-                    "icon": "veg",
-                    "items": [
-                        {
-                            "name": "Crunchy Onion Rings",
-                            "price": 245,
-                            "speciality": "gravity special",
-                            "details": "Crispy fried rings of onion dusted with cajun spice and served with chilli mayo"
-                        },
-                        {
-                            "name": "Tandoori Makhanes",
-                            "price": 245,
-                            "speciality": "veg",
-                            "details": "Puffed lotus seeds tossed in our in house tandoori dry seasoning, served with tzastiki."
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Tibetan Juicy Momos",
-            "description": "",
-            "submenu": [
-                {
-                    "title": "",
-                    "showTitle": false,
-                    "icon": "veg",
-                    "items": [
-                        {
-                            "name": "Crunchy Onion Rings",
-                            "price": 245,
-                            "speciality": "gravity special",
-                            "details": "Crispy fried rings of onion dusted with cajun spice and served with chilli mayo"
-                        },
-                        {
-                            "name": "Tandoori Makhanes",
-                            "price": 245,
-                            "speciality": "",
-                            "details": "Puffed lotus seeds tossed in our in house tandoori dry seasoning, served with tzastiki."
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Assorted Platters",
-            "description": "",
-            "submenu": [
-                {
-                    "title": "",
-                    "showTitle": false,
-                    "icon": "veg",
-                    "items": [
-                        {
-                            "name": "Crunchy Onion Rings",
-                            "price": 245,
-                            "speciality": "gravity special",
-                            "details": "Crispy fried rings of onion dusted with cajun spice and served with chilli mayo"
-                        },
-                        {
-                            "name": "Tandoori Makhanes",
-                            "price": 245,
-                            "speciality": "veg",
-                            "details": "Puffed lotus seeds tossed in our in house tandoori dry seasoning, served with tzastiki."
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Pasta's",
-            "description": "All pasta’s are served with garlic tartine.\nChoice of Penne & Spaghetti",
-            "submenu": [
-                {
-                    "title": "",
-                    "showTitle": false,
-                    "icon": "veg",
-                    "items": [
-                        {
-                            "name": "Crunchy Onion Rings",
-                            "price": 245,
-                            "speciality": "gravity special",
-                            "details": "Crispy fried rings of onion dusted with cajun spice and served with chilli mayo"
-                        },
-                        {
-                            "name": "Tandoori Makhanes",
-                            "price": 245,
-                            "speciality": "veg",
-                            "details": "Puffed lotus seeds tossed in our in house tandoori dry seasoning, served with tzastiki."
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "North Indian Main Course",
-            "description": "",
-            "submenu": [
-                {
-                    "title": "Vegeterian",
-                    "showTitle": true,
-                    "icon": "veg",
-                    "items": [
-                        {
-                            "name": "Crunchy Onion Rings",
-                            "price": 245,
-                            "speciality": "gravity special",
-                            "details": "Crispy fried rings of onion dusted with cajun spice and served with chilli mayo"
-                        },
-                        {
-                            "name": "Tandoori Makhanes",
-                            "price": 245,
-                            "speciality": "veg",
-                            "details": "Puffed lotus seeds tossed in our in house tandoori dry seasoning, served with tzastiki."
-                        }
-                    ]
-                },
-                {
-                    "title": "Non - Vegeterian",
-                    "showTitle": true,
-                    "icon": "nonveg",
-                    "items": [
-                        {
-                            "name": "Crunchy Onion Rings",
-                            "price": 245,
-                            "speciality": "gravity special",
-                            "details": "Crispy fried rings of onion dusted with cajun spice and served with chilli mayo"
-                        },
-                        {
-                            "name": "Tandoori Makhanes",
-                            "price": 245,
-                            "speciality": "gravity special",
-                            "details": "Puffed lotus seeds tossed in our in house tandoori dry seasoning, served with tzastiki."
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Oriental Meals",
-            "description": "",
-            "submenu": [
-                {
-                    "title": "Vegeterian",
-                    "showTitle": true,
-                    "icon": "veg",
-                    "items": [
-                        {
-                            "name": "Crunchy Onion Rings",
-                            "price": 245,
-                            "speciality": "gravity special",
-                            "details": "Crispy fried rings of onion dusted with cajun spice and served with chilli mayo"
-                        },
-                        {
-                            "name": "Tandoori Makhanes",
-                            "price": 245,
-                            "speciality": "veg",
-                            "details": "Puffed lotus seeds tossed in our in house tandoori dry seasoning, served with tzastiki."
-                        }
-                    ]
-                },
-                {
-                    "title": "Non - Vegeterian",
-                    "showTitle": true,
-                    "icon": "nonveg",
-                    "items": [
-                        {
-                            "name": "Crunchy Onion Rings",
-                            "price": 245,
-                            "speciality": "gravity special",
-                            "details": "Crispy fried rings of onion dusted with cajun spice and served with chilli mayo"
-                        },
-                        {
-                            "name": "Tandoori Makhanes",
-                            "price": 245,
-                            "speciality": "gravity special",
-                            "details": "Puffed lotus seeds tossed in our in house tandoori dry seasoning, served with tzastiki."
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "title": "Sides",
-            "description": "",
-            "submenu": [
-                {
-                    "title": "",
-                    "showTitle": false,
                     "icon": "",
                     "items": [
                         {
-                            "name": "Crunchy Onion Rings",
-                            "price": 245,
-                            "speciality": "gravity special",
-                            "details": "Crispy fried rings of onion dusted with cajun spice and served with chilli mayo"
+                            "name": "Tiramisu",
+                            "price": 195,
+                            "details": "",
+                            "speciality": ""
                         },
                         {
-                            "name": "Tandoori Makhanes",
-                            "price": 245,
-                            "speciality": "veg",
-                            "details": "Puffed lotus seeds tossed in our in house tandoori dry seasoning, served with tzastiki."
+                            "name": "Caramel & Peanut Butter",
+                            "price": 195,
+                            "details": "",
+                            "speciality": ""
+                        },
+                        {
+                            "name": "Classic Chocolate Oreo",
+                            "price": 195,
+                            "details": "",
+                            "speciality": ""
+                        },
+                        {
+                            "name": "Nutella & Banana",
+                            "price": 195,
+                            "details": "",
+                            "speciality": ""
+                        },
+                        {
+                            "name": "Mix Berry",
+                            "price": 195,
+                            "details": "",
+                            "speciality": ""
                         }
                     ]
-                }
-            ]
-        },
-        {
-            "title": "Desserts",
-            "description": "",
-            "submenu": [
+                },
                 {
-                    "title": "",
-                    "showTitle": false,
+                    "title": "Aerated Drinks",
+                    "showTitle": true,
                     "icon": "",
                     "items": [
                         {
-                            "name": "Crunchy Onion Rings",
-                            "price": 245,
-                            "speciality": "gravity special",
-                            "details": "Crispy fried rings of onion dusted with cajun spice and served with chilli mayo"
+                            "name": "Iced Tea Ask for the flavour",
+                            "price": 155,
+                            "details": "",
+                            "speciality": ""
                         },
                         {
-                            "name": "Tandoori Makhanes",
-                            "price": 245,
-                            "speciality": "veg",
-                            "details": "Puffed lotus seeds tossed in our in house tandoori dry seasoning, served with tzastiki."
+                            "name": "Cold Coffee",
+                            "price": 175,
+                            "details": "",
+                            "speciality": ""
+                        },
+                        {
+                            "name": "Fresh Lime Soda & Water",
+                            "price": 120,
+                            "details": "",
+                            "speciality": ""
+                        },
+                        {
+                            "name": "Red Bull",
+                            "price": 195,
+                            "details": "",
+                            "speciality": ""
+                        },
+                        {
+                            "name": "Tonic Water",
+                            "price": 100,
+                            "details": "",
+                            "speciality": ""
+                        },
+                        {
+                            "name": "Ginger & Ale",
+                            "price": 100,
+                            "details": "",
+                            "speciality": ""
+                        },
+                        {
+                            "name": "Diet Coke",
+                            "price": 100,
+                            "details": "",
+                            "speciality": ""
+                        },
+                        {
+                            "name": "Aerated Drink",
+                            "price": 95,
+                            "details": "",
+                            "speciality": ""
+                        },
+                        {
+                            "name": "Bottle Water",
+                            "price": 55,
+                            "details": "",
+                            "speciality": ""
+                        },
+                        {
+                            "name": "Canned Juice",
+                            "price": 120,
+                            "details": "",
+                            "speciality": ""
                         }
                     ]
                 }

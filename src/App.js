@@ -7,6 +7,7 @@ import Toolbar from './components/Toolbar/Toolbar';
 import SideNavbar from './components/SideNavbar/SideNavbar';
 import MakeData from './components/MakeData';
 import Home from './components/Home/Home';
+import BarMenu from './components/BarMenu/BarMenu';
 
 function App() {
     const [isSideNavbarOpen, setIsSideNavbarOpen] = React.useState(false);
@@ -29,7 +30,8 @@ function App() {
                     onSubMenuChange={selectedSubMenuIndex => setSelectedSubMenuIndex(selectedSubMenuIndex)} />
                 <div onClick={() => setIsSideNavbarOpen(false)}>
                     {selectedMainMenu === "foodMenu" && <Menu {...data.foodMenu[selectedSubMenuIndex]} />}
-                    {selectedMainMenu === "barMenu" && <Menu {...data.barMenu[selectedSubMenuIndex]} />}
+                    {/* {selectedMainMenu === "barMenu" && <Menu {...data.barMenu[selectedSubMenuIndex]} />} */}
+                    {selectedMainMenu === "barMenu" && <BarMenu {...data.barMenu[selectedSubMenuIndex]} />}
                     <Footer />
                 </div>
             </>}

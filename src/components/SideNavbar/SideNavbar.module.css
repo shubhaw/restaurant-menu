@@ -29,6 +29,10 @@
     border-bottom: 1px solid rgb(150, 150, 150);
 }
 
+.NavmenuItem {
+    font-size: 0.8em;
+}
+
 .NavmenuItemHeading {
     font-size: 1.5em;
     font-weight: bolder;

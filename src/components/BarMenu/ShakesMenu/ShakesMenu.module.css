@@ -1,0 +1,8 @@
+.ShakesMenuContainer {
+    display: flex;
+    flex-direction: column;
+}
+
+.ItemRow {
+    display: flex;
+}

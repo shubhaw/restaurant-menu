@@ -1,0 +1,49 @@
+.GeneralMenuContainer {
+    background-color: rgba(255, 255, 255, 0.1);
+    margin: 20px;
+    padding: 20px;
+    padding-bottom: 0px;
+}
+
+.Heading {
+    text-transform: uppercase;
+    font-family: 'Orbitron', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 40px;
+    margin-top: 0px;
+}
+
+.MenuContainer {
+    display: flex;
+    flex-direction: column;
+    list-style: circle;
+}
+
+.ItemRow {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.TitleDetailsContainer {
+    margin-right: 30px;
+    text-align: left;
+}
+
+.Title {
+    font-size: 1.1em;
+    text-transform: uppercase;
+    /* text-decoration: underline; */
+    color: rgb(0, 153, 255);
+    margin: 0 auto;
+    padding: 0 auto;
+}
+
+.Details {
+    font-size: small;
+}
+
+.Price {
+    font-size: 1.1em;
+    font-weight: bold;
+    text-align: right;
+}

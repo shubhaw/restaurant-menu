@@ -1,775 +1,933 @@
-[
-    {
-      "Category": "Quick Bites",
-      "Sub Category": "Vegeterian",
-      "Item Name": "Crunchy Onion Rings",
-      "Item Price": 245,
-      "Item Details": "Crispy fried rings of onion dusted with cajun spice and served with chilli mayo",
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "Quick Bites",
-      "Sub Category": "Vegeterian",
-      "Item Name": "Tandoori Makhane",
-      "Item Price": 245,
-      "Item Details": "Puffed lotus seeds tossed in our in house tandoori dry seasoning, served with tzastik",
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "Quick Bites",
-      "Sub Category": "Vegeterian",
-      "Item Name": "Achaari Peanut Masala",
-      "Item Price": 245,
-      "Item Details": "Salted peanuts tossed with chop onion and tomato salsa, infused with carrot pickle.",
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "Quick Bites",
-      "Sub Category": "Vegeterian",
-      "Item Name": "Peri Peri Corn Chaat",
-      "Item Price": 265,
-      "Item Details": "Crispy corns sprinkled with peri peri chaat masala, mixed with chop onion and tomato salsa.",
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "Quick Bites",
-      "Sub Category": "Vegeterian",
-      "Item Name": "Peri Peri French Fries",
-      "Item Price": 245,
-      "Item Details": "Served with original mayonnaise",
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "Quick Bites",
-      "Sub Category": "Vegeterian",
-      "Item Name": "Maggi Masala Fries",
-      "Item Price": 245,
-      "Item Details": "Served with original mayonnaise.",
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "Quick Bites",
-      "Sub Category": "Vegeterian",
-      "Item Name": "Cheese garlic bread sticks",
-      "Item Price": 245,
-      "Item Details": "Served with chipotle mayonnaise",
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "Quick Bites",
-      "Sub Category": "Non - Vegeterian",
-      "Item Name": "Garlic Bread with Chicken Tikka",
-      "Item Price": 295,
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "Quick Bites",
-      "Sub Category": "Non - Vegeterian",
-      "Item Name": "Extra Hot & Spicy Chicken Popcorn",
-      "Item Price": 295,
-      "Item Details": "Served with lemon n garlic mayo",
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "Quick Bites",
-      "Sub Category": "Non - Vegeterian",
-      "Item Name": "Matthi Canape",
-      "Item Price": 295,
-      "Item Details": "Pulled smoked chicken, Caramelized onion, fruit preserve",
-      "Item Speciality": "Gravity Special"
-    },
-    {
-      "Category": "Quick Bites",
-      "Sub Category": "Non - Vegeterian",
-      "Item Name": "Three Chicken Loaded Fries",
-      "Item Price": 325,
-      "Item Details": "Chicken tikka, peri peri chicken & roasted chicken topped over dusted french fries with cheese sauce",
-      "Item Speciality": "Spicy"
-    },
-    {
-      "Category": "Quick Bites",
-      "Sub Category": "Non - Vegeterian",
-      "Item Name": "Zingy Chicken Rolls",
-      "Item Price": 325,
-      "Item Details": "Chicken mince stuffed in roll sheet, fried to golden crisp, served with chilli mayo",
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "Quick Bites",
-      "Sub Category": "Non - Vegeterian",
-      "Item Name": "Olive Oil Chicken",
-      "Item Price": 325,
-      "Item Details": "Chunks of chicken breast tossed in olive oil and spicy seasoning along with exotic vegetables",
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "Quick Bites",
-      "Sub Category": "Non - Vegeterian",
-      "Item Name": "N2O Battered Chicken Sausage",
-      "Item Price": 325,
-      "Item Details": "Served with di jon mustard labneh and chili myo",
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "Small Plates",
-      "Sub Category": "Vegeterian",
-      "Item Name": "Caesar Salad",
-      "Item Price": 275,
-      "Item Details": "Chilled ice berg, Creamy caesar dressing, Pesto croutons and tossed vegetables\nAdd on: - Spicy chicken   65/-",
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "Small Plates",
-      "Sub Category": "Vegeterian",
-      "Item Name": "Lovely Corns",
-      "Item Price": 275,
-      "Item Details": "Crispy corns tossed in chop onion and bell pepper salsa with Szechwan sauce",
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "Small Plates",
-      "Sub Category": "Vegeterian",
-      "Item Name": "Duet of Soya Chaap",
-      "Item Price": 295,
-      "Item Details": "Achaari and malai soya chaap with shaslik, served with essentials",
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "Small Plates",
-      "Sub Category": "Vegeterian",
-      "Item Name": "Chili Cheese rolls",
-      "Item Price": 295,
-      "Item Details": "Spring rolled filled with a mixture of assorted cheese, corn and olive tapenade, fried to golden crisp and served with dipping sauce.",
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "Small Plates",
-      "Sub Category": "Vegeterian",
-      "Item Name": "Palak Patta Mille Fieulle",
-      "Item Price": 295,
-      "Item Details": "Battered fried spinach leaves, Sweetened yogurt mousse, Nylon sev and Pomegranate",
-      "Item Speciality": "Gravity Special"
-    },
-    {
-      "Category": "Small Plates",
-      "Sub Category": "Vegeterian",
-      "Item Name": "Bhelpuri Bar",
-      "Item Price": 295,
-      "Item Details": "Duo of apples & fried potatoes, meethi dahi granita and pomegranate pearls",
-      "Item Speciality": "Gravity Special"
-    },
-    {
-      "Category": "Small Plates",
-      "Sub Category": "Vegeterian",
-      "Item Name": "Pao Bhaji Mollete",
-      "Item Price": 295,
-      "Item Details": "Bombay style vegetable mash, Salted chili, Smoked scarmoza melt",
-      "Item Speciality": "Gravity Special"
-    },
-    {
-      "Category": "Small Plates",
-      "Sub Category": "Vegeterian",
-      "Item Name": "Magic Quesadilla",
-      "Item Price": 295,
-      "Item Details": "Exotic vegetable masala, Cajun rice, Lehsuni sour cream",
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "Small Plates",
-      "Sub Category": "Vegeterian",
-      "Item Name": "Bharwan Dahi Kebab",
-      "Item Price": 295,
-      "Item Details": "Orange marmalade and jalapeno stuffed dahi ke kebab, served with essentials",
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "Small Plates",
-      "Sub Category": "Vegeterian",
-      "Item Name": "Exotic Mushroom Croquette",
-      "Item Price": 295,
-      "Item Details": "Served with fries and lemon n garlic aioli",
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "Small Plates",
-      "Sub Category": "Vegeterian",
-      "Item Name": "Old School Chili Paneer",
-      "Item Price": 315,
-      "Item Details": "Indo Chinese cottage cheese",
-      "Item Speciality": "Double Spicy"
-    },
-    {
-      "Category": "Small Plates",
-      "Sub Category": "Vegeterian",
-      "Item Name": "Trinity of Paneer Tikka",
-      "Item Price": 325,
-      "Item Details": "Saffron methi malai, Garlic & kashmiri chili, Basil pesto paneer tikka, Served with side salad and chutney",
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "Small Plates",
-      "Sub Category": "Vegeterian",
-      "Item Name": "Chermoula Cottage Cheese Skewers",
-      "Item Price": 325,
-      "Item Details": "Served with basil pesto mayo",
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "Small Plates",
-      "Sub Category": "Vegeterian",
-      "Item Name": "Stuffed Tandoori Mushrooms",
-      "Item Price": 325,
-      "Item Details": "Spinach and corn stuffed charcoal roasted mushrooms, served with essentials",
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "Small Plates",
-      "Sub Category": "Vegeterian",
-      "Item Name": "Obsessive Nachos",
-      "Item Price": 335,
-      "Item Details": "Three cheese melt, tomato salsa, Burani sour cream\nAdd on: - Pulled BBQ chicken   65/-",
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "Small Plates",
-      "Sub Category": "Non - Vegeterian",
-      "Item Name": "Country Style Fried chicken Strips",
-      "Item Price": 345,
-      "Item Details": "Flaky chicken strips, breaded, fried to golden crisp and served with tomato salsa",
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "Small Plates",
-      "Sub Category": "Non - Vegeterian",
-      "Item Name": "Peri Peri Chicken Seekh",
-      "Item Price": 375,
-      "Item Details": "Chicken mince infused with peri peri spice, roasted in clay oven, served with side salad and chutney.",
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "Small Plates",
-      "Sub Category": "Non - Vegeterian",
-      "Item Name": "Chicken Shawarma Tikka",
-      "Item Price": 395,
-      "Item Details": "Served with hummus, tzastiki and pita chips",
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "Small Plates",
-      "Sub Category": "Non - Vegeterian",
-      "Item Name": "Irani Chicken Tikka",
-      "Item Price": 395,
-      "Item Details": "Amul cheese sauce coated murgh malai tikka, served with essentials.",
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "Small Plates",
-      "Sub Category": "Non - Vegeterian",
-      "Item Name": "Black Pepper Chicken",
-      "Item Price": 395,
-      "Item Details": "Crispy chicken tossed in house made black pepper sauce along with onion, bell peppers and spring onion",
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "Small Plates",
-      "Sub Category": "Non - Vegeterian",
-      "Item Name": "Malai Chicken Brucshetta",
-      "Item Price": 395,
-      "Item Details": "Garlic bread, malai chicken rilette, andhra tomato chutney, garlic crumbs.",
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "Small Plates",
-      "Sub Category": "Non - Vegeterian",
-      "Item Name": "Kung Pao Chicken Sausage",
-      "Item Price": 395,
-      "Item Details": "Hot dog sausage prepared in kung pao chicken style.",
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "Small Plates",
-      "Sub Category": "Non - Vegeterian",
-      "Item Name": "Good Old Chili chicken",
-      "Item Price": 395,
-      "Item Details": "Indo Chinese chicken",
-      "Item Speciality": "Double Spicy"
-    },
-    {
-      "Category": "Small Plates",
-      "Sub Category": "Non - Vegeterian",
-      "Item Name": "Roasted Tandoori Chicken",
-      "Item Price": 395,
-      "Item Details": "Half portion, served with essentials",
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "Small Plates",
-      "Sub Category": "Non - Vegeterian",
-      "Item Name": "Jama Masjid’s Chicken Tikka",
-      "Item Price": 395,
-      "Item Details": "Tandoori Chicken tikka, Butter & cream emulsion, Chuntey & pyaaz",
-      "Item Speciality": "Spicy"
-    },
-    {
-      "Category": "Small Plates",
-      "Sub Category": "Non - Vegeterian",
-      "Item Name": "Amritsari or Ajwaini Fish Tikka",
-      "Item Price": 445,
-      "Item Details": "Good old classic recipe, served with side salad and green chutney",
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "Small Plates",
-      "Sub Category": "Non - Vegeterian",
-      "Item Name": "Dragon Fish Finger",
-      "Item Price": 445,
-      "Item Details": "Served with tartar sauce, dusted french fries and szechwan chutney.",
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "Small Plates",
-      "Sub Category": "Non - Vegeterian",
-      "Item Name": "Keema Ghotala Pao",
-      "Item Price": 445,
-      "Item Details": "Fragrant lamb mince topped with soft fried egg, served with maska pao and chutney onion rings.",
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "Small Plates",
-      "Sub Category": "Non - Vegeterian",
-      "Item Name": "Bae’s Lamb Chop",
-      "Item Price": 525,
-      "Item Details": "Braised Indian lamb chops, masala creme, in house chutneys.",
-      "Item Speciality": "Gravity Special"
-    },
-    {
-      "Category": "Small Plates",
-      "Sub Category": "Non - Vegeterian",
-      "Item Name": "Prawn Salt n Pepper",
-      "Item Price": 545,
-      "Item Details": "Tempura prawns tossed in salt n pepper style",
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "Thin Crust Pizza's",
-      "Sub Category": "None",
-      "Item Name": "Margarita",
-      "Item Price": 395,
-      "Item Speciality": "Veg"
-    },
-    {
-      "Category": "Thin Crust Pizza's",
-      "Sub Category": "None",
-      "Item Name": "Thai Style Grilled Vegetables",
-      "Item Price": 425,
-      "Item Speciality": "Veg"
-    },
-    {
-      "Category": "Thin Crust Pizza's",
-      "Sub Category": "None",
-      "Item Name": "Paneer Tikka Masala, onion, tomato, and green chili",
-      "Item Price": 425,
-      "Item Speciality": "Veg"
-    },
-    {
-      "Category": "Thin Crust Pizza's",
-      "Sub Category": "None",
-      "Item Name": "Roasted peppers, onion, mushrooms and corn",
-      "Item Price": 425,
-      "Item Speciality": "Veg"
-    },
-    {
-      "Category": "Thin Crust Pizza's",
-      "Sub Category": "None",
-      "Item Name": "Overloaded",
-      "Item Price": 455,
-      "Item Speciality": "Veg"
-    },
-    {
-      "Category": "Thin Crust Pizza's",
-      "Sub Category": "None",
-      "Item Name": "Chicken Tikka Masala, onion, tomato, green chili",
-      "Item Price": 475,
-      "Item Speciality": "Non - Veg"
-    },
-    {
-      "Category": "Thin Crust Pizza's",
-      "Sub Category": "None",
-      "Item Name": "Paprika chicken, mushroom, fresh thyme",
-      "Item Price": 475,
-      "Item Speciality": "Non - Veg"
-    },
-    {
-      "Category": "Thin Crust Pizza's",
-      "Sub Category": "None",
-      "Item Name": "Chicken malai tikka, Jalapeno, Trio of peppers",
-      "Item Price": 475,
-      "Item Speciality": "Non - Veg"
-    },
-    {
-      "Category": "Thin Crust Pizza's",
-      "Sub Category": "None",
-      "Item Name": "Chicken sausage, roasted peppers, green chili, corn",
-      "Item Price": 475,
-      "Item Speciality": "Non - Veg"
-    },
-    {
-      "Category": "Thin Crust Pizza's",
-      "Sub Category": "None",
-      "Item Name": "Mutton keema, sliced onion, jalapeno, fresh coriander",
-      "Item Price": 495,
-      "Item Speciality": "Non - Veg"
-    },
-    {
-      "Category": "Tibetan Juicy Momos",
-      "Sub Category": "None",
-      "Item Name": "Steam Momo",
-      "Item Details": "Served with szechwan chutney and chilli mayo",
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "Tibetan Juicy Momos",
-      "Sub Category": "None",
-      "Item Name": "Latpate Tandoori Momo",
-      "Item Details": "Served with side salad and hot garlic sauce",
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "Tibetan Juicy Momos",
-      "Sub Category": "None",
-      "Item Name": "Butter garlic Momo",
-      "Item Details": "Served with hot garlic sauce",
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "Tibetan Juicy Momos",
-      "Sub Category": "None",
-      "Item Name": "Pan fried Momo",
-      "Item Details": "Served with hot garlic sauce and chilli mayo",
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "Assorted Platters",
-      "Sub Category": "Vegeterian",
-      "Item Name": "Veg Chinese Platter",
-      "Item Price": 795,
-      "Item Details": "Cheese chilli rolls, Dry Manchurian, Chili paneer and Lovely Corns. Served with a side portion of hakka noodle and hot garlic sauce",
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "Assorted Platters",
-      "Sub Category": "Vegeterian",
-      "Item Name": "Veg Tandoori Platter",
-      "Item Price": 795,
-      "Item Details": "Trio of panner tikka, Tandoori momos, Tandoori mushrooms, Palak & corn seekh kebab and Blackened kebab. Served with side salad, garlic naan and green chutney",
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "Assorted Platters",
-      "Sub Category": "Non - Vegeterian",
-      "Item Name": "Non Veg Chinese Platter",
-      "Item Price": 895,
-      "Item Details": "Zingy chicken rolls, Chicken manchurian, Chili chicken and Dragon fish finger. Served with a side portion of egg hakka noodle and hot garlic sauce",
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "Assorted Platters",
-      "Sub Category": "Non - Vegeterian",
-      "Item Name": "Non Veg Tandoori Platter",
-      "Item Price": 895,
-      "Item Details": "Jama Masjid chicken tikka, Murgh Malai Tikka, Peri peri chicken seekh kebab and Ajwaini fish tikka. Served with side salad, garlic naan and green chutney",
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "Pasta’s",
-      "Sub Category": "None",
-      "Item Name": "Aglio Olio Peperoncino",
-      "Item Price": 365,
-      "Item Details": "Roasted garlic flakes, Olive oil emulsion, Parmesan crumb",
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "Pasta’s",
-      "Sub Category": "None",
-      "Item Name": "Puttanesa",
-      "Item Price": 395,
-      "Item Details": "Fiery tomato sauce, Duo of olives, Sun dried tomato",
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "Pasta’s",
-      "Sub Category": "None",
-      "Item Name": "Creamy Parmesan",
-      "Item Price": 395,
-      "Item Details": "Fresh herbs spiked bechamel, Exotic vegetables, Jalapeno puree",
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "Pasta’s",
-      "Sub Category": "None",
-      "Item Name": "Creamy Mushroom Alfredo",
-      "Item Price": 395,
-      "Item Details": "White sauce with lots of mushrooms",
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "Pasta’s",
-      "Sub Category": "None",
-      "Item Name": "Chicken and Mushroom",
-      "Item Price": 405,
-      "Item Details": "Succulent chicken thighs, button mushrooms, Tomato and cream sauce",
-      "Item Speciality": "Non - Veg"
-    },
-    {
-      "Category": "North Indian Main Course",
-      "Sub Category": "Vegeterian",
-      "Item Name": "Dal Makhani",
-      "Item Price": 325,
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "North Indian Main Course",
-      "Sub Category": "Vegeterian",
-      "Item Name": "Paneer Tikka Butter Masala",
-      "Item Price": 375,
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "North Indian Main Course",
-      "Sub Category": "Vegeterian",
-      "Item Name": "Jalapeno Kadhai Paneer",
-      "Item Price": 375,
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "North Indian Main Course",
-      "Sub Category": "Vegeterian",
-      "Item Name": "Cheesy Paneer Lababdar",
-      "Item Price": 375,
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "North Indian Main Course",
-      "Sub Category": "Vegeterian",
-      "Item Name": "Butter Paneer Makhani",
-      "Item Price": 375,
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "North Indian Main Course",
-      "Sub Category": "Vegeterian",
-      "Item Name": "Palak Paneer",
-      "Item Price": 375,
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "North Indian Main Course",
-      "Sub Category": "Vegeterian",
-      "Item Name": "Mixed Vegetable Kadhai",
-      "Item Price": 345,
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "North Indian Main Course",
-      "Sub Category": "Vegeterian",
-      "Item Name": "Mushroom, Corn & Peas Masala",
-      "Item Price": 345,
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "North Indian Main Course",
-      "Sub Category": "Vegeterian",
-      "Item Name": "Mixed Vegetable Biryani",
-      "Item Price": 395,
-      "Item Details": "Served with burani raita",
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "North Indian Main Course",
-      "Sub Category": "Vegeterian",
-      "Item Name": "Paneer Makhani Biryani",
-      "Item Price": 395,
-      "Item Details": "Served with burani raita",
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "North Indian Main Course",
-      "Sub Category": "Non - Vegeterian",
-      "Item Name": "Butter Chicken",
-      "Item Price": 395,
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "North Indian Main Course",
-      "Sub Category": "Non - Vegeterian",
-      "Item Name": "Cheesy Chicken Lababdar",
-      "Item Price": 395,
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "North Indian Main Course",
-      "Sub Category": "Non - Vegeterian",
-      "Item Name": "Jalapeno Kadhai Chicken",
-      "Item Price": 395,
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "North Indian Main Course",
-      "Sub Category": "Non - Vegeterian",
-      "Item Name": "Chicken Rara",
-      "Item Price": 395,
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "North Indian Main Course",
-      "Sub Category": "Non - Vegeterian",
-      "Item Name": "Chicken Tikka Butter Masala",
-      "Item Price": 395,
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "North Indian Main Course",
-      "Sub Category": "Non - Vegeterian",
-      "Item Name": "Mutton Rogan Josh",
-      "Item Price": 475,
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "North Indian Main Course",
-      "Sub Category": "Non - Vegeterian",
-      "Item Name": "Mutton Rara",
-      "Item Price": 475,
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "North Indian Main Course",
-      "Sub Category": "Non - Vegeterian",
-      "Item Name": "Awadhi Chicken Biryani",
-      "Item Price": 435,
-      "Item Details": "Served with burani raita",
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "North Indian Main Course",
-      "Sub Category": "Non - Vegeterian",
-      "Item Name": "Chicken Rara Biryani",
-      "Item Price": 435,
-      "Item Details": "Served with burani raita",
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "North Indian Main Course",
-      "Sub Category": "Non - Vegeterian",
-      "Item Name": "Mutton Rara Biryani",
-      "Item Price": 495,
-      "Item Details": "Served with burani raita",
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "Oriental Meals",
-      "Sub Category": "Vegeterian",
-      "Item Name": "Manchurian",
-      "Item Price": 465,
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "Oriental Meals",
-      "Sub Category": "Vegeterian",
-      "Item Name": "Chili Paneer",
-      "Item Price": 465,
-      "Item Speciality": "Double Spicy"
-    },
-    {
-      "Category": "Oriental Meals",
-      "Sub Category": "Vegeterian",
-      "Item Name": "Hot garlic and lemon grass sauce",
-      "Item Price": 465,
-      "Item Speciality": "Spicy"
-    },
-    {
-      "Category": "Oriental Meals",
-      "Sub Category": "Non - Vegeterian",
-      "Item Name": "Chili Chicken",
-      "Item Price": 495,
-      "Item Speciality": "Double Spicy"
-    },
-    {
-      "Category": "Oriental Meals",
-      "Sub Category": "Non - Vegeterian",
-      "Item Name": "Chicken Manchurian",
-      "Item Price": 495,
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "Oriental Meals",
-      "Sub Category": "Non - Vegeterian",
-      "Item Name": "Hot garlic and lemon grass sauce",
-      "Item Price": 495,
-      "Item Speciality": "Spicy"
-    },
-    {
-      "Category": "Sides",
-      "Sub Category": "None",
-      "Item Name": "Roti / Butter Roti / Garlic Butter Roti",
-      "Item Price": "35/ 45 /55",
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "Sides",
-      "Sub Category": "None",
-      "Item Name": "Plain naan / Butter naan/ Garlic Naan",
-      "Item Price": "65/ 75/ 85",
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "Sides",
-      "Sub Category": "None",
-      "Item Name": "Laccha Parantha / Mirchi Parantha/ Garlic Laccha Parantha",
-      "Item Price": "65/ 75/ 85",
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "Sides",
-      "Sub Category": "None",
-      "Item Name": "Burani Raita",
-      "Item Price": 95,
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "Sides",
-      "Sub Category": "None",
-      "Item Name": "Green Salad",
-      "Item Price": 125,
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "Sides",
-      "Sub Category": "None",
-      "Item Name": "Steam Rice",
-      "Item Price": 155,
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "Desserts",
-      "Sub Category": "None",
-      "Item Name": "Caramel Brownie Tower",
-      "Item Price": 325,
-      "Item Details": "Caramel popcorn , Dark chocolate brownie, Hot chocolate",
-      "Item Speciality": "Gravity Special"
-    },
-    {
-      "Category": "Desserts",
-      "Sub Category": "None",
-      "Item Name": "Hot Gulab Jamun with Paan Ice Cream",
-      "Item Price": 165,
-      "Item Speciality": "None"
-    },
-    {
-      "Category": "Desserts",
-      "Sub Category": "None",
-      "Item Name": "Hot Chocolate Fudge",
-      "Item Price": 265,
-      "Item Details": "Jumbo scoops of vanilla ice cream poured with hot chocolate sauce, wafer stick, assorted nuts and caramel choora",
-      "Item Speciality": "None"
-    }
-  ]
+{
+    "food": [
+        {
+            "Category": "Quick Bites",
+            "Sub Category": "Vegeterian",
+            "Item Name": "Crunchy Onion Rings",
+            "Item Price": 245,
+            "Item Details": "Crispy fried rings of onion dusted with cajun spice and served with chilli mayo",
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "Quick Bites",
+            "Sub Category": "Vegeterian",
+            "Item Name": "Tandoori Makhane",
+            "Item Price": 245,
+            "Item Details": "Puffed lotus seeds tossed in our in house tandoori dry seasoning, served with tzastik",
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "Quick Bites",
+            "Sub Category": "Vegeterian",
+            "Item Name": "Achaari Peanut Masala",
+            "Item Price": 245,
+            "Item Details": "Salted peanuts tossed with chop onion and tomato salsa, infused with carrot pickle.",
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "Quick Bites",
+            "Sub Category": "Vegeterian",
+            "Item Name": "Peri Peri Corn Chaat",
+            "Item Price": 265,
+            "Item Details": "Crispy corns sprinkled with peri peri chaat masala, mixed with chop onion and tomato salsa.",
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "Quick Bites",
+            "Sub Category": "Vegeterian",
+            "Item Name": "Peri Peri French Fries",
+            "Item Price": 245,
+            "Item Details": "Served with original mayonnaise",
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "Quick Bites",
+            "Sub Category": "Vegeterian",
+            "Item Name": "Maggi Masala Fries",
+            "Item Price": 245,
+            "Item Details": "Served with original mayonnaise.",
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "Quick Bites",
+            "Sub Category": "Vegeterian",
+            "Item Name": "Cheese garlic bread sticks",
+            "Item Price": 245,
+            "Item Details": "Served with chipotle mayonnaise",
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "Quick Bites",
+            "Sub Category": "Non - Vegeterian",
+            "Item Name": "Garlic Bread with Chicken Tikka",
+            "Item Price": 295,
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "Quick Bites",
+            "Sub Category": "Non - Vegeterian",
+            "Item Name": "Extra Hot & Spicy Chicken Popcorn",
+            "Item Price": 295,
+            "Item Details": "Served with lemon n garlic mayo",
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "Quick Bites",
+            "Sub Category": "Non - Vegeterian",
+            "Item Name": "Matthi Canape",
+            "Item Price": 295,
+            "Item Details": "Pulled smoked chicken, Caramelized onion, fruit preserve",
+            "Item Speciality": "Gravity Special"
+        },
+        {
+            "Category": "Quick Bites",
+            "Sub Category": "Non - Vegeterian",
+            "Item Name": "Three Chicken Loaded Fries",
+            "Item Price": 325,
+            "Item Details": "Chicken tikka, peri peri chicken & roasted chicken topped over dusted french fries with cheese sauce",
+            "Item Speciality": "Spicy"
+        },
+        {
+            "Category": "Quick Bites",
+            "Sub Category": "Non - Vegeterian",
+            "Item Name": "Zingy Chicken Rolls",
+            "Item Price": 325,
+            "Item Details": "Chicken mince stuffed in roll sheet, fried to golden crisp, served with chilli mayo",
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "Quick Bites",
+            "Sub Category": "Non - Vegeterian",
+            "Item Name": "Olive Oil Chicken",
+            "Item Price": 325,
+            "Item Details": "Chunks of chicken breast tossed in olive oil and spicy seasoning along with exotic vegetables",
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "Quick Bites",
+            "Sub Category": "Non - Vegeterian",
+            "Item Name": "N2O Battered Chicken Sausage",
+            "Item Price": 325,
+            "Item Details": "Served with di jon mustard labneh and chili myo",
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "Small Plates",
+            "Sub Category": "Vegeterian",
+            "Item Name": "Caesar Salad",
+            "Item Price": 275,
+            "Item Details": "Chilled ice berg, Creamy caesar dressing, Pesto croutons and tossed vegetables\nAdd on: - Spicy chicken   65/-",
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "Small Plates",
+            "Sub Category": "Vegeterian",
+            "Item Name": "Lovely Corns",
+            "Item Price": 275,
+            "Item Details": "Crispy corns tossed in chop onion and bell pepper salsa with Szechwan sauce",
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "Small Plates",
+            "Sub Category": "Vegeterian",
+            "Item Name": "Duet of Soya Chaap",
+            "Item Price": 295,
+            "Item Details": "Achaari and malai soya chaap with shaslik, served with essentials",
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "Small Plates",
+            "Sub Category": "Vegeterian",
+            "Item Name": "Chili Cheese rolls",
+            "Item Price": 295,
+            "Item Details": "Spring rolled filled with a mixture of assorted cheese, corn and olive tapenade, fried to golden crisp and served with dipping sauce.",
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "Small Plates",
+            "Sub Category": "Vegeterian",
+            "Item Name": "Palak Patta Mille Fieulle",
+            "Item Price": 295,
+            "Item Details": "Battered fried spinach leaves, Sweetened yogurt mousse, Nylon sev and Pomegranate",
+            "Item Speciality": "Gravity Special"
+        },
+        {
+            "Category": "Small Plates",
+            "Sub Category": "Vegeterian",
+            "Item Name": "Bhelpuri Bar",
+            "Item Price": 295,
+            "Item Details": "Duo of apples & fried potatoes, meethi dahi granita and pomegranate pearls",
+            "Item Speciality": "Gravity Special"
+        },
+        {
+            "Category": "Small Plates",
+            "Sub Category": "Vegeterian",
+            "Item Name": "Pao Bhaji Mollete",
+            "Item Price": 295,
+            "Item Details": "Bombay style vegetable mash, Salted chili, Smoked scarmoza melt",
+            "Item Speciality": "Gravity Special"
+        },
+        {
+            "Category": "Small Plates",
+            "Sub Category": "Vegeterian",
+            "Item Name": "Magic Quesadilla",
+            "Item Price": 295,
+            "Item Details": "Exotic vegetable masala, Cajun rice, Lehsuni sour cream",
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "Small Plates",
+            "Sub Category": "Vegeterian",
+            "Item Name": "Bharwan Dahi Kebab",
+            "Item Price": 295,
+            "Item Details": "Orange marmalade and jalapeno stuffed dahi ke kebab, served with essentials",
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "Small Plates",
+            "Sub Category": "Vegeterian",
+            "Item Name": "Exotic Mushroom Croquette",
+            "Item Price": 295,
+            "Item Details": "Served with fries and lemon n garlic aioli",
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "Small Plates",
+            "Sub Category": "Vegeterian",
+            "Item Name": "Old School Chili Paneer",
+            "Item Price": 315,
+            "Item Details": "Indo Chinese cottage cheese",
+            "Item Speciality": "Double Spicy"
+        },
+        {
+            "Category": "Small Plates",
+            "Sub Category": "Vegeterian",
+            "Item Name": "Trinity of Paneer Tikka",
+            "Item Price": 325,
+            "Item Details": "Saffron methi malai, Garlic & kashmiri chili, Basil pesto paneer tikka, Served with side salad and chutney",
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "Small Plates",
+            "Sub Category": "Vegeterian",
+            "Item Name": "Chermoula Cottage Cheese Skewers",
+            "Item Price": 325,
+            "Item Details": "Served with basil pesto mayo",
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "Small Plates",
+            "Sub Category": "Vegeterian",
+            "Item Name": "Stuffed Tandoori Mushrooms",
+            "Item Price": 325,
+            "Item Details": "Spinach and corn stuffed charcoal roasted mushrooms, served with essentials",
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "Small Plates",
+            "Sub Category": "Vegeterian",
+            "Item Name": "Obsessive Nachos",
+            "Item Price": 335,
+            "Item Details": "Three cheese melt, tomato salsa, Burani sour cream\nAdd on: - Pulled BBQ chicken   65/-",
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "Small Plates",
+            "Sub Category": "Non - Vegeterian",
+            "Item Name": "Country Style Fried chicken Strips",
+            "Item Price": 345,
+            "Item Details": "Flaky chicken strips, breaded, fried to golden crisp and served with tomato salsa",
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "Small Plates",
+            "Sub Category": "Non - Vegeterian",
+            "Item Name": "Peri Peri Chicken Seekh",
+            "Item Price": 375,
+            "Item Details": "Chicken mince infused with peri peri spice, roasted in clay oven, served with side salad and chutney.",
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "Small Plates",
+            "Sub Category": "Non - Vegeterian",
+            "Item Name": "Chicken Shawarma Tikka",
+            "Item Price": 395,
+            "Item Details": "Served with hummus, tzastiki and pita chips",
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "Small Plates",
+            "Sub Category": "Non - Vegeterian",
+            "Item Name": "Irani Chicken Tikka",
+            "Item Price": 395,
+            "Item Details": "Amul cheese sauce coated murgh malai tikka, served with essentials.",
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "Small Plates",
+            "Sub Category": "Non - Vegeterian",
+            "Item Name": "Black Pepper Chicken",
+            "Item Price": 395,
+            "Item Details": "Crispy chicken tossed in house made black pepper sauce along with onion, bell peppers and spring onion",
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "Small Plates",
+            "Sub Category": "Non - Vegeterian",
+            "Item Name": "Malai Chicken Brucshetta",
+            "Item Price": 395,
+            "Item Details": "Garlic bread, malai chicken rilette, andhra tomato chutney, garlic crumbs.",
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "Small Plates",
+            "Sub Category": "Non - Vegeterian",
+            "Item Name": "Kung Pao Chicken Sausage",
+            "Item Price": 395,
+            "Item Details": "Hot dog sausage prepared in kung pao chicken style.",
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "Small Plates",
+            "Sub Category": "Non - Vegeterian",
+            "Item Name": "Good Old Chili chicken",
+            "Item Price": 395,
+            "Item Details": "Indo Chinese chicken",
+            "Item Speciality": "Double Spicy"
+        },
+        {
+            "Category": "Small Plates",
+            "Sub Category": "Non - Vegeterian",
+            "Item Name": "Roasted Tandoori Chicken",
+            "Item Price": 395,
+            "Item Details": "Half portion, served with essentials",
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "Small Plates",
+            "Sub Category": "Non - Vegeterian",
+            "Item Name": "Jama Masjid’s Chicken Tikka",
+            "Item Price": 395,
+            "Item Details": "Tandoori Chicken tikka, Butter & cream emulsion, Chuntey & pyaaz",
+            "Item Speciality": "Spicy"
+        },
+        {
+            "Category": "Small Plates",
+            "Sub Category": "Non - Vegeterian",
+            "Item Name": "Amritsari or Ajwaini Fish Tikka",
+            "Item Price": 445,
+            "Item Details": "Good old classic recipe, served with side salad and green chutney",
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "Small Plates",
+            "Sub Category": "Non - Vegeterian",
+            "Item Name": "Dragon Fish Finger",
+            "Item Price": 445,
+            "Item Details": "Served with tartar sauce, dusted french fries and szechwan chutney.",
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "Small Plates",
+            "Sub Category": "Non - Vegeterian",
+            "Item Name": "Keema Ghotala Pao",
+            "Item Price": 445,
+            "Item Details": "Fragrant lamb mince topped with soft fried egg, served with maska pao and chutney onion rings.",
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "Small Plates",
+            "Sub Category": "Non - Vegeterian",
+            "Item Name": "Bae’s Lamb Chop",
+            "Item Price": 525,
+            "Item Details": "Braised Indian lamb chops, masala creme, in house chutneys.",
+            "Item Speciality": "Gravity Special"
+        },
+        {
+            "Category": "Small Plates",
+            "Sub Category": "Non - Vegeterian",
+            "Item Name": "Prawn Salt n Pepper",
+            "Item Price": 545,
+            "Item Details": "Tempura prawns tossed in salt n pepper style",
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "Thin Crust Pizza's",
+            "Sub Category": "None",
+            "Item Name": "Margarita",
+            "Item Price": 395,
+            "Item Speciality": "Veg"
+        },
+        {
+            "Category": "Thin Crust Pizza's",
+            "Sub Category": "None",
+            "Item Name": "Thai Style Grilled Vegetables",
+            "Item Price": 425,
+            "Item Speciality": "Veg"
+        },
+        {
+            "Category": "Thin Crust Pizza's",
+            "Sub Category": "None",
+            "Item Name": "Paneer Tikka Masala, onion, tomato, and green chili",
+            "Item Price": 425,
+            "Item Speciality": "Veg"
+        },
+        {
+            "Category": "Thin Crust Pizza's",
+            "Sub Category": "None",
+            "Item Name": "Roasted peppers, onion, mushrooms and corn",
+            "Item Price": 425,
+            "Item Speciality": "Veg"
+        },
+        {
+            "Category": "Thin Crust Pizza's",
+            "Sub Category": "None",
+            "Item Name": "Overloaded",
+            "Item Price": 455,
+            "Item Speciality": "Veg"
+        },
+        {
+            "Category": "Thin Crust Pizza's",
+            "Sub Category": "None",
+            "Item Name": "Chicken Tikka Masala, onion, tomato, green chili",
+            "Item Price": 475,
+            "Item Speciality": "Non - Veg"
+        },
+        {
+            "Category": "Thin Crust Pizza's",
+            "Sub Category": "None",
+            "Item Name": "Paprika chicken, mushroom, fresh thyme",
+            "Item Price": 475,
+            "Item Speciality": "Non - Veg"
+        },
+        {
+            "Category": "Thin Crust Pizza's",
+            "Sub Category": "None",
+            "Item Name": "Chicken malai tikka, Jalapeno, Trio of peppers",
+            "Item Price": 475,
+            "Item Speciality": "Non - Veg"
+        },
+        {
+            "Category": "Thin Crust Pizza's",
+            "Sub Category": "None",
+            "Item Name": "Chicken sausage, roasted peppers, green chili, corn",
+            "Item Price": 475,
+            "Item Speciality": "Non - Veg"
+        },
+        {
+            "Category": "Thin Crust Pizza's",
+            "Sub Category": "None",
+            "Item Name": "Mutton keema, sliced onion, jalapeno, fresh coriander",
+            "Item Price": 495,
+            "Item Speciality": "Non - Veg"
+        },
+        {
+            "Category": "Tibetan Juicy Momos",
+            "Sub Category": "None",
+            "Item Name": "Steam Momo",
+            "Item Details": "Served with szechwan chutney and chilli mayo",
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "Tibetan Juicy Momos",
+            "Sub Category": "None",
+            "Item Name": "Latpate Tandoori Momo",
+            "Item Details": "Served with side salad and hot garlic sauce",
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "Tibetan Juicy Momos",
+            "Sub Category": "None",
+            "Item Name": "Butter garlic Momo",
+            "Item Details": "Served with hot garlic sauce",
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "Tibetan Juicy Momos",
+            "Sub Category": "None",
+            "Item Name": "Pan fried Momo",
+            "Item Details": "Served with hot garlic sauce and chilli mayo",
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "Assorted Platters",
+            "Sub Category": "Vegeterian",
+            "Item Name": "Veg Chinese Platter",
+            "Item Price": 795,
+            "Item Details": "Cheese chilli rolls, Dry Manchurian, Chili paneer and Lovely Corns. Served with a side portion of hakka noodle and hot garlic sauce",
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "Assorted Platters",
+            "Sub Category": "Vegeterian",
+            "Item Name": "Veg Tandoori Platter",
+            "Item Price": 795,
+            "Item Details": "Trio of panner tikka, Tandoori momos, Tandoori mushrooms, Palak & corn seekh kebab and Blackened kebab. Served with side salad, garlic naan and green chutney",
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "Assorted Platters",
+            "Sub Category": "Non - Vegeterian",
+            "Item Name": "Non Veg Chinese Platter",
+            "Item Price": 895,
+            "Item Details": "Zingy chicken rolls, Chicken manchurian, Chili chicken and Dragon fish finger. Served with a side portion of egg hakka noodle and hot garlic sauce",
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "Assorted Platters",
+            "Sub Category": "Non - Vegeterian",
+            "Item Name": "Non Veg Tandoori Platter",
+            "Item Price": 895,
+            "Item Details": "Jama Masjid chicken tikka, Murgh Malai Tikka, Peri peri chicken seekh kebab and Ajwaini fish tikka. Served with side salad, garlic naan and green chutney",
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "Pasta’s",
+            "Sub Category": "None",
+            "Item Name": "Aglio Olio Peperoncino",
+            "Item Price": 365,
+            "Item Details": "Roasted garlic flakes, Olive oil emulsion, Parmesan crumb",
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "Pasta’s",
+            "Sub Category": "None",
+            "Item Name": "Puttanesa",
+            "Item Price": 395,
+            "Item Details": "Fiery tomato sauce, Duo of olives, Sun dried tomato",
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "Pasta’s",
+            "Sub Category": "None",
+            "Item Name": "Creamy Parmesan",
+            "Item Price": 395,
+            "Item Details": "Fresh herbs spiked bechamel, Exotic vegetables, Jalapeno puree",
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "Pasta’s",
+            "Sub Category": "None",
+            "Item Name": "Creamy Mushroom Alfredo",
+            "Item Price": 395,
+            "Item Details": "White sauce with lots of mushrooms",
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "Pasta’s",
+            "Sub Category": "None",
+            "Item Name": "Chicken and Mushroom",
+            "Item Price": 405,
+            "Item Details": "Succulent chicken thighs, button mushrooms, Tomato and cream sauce",
+            "Item Speciality": "Non - Veg"
+        },
+        {
+            "Category": "North Indian Main Course",
+            "Sub Category": "Vegeterian",
+            "Item Name": "Dal Makhani",
+            "Item Price": 325,
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "North Indian Main Course",
+            "Sub Category": "Vegeterian",
+            "Item Name": "Paneer Tikka Butter Masala",
+            "Item Price": 375,
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "North Indian Main Course",
+            "Sub Category": "Vegeterian",
+            "Item Name": "Jalapeno Kadhai Paneer",
+            "Item Price": 375,
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "North Indian Main Course",
+            "Sub Category": "Vegeterian",
+            "Item Name": "Cheesy Paneer Lababdar",
+            "Item Price": 375,
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "North Indian Main Course",
+            "Sub Category": "Vegeterian",
+            "Item Name": "Butter Paneer Makhani",
+            "Item Price": 375,
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "North Indian Main Course",
+            "Sub Category": "Vegeterian",
+            "Item Name": "Palak Paneer",
+            "Item Price": 375,
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "North Indian Main Course",
+            "Sub Category": "Vegeterian",
+            "Item Name": "Mixed Vegetable Kadhai",
+            "Item Price": 345,
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "North Indian Main Course",
+            "Sub Category": "Vegeterian",
+            "Item Name": "Mushroom, Corn & Peas Masala",
+            "Item Price": 345,
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "North Indian Main Course",
+            "Sub Category": "Vegeterian",
+            "Item Name": "Mixed Vegetable Biryani",
+            "Item Price": 395,
+            "Item Details": "Served with burani raita",
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "North Indian Main Course",
+            "Sub Category": "Vegeterian",
+            "Item Name": "Paneer Makhani Biryani",
+            "Item Price": 395,
+            "Item Details": "Served with burani raita",
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "North Indian Main Course",
+            "Sub Category": "Non - Vegeterian",
+            "Item Name": "Butter Chicken",
+            "Item Price": 395,
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "North Indian Main Course",
+            "Sub Category": "Non - Vegeterian",
+            "Item Name": "Cheesy Chicken Lababdar",
+            "Item Price": 395,
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "North Indian Main Course",
+            "Sub Category": "Non - Vegeterian",
+            "Item Name": "Jalapeno Kadhai Chicken",
+            "Item Price": 395,
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "North Indian Main Course",
+            "Sub Category": "Non - Vegeterian",
+            "Item Name": "Chicken Rara",
+            "Item Price": 395,
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "North Indian Main Course",
+            "Sub Category": "Non - Vegeterian",
+            "Item Name": "Chicken Tikka Butter Masala",
+            "Item Price": 395,
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "North Indian Main Course",
+            "Sub Category": "Non - Vegeterian",
+            "Item Name": "Mutton Rogan Josh",
+            "Item Price": 475,
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "North Indian Main Course",
+            "Sub Category": "Non - Vegeterian",
+            "Item Name": "Mutton Rara",
+            "Item Price": 475,
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "North Indian Main Course",
+            "Sub Category": "Non - Vegeterian",
+            "Item Name": "Awadhi Chicken Biryani",
+            "Item Price": 435,
+            "Item Details": "Served with burani raita",
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "North Indian Main Course",
+            "Sub Category": "Non - Vegeterian",
+            "Item Name": "Chicken Rara Biryani",
+            "Item Price": 435,
+            "Item Details": "Served with burani raita",
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "North Indian Main Course",
+            "Sub Category": "Non - Vegeterian",
+            "Item Name": "Mutton Rara Biryani",
+            "Item Price": 495,
+            "Item Details": "Served with burani raita",
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "Oriental Meals",
+            "Sub Category": "Vegeterian",
+            "Item Name": "Manchurian",
+            "Item Price": 465,
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "Oriental Meals",
+            "Sub Category": "Vegeterian",
+            "Item Name": "Chili Paneer",
+            "Item Price": 465,
+            "Item Speciality": "Double Spicy"
+        },
+        {
+            "Category": "Oriental Meals",
+            "Sub Category": "Vegeterian",
+            "Item Name": "Hot garlic and lemon grass sauce",
+            "Item Price": 465,
+            "Item Speciality": "Spicy"
+        },
+        {
+            "Category": "Oriental Meals",
+            "Sub Category": "Non - Vegeterian",
+            "Item Name": "Chili Chicken",
+            "Item Price": 495,
+            "Item Speciality": "Double Spicy"
+        },
+        {
+            "Category": "Oriental Meals",
+            "Sub Category": "Non - Vegeterian",
+            "Item Name": "Chicken Manchurian",
+            "Item Price": 495,
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "Oriental Meals",
+            "Sub Category": "Non - Vegeterian",
+            "Item Name": "Hot garlic and lemon grass sauce",
+            "Item Price": 495,
+            "Item Speciality": "Spicy"
+        },
+        {
+            "Category": "Sides",
+            "Sub Category": "None",
+            "Item Name": "Roti / Butter Roti / Garlic Butter Roti",
+            "Item Price": "35/ 45 /55",
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "Sides",
+            "Sub Category": "None",
+            "Item Name": "Plain naan / Butter naan/ Garlic Naan",
+            "Item Price": "65/ 75/ 85",
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "Sides",
+            "Sub Category": "None",
+            "Item Name": "Laccha Parantha / Mirchi Parantha/ Garlic Laccha Parantha",
+            "Item Price": "65/ 75/ 85",
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "Sides",
+            "Sub Category": "None",
+            "Item Name": "Burani Raita",
+            "Item Price": 95,
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "Sides",
+            "Sub Category": "None",
+            "Item Name": "Green Salad",
+            "Item Price": 125,
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "Sides",
+            "Sub Category": "None",
+            "Item Name": "Steam Rice",
+            "Item Price": 155,
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "Desserts",
+            "Sub Category": "None",
+            "Item Name": "Caramel Brownie Tower",
+            "Item Price": 325,
+            "Item Details": "Caramel popcorn , Dark chocolate brownie, Hot chocolate",
+            "Item Speciality": "Gravity Special"
+        },
+        {
+            "Category": "Desserts",
+            "Sub Category": "None",
+            "Item Name": "Hot Gulab Jamun with Paan Ice Cream",
+            "Item Price": 165,
+            "Item Speciality": "None"
+        },
+        {
+            "Category": "Desserts",
+            "Sub Category": "None",
+            "Item Name": "Hot Chocolate Fudge",
+            "Item Price": 265,
+            "Item Details": "Jumbo scoops of vanilla ice cream poured with hot chocolate sauce, wafer stick, assorted nuts and caramel choora",
+            "Item Speciality": "None"
+        }
+    ],
+    "mocktails": [
+        {
+            "name": "WHY SO SIRIUS?",
+            "details": "Named after a star system, this is your favourite Apple Cinnamon Mojito made with fresh Mint, fresh Lemon chunks, Lime juice, Mint Syrup, and Cinnamon.",
+            "price": 195,
+            "speciality": "None"
+        },
+        {
+            "name": "JEDI HIGH COUNCIL",
+            "details": "Keeping a check on your saas with this tasteful drink made with fresh Apple chunks, Basil leaves, Chaat Masala, Apple Juice, Lime Juice, and Basil Syrup.",
+            "price": 225,
+            "speciality": "None"
+        },
+        {
+            "name": "YODA-LICIOUS!",
+            "details": "Give wisdom a chance! Lemon Juice, Beetroot, Chaat Masala, Black Salt, and Sugar make it happen.",
+            "price": 255,
+            "speciality": "None"
+        },
+        {
+            "name": "GUIDE TO THE GALAXY #101",
+            "details": "Fresh Carrots, Orange Juice, Orange Crush, and Soda blend together to take you on a trip to the universe!",
+            "price": 255,
+            "speciality": "None"
+        },
+        {
+            "name": "STRING THEORY",
+            "details": "This one looks beautiful with a complex miz of colors; made with fresh Watermelon, Orange Chunks, Chaat Masala, fresh Mint, Sweet and Sour, Orange Juice, and Watermelon Syrup.",
+            "price": 225,
+            "speciality": "None"
+        },
+        {
+            "name": "DELTA OF VENUS",
+            "details": "Instantly fall in love with this one; made with fresh Orange chunks, Pomegranate Seeds, Chaat Masala, and Sprite!",
+            "price": 255,
+            "speciality": "None"
+        }
+    ],
+    "classicCocktails": [
+        {
+            "name": "Rocketful of Sunshine",
+            "details": "Your all time favourite MOJITO made with the goodness of Bacardi, Mint Leaves, Lemon Chunks, Brown Sugar, Lime Juice, Soda, Sprite, and Monin Mint Syrup.",
+            "price": 325,
+            "pitcherPrice": 1499
+        },
+        {
+            "name": "Plutonic Love",
+            "details": "The classic OLD-FASHIONED cocktail you can always go back to back; made with Jim Beam, Orange Peel, Angostura Bitters, and White Sugar.",
+            "price": 325
+        },
+        {
+            "name": "Marsgarita",
+            "details": "The porpular MARGARITA always stealing the show; made with Tequila, Triple Sec, and Lime Juice.",
+            "price": 325,
+            "pitcherPrice": 1499
+        },
+        {
+            "name": "The Big Bang",
+            "details": "All the fun starts here with the WHISKEY SOUR, made with Jim Beam, Egg White, and Sweet & Sour.",
+            "price": 325
+        },
+        {
+            "name": "Bloody Marry-Go-Round",
+            "details": "Get tipsy when your BLOODY MARY made of Vodka, Tomato Juice, Celery Salt, Worcestershiresauce, Tabasco, and Black Pepper unleashes the thrill!",
+            "price": 325
+        },
+        {
+            "name": "Cosmospolitan",
+            "details": "When Vodka, Triple Sec, Cranberry Juice, and Lime Juice come together, you experience the entire cosmos in a drink!",
+            "price": 325
+        },
+        {
+            "name": "Stargasm",
+            "details": "Your SEX-ON-THE-BEACH is only more rewarding when in space; made with Vodka, Peach Syrup, Lime Juice, Orange Juice, and Cranberry Juice.",
+            "price": 325
+        },
+        {
+            "name": "Ball of Fire",
+            "details": "That craxy MELON BALL never stops to enthral; made with Vodka, Midori, Orange Juice, and Pinneapple Juice.",
+            "price": 325
+        },
+        {
+            "name": "The God Particle",
+            "details": "Never gets old, RED WINE SANGRIA!",
+            "price": 425,
+            "pitcherPrice": 1999
+        },
+        {
+            "name": "Paradise Restored",
+            "details": "WHITE WINE SANGRIA to restore your faith in the brewniverse!",
+            "price": 425,
+            "pitcherPrice": 1999
+        }
+    ],
+    "cocktails": [
+        {
+          "name": "Eureka!",
+          "details": "Combining the smoothness Jim Beam, a dash of Sweet & Sour with Pinneaple flavour, a pinch of Egg White, donned with the seduction of Red Wine!",
+          "price": 375
+        },
+        {
+          "name": "Blood Moon",
+          "details": "A cocktail that brings out ravishing red conjured up with the combo of Beetroot, Carrot, and Cinnamon, topped with essence of Lime.",
+          "price": 375
+        },
+        {
+          "name": "A Space Odyssey",
+          "details": "UnEarth the undiscovered truths of the universe with a cocktail made of Triple Sec, Orange Juice, Turmeric, and Chilli Salt Trim.",
+          "price": 375
+        },
+        {
+          "name": "Stardust",
+          "details": "We recreate the cosmos in your cocktail with Vodka, fresh Strawberry, Betal Leaves, Sweet & Sour, and Candy Flower.",
+          "price": 375
+        },
+        {
+          "name": "Footprints on the Moon",
+          "details": "Thi Crazy cocktail made with Vodka, Red Wine, Basil Leaves, Sweet & Sour, Basil Syrup, Clove, and Coke might leave you feeling higher than you've ever been!",
+          "price": 375
+        },
+        {
+          "name": "Ale the way to Space!",
+          "details": "The perfect cocktail made with the magical portion of Jack Daniels, Lime Juice, Ginger Ale, Triple Sec, and Ginger is here to let that trippy feeling kick in.",
+          "price": 395
+        },
+        {
+          "name": "Dark Matter",
+          "details": "This one's as dark as the beginning of the Big Bang! All beautiful and chaotic blended with Bacardi, Kala Khatta Syrup, Sweet & Sour, and some Coke.",
+          "price": 375
+        },
+        {
+          "name": "Axistence",
+          "details": "Orbiting in our axis of daily life gets pretty mundane. So, shake it up with a cocktail that is made of a dramatic mix of Vodka, Sweet & Sour, Fresh Ginger, and Lemongrass.",
+          "price": 375
+        },
+        {
+          "name": "Lime Space Continuum",
+          "details": "And all the banter gets even more interesting with a crazy cocktail created with the magic of Gin, Martini Rosso, Kafir Lime, Lime Juice, and Sugar.",
+          "price": 375
+        },
+        {
+          "name": "Sunsational",
+          "details": "A rich yellow that gives you a high so mellow; made with the right proportions of Bacardi, Ripe Banana, Pinneapple Juice, Banana Juice Puree, and Cardamom Powder.",
+          "price": 375
+        },
+        {
+          "name": "The Big Bang Theory",
+          "details": "It all started with a big bang of Gin, Earl Grey Tea, Honey, and Lavender Syrup. The truth of the universe is concentrated in this ecstatic cocktail!",
+          "price": 375
+        },
+        {
+          "name": "Ginesis",
+          "details": "Truly oriGINal in it taste, this cocktail made with Gin, Rasberry, Sweet & Sour, and Egg White establishes a state of pure bliss and cultivates a following of its own.",
+          "price": 375
+        }
+      ]
+}

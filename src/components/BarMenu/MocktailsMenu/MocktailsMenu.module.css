@@ -1,0 +1,40 @@
+.Heading {
+    text-transform: uppercase;
+    font-family: 'Orbitron', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.MocktailsMenuContainer {
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    list-style: circle;
+    margin-left: 0;
+}
+
+.ItemRow {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+
+.TitleDetailsContainer {
+    margin-right: 30px;
+    text-align: left;
+}
+
+.Title {
+    font-size: 1.2em;
+    text-transform: uppercase;
+    text-decoration: underline;
+    margin: 0 auto;
+}
+
+.Details {
+    font-size: small;
+}
+
+.Price {
+    font-size: 1.2em;
+    font-weight: bold;
+    text-align: right;
+}
