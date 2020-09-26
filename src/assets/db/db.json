@@ -1072,8 +1072,8 @@
                     "title": "Tequila",
                     "quantities": [
                         "30 ml",
-                        "360 ml",
-                        "bottle"
+                        "6 shots",
+                        "12 shots"
                     ],
                     "items": [
                         {
@@ -1081,15 +1081,15 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 290
+                                    "price": 295
                                 },
                                 {
-                                    "quantity": "360 ml",
-                                    "price": 1150
+                                    "quantity": "6 shots",
+                                    "price": 1620
                                 },
                                 {
-                                    "quantity": "bottle",
-                                    "price": 2250
+                                    "quantity": "12 shots",
+                                    "price": 2940
                                 }
                             ]
                         },
@@ -1101,12 +1101,12 @@
                                     "price": 325
                                 },
                                 {
-                                    "quantity": "360 ml",
-                                    "price": 1290
+                                    "quantity": "6 shots",
+                                    "price": 1770
                                 },
                                 {
-                                    "quantity": "bottle",
-                                    "price": 2550
+                                    "quantity": "12 shots",
+                                    "price": 3120
                                 }
                             ]
                         },
@@ -1115,15 +1115,15 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 290
+                                    "price": 295
                                 },
                                 {
-                                    "quantity": "360 ml",
-                                    "price": 1150
+                                    "quantity": "6 shots",
+                                    "price": 1620
                                 },
                                 {
-                                    "quantity": "bottle",
-                                    "price": 2250
+                                    "quantity": "12 shots",
+                                    "price": 2940
                                 }
                             ]
                         }
@@ -1784,7 +1784,7 @@
                                 },
                                 {
                                     "quantity": "bottle",
-                                    "price": 2450
+                                    "price": 3450
                                 }
                             ]
                         },

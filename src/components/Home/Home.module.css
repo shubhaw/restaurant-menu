@@ -2,7 +2,11 @@
     display: flex;
     flex-direction: column;
     row-gap: 20px;
-    background-color: #0F0F0F;
+    /* background-color: #0F0F0F; */
+    background-image: url("../../assets/images/HomeBg.jpeg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center center;
     height: 100vh;
     align-items: center;
     justify-content: space-between;
@@ -16,7 +20,7 @@
 .ButtonsDiv {
     display: flex;
     flex-direction: column;
-    margin-bottom: 100px;
+    margin-bottom: 200px;
 }
 
 .Button {
@@ -24,4 +28,5 @@
     width: 200px;
     font-family: 'Orbitron', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-stretch: ultra-expanded;
+    border: 2px solid black;
 }
