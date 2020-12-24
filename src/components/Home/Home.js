@@ -7,7 +7,7 @@ const Home = ({ setMainMenu }) => {
         <div className={classes.SpaceFilling}></div>
         <img src={Logo} alt="Gravity Spacebar" width="200" height="58" />
         <div className={classes.ButtonsDiv}>
-            <button className={classes.Button} style={{ marginBottom: "40px"}} onClick={() => setMainMenu("foodMenu")}>Food Menu</button>
+            {/* <button className={classes.Button} style={{ marginBottom: "40px"}} onClick={() => setMainMenu("foodMenu")}>Food Menu</button> */}
             <button className={classes.Button} onClick={() => setMainMenu("barMenu")}>Bar Menu</button>
         </div>
     </div>
