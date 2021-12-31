@@ -1661,15 +1661,15 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 255
+                                    "price": 295
                                 },
                                 {
                                     "quantity": "360 ml",
-                                    "price": 2395
+                                    "price": 3095
                                 },
                                 {
                                     "quantity": "bottle",
-                                    "price": 4595
+                                    "price": 5395
                                 }
                             ]
                         },
@@ -1678,15 +1678,15 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 295
+                                    "price": 335
                                 },
                                 {
                                     "quantity": "360 ml",
-                                    "price": 2995
+                                    "price": 3695
                                 },
                                 {
                                     "quantity": "bottle",
-                                    "price": 5595
+                                    "price": 6395
                                 }
                             ]
                         },
@@ -1695,15 +1695,15 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 295
+                                    "price": 335
                                 },
                                 {
                                     "quantity": "360 ml",
-                                    "price": 2995
+                                    "price": 3695
                                 },
                                 {
                                     "quantity": "bottle",
-                                    "price": 5595
+                                    "price": 6395
                                 }
                             ]
                         },
@@ -1712,15 +1712,15 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 375
+                                    "price": 415
                                 },
                                 {
                                     "quantity": "360 ml",
-                                    "price": 3995
+                                    "price": 4695
                                 },
                                 {
                                     "quantity": "bottle",
-                                    "price": 6995
+                                    "price": 7795
                                 }
                             ]
                         },
@@ -1729,15 +1729,15 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 375
+                                    "price": 415
                                 },
                                 {
                                     "quantity": "360 ml",
-                                    "price": 3995
+                                    "price": 4695
                                 },
                                 {
                                     "quantity": "bottle",
-                                    "price": 6995
+                                    "price": 7795
                                 }
                             ]
                         },
@@ -1746,15 +1746,15 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 455
+                                    "price": 495
                                 },
                                 {
                                     "quantity": "360 ml",
-                                    "price": 4495
+                                    "price": 5195
                                 },
                                 {
                                     "quantity": "bottle",
-                                    "price": 7495
+                                    "price": 8295
                                 }
                             ]
                         },
@@ -1763,15 +1763,15 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 455
+                                    "price": 495
                                 },
                                 {
                                     "quantity": "360 ml",
-                                    "price": 4495
+                                    "price": 5195
                                 },
                                 {
                                     "quantity": "bottle",
-                                    "price": 7495
+                                    "price": 8295
                                 }
                             ]
                         },
@@ -1780,7 +1780,7 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 495
+                                    "price": 535
                                 }
                             ]
                         },
@@ -1789,7 +1789,7 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 550
+                                    "price": 590
                                 }
                             ]
                         },
@@ -1826,15 +1826,15 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 375
+                                    "price": 415
                                 },
                                 {
                                     "quantity": "360 ml",
-                                    "price": 3995
+                                    "price": 4695
                                 },
                                 {
                                     "quantity": "bottle",
-                                    "price": 6995
+                                    "price": 7795
                                 }
                             ]
                         },
@@ -1843,15 +1843,15 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 325
+                                    "price": 365
                                 },
                                 {
                                     "quantity": "360 ml",
-                                    "price": 3495
+                                    "price": 4195
                                 },
                                 {
                                     "quantity": "bottle",
-                                    "price": 6295
+                                    "price": 7095
                                 }
                             ]
                         },
@@ -1860,15 +1860,15 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 275
+                                    "price": 315
                                 },
                                 {
                                     "quantity": "360 ml",
-                                    "price": 2795
+                                    "price": 3495
                                 },
                                 {
                                     "quantity": "bottle",
-                                    "price": 4995
+                                    "price": 5795
                                 }
                             ]
                         }
@@ -1887,15 +1887,15 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 255
+                                    "price": 295
                                 },
                                 {
                                     "quantity": "360 ml",
-                                    "price": 2395
+                                    "price": 3095
                                 },
                                 {
                                     "quantity": "bottle",
-                                    "price": 4595
+                                    "price": 5395
                                 }
                             ]
                         },
@@ -1904,15 +1904,15 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 225
+                                    "price": 265
                                 },
                                 {
                                     "quantity": "360 ml",
-                                    "price": 1995
+                                    "price": 2695
                                 },
                                 {
                                     "quantity": "bottle",
-                                    "price": 3795
+                                    "price": 4595
                                 }
                             ]
                         },
@@ -1921,15 +1921,15 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 255
+                                    "price": 295
                                 },
                                 {
                                     "quantity": "360 ml",
-                                    "price": 2395
+                                    "price": 3095
                                 },
                                 {
                                     "quantity": "bottle",
-                                    "price": 4595
+                                    "price": 5395
                                 }
                             ]
                         },
@@ -1938,15 +1938,15 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 255
+                                    "price": 295
                                 },
                                 {
                                     "quantity": "360 ml",
-                                    "price": 2395
+                                    "price": 3095
                                 },
                                 {
                                     "quantity": "bottle",
-                                    "price": 4595
+                                    "price": 5395
                                 }
                             ]
                         },
@@ -1955,15 +1955,15 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 255
+                                    "price": 295
                                 },
                                 {
                                     "quantity": "360 ml",
-                                    "price": 2395
+                                    "price": 3095
                                 },
                                 {
                                     "quantity": "bottle",
-                                    "price": 4595
+                                    "price": 5395
                                 }
                             ]
                         },
@@ -1972,15 +1972,15 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 295
+                                    "price": 335
                                 },
                                 {
                                     "quantity": "360 ml",
-                                    "price": 2795
+                                    "price": 3495
                                 },
                                 {
                                     "quantity": "bottle",
-                                    "price": 4995
+                                    "price": 5795
                                 }
                             ]
                         },
@@ -1989,15 +1989,15 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 295
+                                    "price": 335
                                 },
                                 {
                                     "quantity": "360 ml",
-                                    "price": 2795
+                                    "price": 3495
                                 },
                                 {
                                     "quantity": "bottle",
-                                    "price": 4995
+                                    "price": 5795
                                 }
                             ]
                         },
@@ -2006,15 +2006,15 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 295
+                                    "price": 335
                                 },
                                 {
                                     "quantity": "360 ml",
-                                    "price": 2795
+                                    "price": 3495
                                 },
                                 {
                                     "quantity": "bottle",
-                                    "price": 4995
+                                    "price": 5795
                                 }
                             ]
                         }
@@ -2033,15 +2033,15 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 175
+                                    "price": 195
                                 },
                                 {
                                     "quantity": "360 ml",
-                                    "price": 1295
+                                    "price": 1495
                                 },
                                 {
                                     "quantity": "bottle",
-                                    "price": 2595
+                                    "price": 2895
                                 }
                             ]
                         },
@@ -2050,15 +2050,15 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 225
+                                    "price": 245
                                 },
                                 {
                                     "quantity": "360 ml",
-                                    "price": 1995
+                                    "price": 2195
                                 },
                                 {
                                     "quantity": "bottle",
-                                    "price": 3495
+                                    "price": 3795
                                 }
                             ]
                         }
@@ -2077,15 +2077,15 @@
                             "details": [
                                 {
                                     "quantity": "1 bottle",
-                                    "price": 275
+                                    "price": 295
                                 },
                                 {
                                     "quantity": "6 bottles",
-                                    "price": 1595
+                                    "price": 1795
                                 },
                                 {
                                     "quantity": "12 bottles",
-                                    "price": 2750
+                                    "price": 2950
                                 }
                             ]
                         }
