@@ -11,19 +11,19 @@
                     "items": [
                         {
                             "name": "Crunchy Onion Rings",
-                            "price": 275,
+                            "price": 295,
                             "speciality": "None",
                             "details": "Crispy fried rings of onion dusted with cajun spice and served with chilli mayo"
                         },
                         {
                             "name": "Tandoori Makhane",
-                            "price": 275,
+                            "price": 295,
                             "speciality": "None",
                             "details": "Puffed lotus seeds tossed in our in house tandoori dry seasoning, served with tzastik"
                         },
                         {
                             "name": "Achaari Peanut Masala",
-                            "price": 275,
+                            "price": 295,
                             "speciality": "None",
                             "details": "Salted peanuts tossed with chop onion and tomato salsa, infused with carrot pickle."
                         },
@@ -35,37 +35,37 @@
                         },
                         {
                             "name": "Peri Peri French Fries",
-                            "price": 295,
+                            "price": 325,
                             "speciality": "None",
                             "details": "Served with original mayonnaise"
                         },
                         {
                             "name": "Maggi Masala Fries",
-                            "price": 295,
+                            "price": 325,
                             "speciality": "None",
                             "details": "Served with original mayonnaise."
                         },
                         {
                             "name": "Cheese garlic bread sticks",
-                            "price": 295,
+                            "price": 325,
                             "speciality": "None",
                             "details": "Served with chipotle mayonnaise"
                         },
                         {
                             "name": "Batata Stones",
-                            "price": 275,
-                            "speciality": "None",
-                            "details": ""
-                        },
-                        {
-                            "name": "Vada Pao",
                             "price": 295,
                             "speciality": "None",
                             "details": ""
                         },
                         {
+                            "name": "Vada Pao",
+                            "price": 325,
+                            "speciality": "None",
+                            "details": ""
+                        },
+                        {
                             "name": "Aloo Chaat",
-                            "price": 275,
+                            "price": 295,
                             "speciality": "None",
                             "details": ""
                         }
@@ -78,36 +78,36 @@
                     "items": [
                         {
                             "name": "Garlic Bread with Chicken Tikka",
-                            "price": 325,
+                            "price": 345,
                             "speciality": "None"
                         },
                         {
                             "name": "Extra Hot & Spicy Chicken Popcorn",
-                            "price": 325,
+                            "price": 345,
                             "speciality": "None",
                             "details": "Served with lemon n garlic mayo"
                         },
                         {
                             "name": "Matthi Canape",
-                            "price": 325,
+                            "price": 345,
                             "speciality": "Gravity Special",
                             "details": "Pulled smoked chicken, Caramelized onion, fruit preserve"
                         },
                         {
                             "name": "Three Chicken Loaded Fries",
-                            "price": 355,
+                            "price": 375,
                             "speciality": "Spicy",
                             "details": "Chicken tikka, peri peri chicken & roasted chicken topped over dusted french fries with cheese sauce"
                         },
                         {
                             "name": "Zingy Chicken Rolls",
-                            "price": 355,
+                            "price": 375,
                             "speciality": "None",
                             "details": "Chicken mince stuffed in roll sheet, fried to golden crisp, served with chilli mayo"
                         },
                         {
                             "name": "Olive Oil Chicken",
-                            "price": 355,
+                            "price": 375,
                             "speciality": "None",
                             "details": "Chunks of chicken breast tossed in olive oil and spicy seasoning along with exotic vegetables"
                         }
@@ -126,91 +126,91 @@
                     "items": [
                         {
                             "name": "Caesar Salad",
-                            "price": 275,
+                            "price": 295,
                             "speciality": "None",
                             "details": "Chilled ice berg, Creamy caesar dressing, Pesto croutons and tossed vegetables\nAdd on: - Spicy chicken   65/-"
                         },
                         {
                             "name": "Lovely Corns",
-                            "price": 345,
+                            "price": 375,
                             "speciality": "None",
                             "details": "Crispy corns tossed in chop onion and bell pepper salsa with Szechwan sauce"
                         },
                         {
                             "name": "Duet of Soya Chaap",
-                            "price": 345,
+                            "price": 375,
                             "speciality": "None",
                             "details": "Achaari and malai soya chaap with shaslik, served with essentials"
                         },
                         {
                             "name": "Chili Cheese rolls",
-                            "price": 345,
+                            "price": 375,
                             "speciality": "None",
                             "details": "Spring rolled filled with a mixture of assorted cheese, corn and olive tapenade, fried to golden crisp and served with dipping sauce."
                         },
                         {
                             "name": "Palak Patta Mille Fieulle",
-                            "price": 295,
+                            "price": 325,
                             "speciality": "Gravity Special",
                             "details": "Battered fried spinach leaves, Sweetened yogurt mousse, Nylon sev and Pomegranate"
                         },
                         {
                             "name": "Bhelpuri Bar",
-                            "price": 295,
+                            "price": 325,
                             "speciality": "Gravity Special",
                             "details": "Duo of apples & fried potatoes, meethi dahi granita and pomegranate pearls"
                         },
                         {
                             "name": "Pao Bhaji Mollete",
-                            "price": 345,
+                            "price": 375,
                             "speciality": "Gravity Special",
                             "details": "Bombay style vegetable mash, Salted chili, Smoked scarmoza melt"
                         },
                         {
                             "name": "Magic Quesadilla",
-                            "price": 345,
+                            "price": 375,
                             "speciality": "None",
                             "details": "Exotic vegetable masala, Cajun rice, Lehsuni sour cream"
                         },
                         {
                             "name": "Bharwan Dahi Kebab",
-                            "price": 355,
+                            "price": 375,
                             "speciality": "None",
                             "details": "Orange marmalade and jalapeno stuffed dahi ke kebab, served with essentials"
                         },
                         {
                             "name": "Exotic Mushroom Croquette",
-                            "price": 355,
+                            "price": 375,
                             "speciality": "None",
                             "details": "Served with fries and lemon n garlic aioli"
                         },
                         {
                             "name": "Old School Chili Paneer",
-                            "price": 375,
+                            "price": 395,
                             "speciality": "Double Spicy",
                             "details": "Indo Chinese cottage cheese"
                         },
                         {
                             "name": "Trinity of Paneer Tikka",
-                            "price": 395,
+                            "price": 425,
                             "speciality": "None",
                             "details": "Saffron methi malai, Garlic & kashmiri chili, Basil pesto paneer tikka, Served with side salad and chutney"
                         },
                         {
                             "name": "Obsessive Nachos",
-                            "price": 395,
+                            "price": 425,
                             "speciality": "None",
                             "details": "Three cheese melt, tomato salsa, Burani sour cream\nAdd on: - Pulled BBQ chicken   65/-"
                         },
                         {
                             "name": "Chili Paneer Puff",
-                            "price": 395,
+                            "price": 425,
                             "speciality": "None",
                             "details": ""
                         },
                         {
                             "name": "Chili Mushroom",
-                            "price": 395,
+                            "price": 425,
                             "speciality": "None",
                             "details": ""
                         }
@@ -223,109 +223,109 @@
                     "items": [
                         {
                             "name": "Country Style Fried chicken Strips",
-                            "price": 395,
+                            "price": 425,
                             "speciality": "None",
                             "details": "Flaky chicken strips, breaded, fried to golden crisp and served with tomato salsa"
                         },
                         {
                             "name": "Peri Peri Chicken Seekh",
-                            "price": 395,
+                            "price": 425,
                             "speciality": "None",
                             "details": "Chicken mince infused with peri peri spice, roasted in clay oven, served with side salad and chutney."
                         },
                         {
                             "name": "Irani Chicken Tikka",
-                            "price": 425,
+                            "price": 445,
                             "speciality": "None",
                             "details": "Amul cheese sauce coated murgh malai tikka, served with essentials."
                         },
                         {
                             "name": "Malai Chicken Brucshetta",
-                            "price": 395,
+                            "price": 425,
                             "speciality": "None",
                             "details": "Garlic bread, malai chicken rilette, andhra tomato chutney, garlic crumbs."
                         },
                         {
                             "name": "Good Old Chili chicken",
-                            "price": 425,
+                            "price": 445,
                             "speciality": "Double Spicy",
                             "details": "Indo Chinese chicken"
                         },
                         {
                             "name": "Roasted Tandoori Chicken",
-                            "price": 425,
+                            "price": 445,
                             "speciality": "None",
                             "details": "Half portion, served with essentials"
                         },
                         {
                             "name": "Fish n Chips",
-                            "price": 475,
-                            "speciality": "None",
-                            "details": ""
-                        },
-                        {
-                            "name": "Jama Masjid’s Chicken Tikka",
-                            "price": 455,
-                            "speciality": "Spicy",
-                            "details": "Tandoori Chicken tikka, Butter & cream emulsion, Chuntey & pyaaz"
-                        },
-                        {
-                            "name": "Hanging Garden",
-                            "price": 455,
-                            "speciality": "None",
-                            "details": ""
-                        },
-                        {
-                            "name": "Amritsari or Ajwaini Fish Tikka",
-                            "price": 475,
-                            "speciality": "None",
-                            "details": "Good old classic recipe, served with side salad and green chutney"
-                        },
-                        {
-                            "name": "Keema Ghotala Pao",
-                            "price": 455,
-                            "speciality": "None",
-                            "details": "Fragrant lamb mince topped with soft fried egg, served with maska pao and chutney onion rings."
-                        },
-                        {
-                            "name": "Bae’s Lamb Chop",
-                            "price": 575,
-                            "speciality": "Gravity Special",
-                            "details": "Braised Indian lamb chops, masala creme, in house chutneys."
-                        },
-                        {
-                            "name": "New Friends's Colony Shawarma Kulcha",
-                            "price": 395,
-                            "speciality": "None",
-                            "details": ""
-                        },
-                        {
-                            "name": "Chicken Wings",
-                            "price": 395,
-                            "speciality": "None",
-                            "details": ""
-                        },
-                        {
-                            "name": "Juicy Lucy Taco",
                             "price": 495,
                             "speciality": "None",
                             "details": ""
                         },
                         {
-                            "name": "Chili Chicken Puff",
+                            "name": "Jama Masjid’s Chicken Tikka",
+                            "price": 475,
+                            "speciality": "Spicy",
+                            "details": "Tandoori Chicken tikka, Butter & cream emulsion, Chuntey & pyaaz"
+                        },
+                        {
+                            "name": "Hanging Garden",
+                            "price": 475,
+                            "speciality": "None",
+                            "details": ""
+                        },
+                        {
+                            "name": "Amritsari or Ajwaini Fish Tikka",
+                            "price": 495,
+                            "speciality": "None",
+                            "details": "Good old classic recipe, served with side salad and green chutney"
+                        },
+                        {
+                            "name": "Keema Ghotala Pao",
+                            "price": 475,
+                            "speciality": "None",
+                            "details": "Fragrant lamb mince topped with soft fried egg, served with maska pao and chutney onion rings."
+                        },
+                        {
+                            "name": "Bae’s Lamb Chop",
+                            "price": 595,
+                            "speciality": "Gravity Special",
+                            "details": "Braised Indian lamb chops, masala creme, in house chutneys."
+                        },
+                        {
+                            "name": "New Friends's Colony Shawarma Kulcha",
                             "price": 425,
                             "speciality": "None",
                             "details": ""
                         },
                         {
+                            "name": "Chicken Wings",
+                            "price": 425,
+                            "speciality": "None",
+                            "details": ""
+                        },
+                        {
+                            "name": "Juicy Lucy Taco",
+                            "price": 525,
+                            "speciality": "None",
+                            "details": ""
+                        },
+                        {
+                            "name": "Chili Chicken Puff",
+                            "price": 445,
+                            "speciality": "None",
+                            "details": ""
+                        },
+                        {
                             "name": "Prawn Salt n Pepper",
-                            "price": 575,
+                            "price": 595,
                             "speciality": "None",
                             "details": "Tempura prawns tossed in salt n pepper style"
                         },
                         {
                             "name": "Fish Finger",
-                            "price": 475,
+                            "price": 495,
                             "speciality": "None",
                             "details": ""
                         }
@@ -344,27 +344,27 @@
                     "items": [
                         {
                             "name": "Margarita",
-                            "price": 445,
+                            "price": 475,
                             "speciality": ""
                         },
                         {
                             "name": "Thai Style Grilled Vegetables",
-                            "price": 475,
+                            "price": 495,
                             "speciality": ""
                         },
                         {
                             "name": "Paneer Tikka Masala, onion, tomato, and green chili",
-                            "price": 475,
+                            "price": 495,
                             "speciality": ""
                         },
                         {
                             "name": "Roasted peppers, onion, mushrooms and corn",
-                            "price": 475,
+                            "price": 495,
                             "speciality": ""
                         },
                         {
                             "name": "Overloaded",
-                            "price": 505,
+                            "price": 545,
                             "speciality": ""
                         }
                     ]
@@ -376,27 +376,27 @@
                     "items": [
                         {
                             "name": "Chicken Tikka Masala, onion, tomato, green chili",
-                            "price": 525,
+                            "price": 545,
                             "speciality": ""
                         },
                         {
                             "name": "Paprika chicken, mushroom, fresh thyme",
-                            "price": 525,
+                            "price": 545,
                             "speciality": ""
                         },
                         {
                             "name": "Chicken malai tikka, Jalapeno, Trio of peppers",
-                            "price": 525,
+                            "price": 545,
                             "speciality": ""
                         },
                         {
                             "name": "Chicken sausage, roasted peppers, green chili, corn",
-                            "price": 525,
+                            "price": 545,
                             "speciality": ""
                         },
                         {
                             "name": "Mutton keema, sliced onion, jalapeno, fresh coriander",
-                            "price": 545,
+                            "price": 575,
                             "speciality": ""
                         }
                     ]
@@ -405,7 +405,7 @@
         },
         {
             "title": "Tibetan Juicy Momos",
-            "description": "Vegeterian / Chicken      300/ 370",
+            "description": "Vegeterian / Chicken      345/ 395",
             "submenu": [
                 {
                     "title": "",
@@ -447,13 +447,13 @@
                     "items": [
                         {
                             "name": "Veg Chinese Platter",
-                            "price": 795,
+                            "price": 845,
                             "speciality": "None",
                             "details": "Cheese chilli rolls, Dry Manchurian, Chili paneer and Lovely Corns. Served with a side portion of hakka noodle and hot garlic sauce"
                         },
                         {
                             "name": "Veg Tandoori Platter",
-                            "price": 795,
+                            "price": 845,
                             "speciality": "None",
                             "details": "Trio of panner tikka, Tandoori momos, Tandoori mushrooms, Palak & corn seekh kebab and Blackened kebab. Served with side salad, garlic naan and green chutney"
                         }
@@ -466,13 +466,13 @@
                     "items": [
                         {
                             "name": "Non Veg Chinese Platter",
-                            "price": 895,
+                            "price": 945,
                             "speciality": "None",
                             "details": "Zingy chicken rolls, Chicken manchurian, Chili chicken and Dragon fish finger. Served with a side portion of egg hakka noodle and hot garlic sauce"
                         },
                         {
                             "name": "Non Veg Tandoori Platter",
-                            "price": 895,
+                            "price": 945,
                             "speciality": "None",
                             "details": "Jama Masjid chicken tikka, Murgh Malai Tikka, Peri peri chicken seekh kebab and Ajwaini fish tikka. Served with side salad, garlic naan and green chutney"
                         }
@@ -491,31 +491,31 @@
                     "items": [
                         {
                             "name": "Aglio Olio Peperoncino",
-                            "price": 415,
+                            "price": 445,
                             "speciality": "None",
                             "details": "Roasted garlic flakes, Olive oil emulsion, Parmesan crumb"
                         },
                         {
                             "name": "Puttanesa",
-                            "price": 445,
+                            "price": 475,
                             "speciality": "None",
                             "details": "Fiery tomato sauce, Duo of olives, Sun dried tomato"
                         },
                         {
                             "name": "Creamy Parmesan",
-                            "price": 445,
+                            "price": 475,
                             "speciality": "None",
                             "details": "Fresh herbs spiked bechamel, Exotic vegetables, Jalapeno puree"
                         },
                         {
                             "name": "Creamy Mushroom Alfredo",
-                            "price": 445,
+                            "price": 475,
                             "speciality": "None",
                             "details": "White sauce with lots of mushrooms"
                         },
                         {
                             "name": "Chicken and Mushroom",
-                            "price": 455,
+                            "price": 495,
                             "speciality": "Non - Veg",
                             "details": "Succulent chicken thighs, button mushrooms, Tomato and cream sauce"
                         }
@@ -534,53 +534,53 @@
                     "items": [
                         {
                             "name": "Dal Makhani",
-                            "price": 350,
+                            "price": 375,
                             "speciality": "None"
                         },
                         {
                             "name": "Paneer Tikka Butter Masala",
-                            "price": 400,
+                            "price": 425,
                             "speciality": "None"
                         },
                         {
                             "name": "Jalapeno Kadhai Paneer",
-                            "price": 400,
+                            "price": 425,
                             "speciality": "None"
                         },
                         {
                             "name": "Cheesy Paneer Lababdar",
-                            "price": 400,
+                            "price": 425,
                             "speciality": "None"
                         },
                         {
                             "name": "Butter Paneer Makhani",
-                            "price": 400,
+                            "price": 425,
                             "speciality": "None"
                         },
                         {
                             "name": "Palak Paneer",
-                            "price": 400,
+                            "price": 425,
                             "speciality": "None"
                         },
                         {
                             "name": "Mixed Vegetable Kadhai",
-                            "price": 370,
+                            "price": 395,
                             "speciality": "None"
                         },
                         {
                             "name": "Mushroom, Corn & Peas Masala",
-                            "price": 370,
+                            "price": 395,
                             "speciality": "None"
                         },
                         {
                             "name": "Mixed Vegetable Biryani",
-                            "price": 420,
+                            "price": 445,
                             "speciality": "None",
                             "details": "Served with burani raita"
                         },
                         {
                             "name": "Paneer Makhani Biryani",
-                            "price": 420,
+                            "price": 445,
                             "speciality": "None",
                             "details": "Served with burani raita"
                         }
@@ -593,54 +593,54 @@
                     "items": [
                         {
                             "name": "Butter Chicken",
-                            "price": 395,
+                            "price": 425,
                             "speciality": "None"
                         },
                         {
                             "name": "Cheesy Chicken Lababdar",
-                            "price": 395,
+                            "price": 425,
                             "speciality": "None"
                         },
                         {
                             "name": "Jalapeno Kadhai Chicken",
-                            "price": 395,
+                            "price": 425,
                             "speciality": "None"
                         },
                         {
                             "name": "Chicken Rara",
-                            "price": 395,
+                            "price": 425,
                             "speciality": "None"
                         },
                         {
                             "name": "Chicken Tikka Butter Masala",
-                            "price": 395,
+                            "price": 425,
                             "speciality": "None"
                         },
                         {
                             "name": "Mutton Rogan Josh",
-                            "price": 475,
+                            "price": 495,
                             "speciality": "None"
                         },
                         {
                             "name": "Mutton Rara",
-                            "price": 475,
+                            "price": 495,
                             "speciality": "None"
                         },
                         {
                             "name": "Awadhi Chicken Biryani",
-                            "price": 435,
+                            "price": 475,
                             "speciality": "None",
                             "details": "Served with burani raita"
                         },
                         {
                             "name": "Chicken Rara Biryani",
-                            "price": 435,
+                            "price": 475,
                             "speciality": "None",
                             "details": "Served with burani raita"
                         },
                         {
                             "name": "Mutton Rara Biryani",
-                            "price": 495,
+                            "price": 545,
                             "speciality": "None",
                             "details": "Served with burani raita"
                         }
@@ -659,17 +659,17 @@
                     "items": [
                         {
                             "name": "Manchurian",
-                            "price": 465,
+                            "price": 495,
                             "speciality": "None"
                         },
                         {
                             "name": "Chili Paneer",
-                            "price": 465,
+                            "price": 495,
                             "speciality": "Double Spicy"
                         },
                         {
                             "name": "Hot garlic and lemon grass sauce",
-                            "price": 465,
+                            "price": 495,
                             "speciality": "Spicy"
                         }
                     ]
@@ -681,17 +681,17 @@
                     "items": [
                         {
                             "name": "Chili Chicken",
-                            "price": 495,
+                            "price": 545,
                             "speciality": "Double Spicy"
                         },
                         {
                             "name": "Chicken Manchurian",
-                            "price": 495,
+                            "price": 545,
                             "speciality": "None"
                         },
                         {
                             "name": "Hot garlic and lemon grass sauce",
-                            "price": 495,
+                            "price": 545,
                             "speciality": "Spicy"
                         }
                     ]
@@ -724,17 +724,17 @@
                         },
                         {
                             "name": "Burani Raita",
-                            "price": 105,
+                            "price": 115,
                             "speciality": "None"
                         },
                         {
                             "name": "Green Salad",
-                            "price": 135,
+                            "price": 145,
                             "speciality": "None"
                         },
                         {
                             "name": "Steam Rice",
-                            "price": 165,
+                            "price": 175,
                             "speciality": "None"
                         }
                     ]
@@ -752,18 +752,18 @@
                     "items": [
                         {
                             "name": "Caramel Brownie Tower",
-                            "price": 325,
+                            "price": 345,
                             "speciality": "Gravity Special",
                             "details": "Caramel popcorn , Dark chocolate brownie, Hot chocolate"
                         },
                         {
                             "name": "Hot Gulab Jamun with Paan Ice Cream",
-                            "price": 165,
+                            "price": 175,
                             "speciality": "None"
                         },
                         {
                             "name": "Hot Chocolate Fudge",
-                            "price": 265,
+                            "price": 275,
                             "speciality": "None",
                             "details": "Jumbo scoops of vanilla ice cream poured with hot chocolate sauce, wafer stick, assorted nuts and caramel choora"
                         }
@@ -790,19 +790,19 @@
                             "details": [
                                 {
                                     "quantity": "330 ml",
-                                    "price": 215
+                                    "price": 225
                                 },
                                 {
                                     "quantity": "500 ml",
-                                    "price": 285
+                                    "price": 295
                                 },
                                 {
                                     "quantity": "1.5 Litre",
-                                    "price": 755
+                                    "price": 775
                                 },
                                 {
                                     "quantity": "3 Litre",
-                                    "price": 1295
+                                    "price": 1345
                                 }
                             ]
                         },
@@ -811,19 +811,19 @@
                             "details": [
                                 {
                                     "quantity": "330 ml",
-                                    "price": 215
+                                    "price": 225
                                 },
                                 {
                                     "quantity": "500 ml",
-                                    "price": 285
+                                    "price": 295
                                 },
                                 {
                                     "quantity": "1.5 Litre",
-                                    "price": 755
+                                    "price": 775
                                 },
                                 {
                                     "quantity": "3 Litre",
-                                    "price": 1295
+                                    "price": 1345
                                 }
                             ]
                         },
@@ -832,19 +832,19 @@
                             "details": [
                                 {
                                     "quantity": "330 ml",
-                                    "price": 215
+                                    "price": 225
                                 },
                                 {
                                     "quantity": "500 ml",
-                                    "price": 285
+                                    "price": 295
                                 },
                                 {
                                     "quantity": "1.5 Litre",
-                                    "price": 755
+                                    "price": 775
                                 },
                                 {
                                     "quantity": "3 Litre",
-                                    "price": 1295
+                                    "price": 1345
                                 }
                             ]
                         },
@@ -853,19 +853,19 @@
                             "details": [
                                 {
                                     "quantity": "330 ml",
-                                    "price": 215
+                                    "price": 225
                                 },
                                 {
                                     "quantity": "500 ml",
-                                    "price": 285
+                                    "price": 295
                                 },
                                 {
                                     "quantity": "1.5 Litre",
-                                    "price": 755
+                                    "price": 775
                                 },
                                 {
                                     "quantity": "3 Litre",
-                                    "price": 1295
+                                    "price": 1345
                                 }
                             ]
                         }
@@ -882,7 +882,7 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 325
+                                    "price": 345
                                 }
                             ]
                         },
@@ -891,7 +891,7 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 325
+                                    "price": 345
                                 }
                             ]
                         },
@@ -900,7 +900,7 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 325
+                                    "price": 345
                                 }
                             ]
                         },
@@ -909,7 +909,7 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 325
+                                    "price": 345
                                 }
                             ]
                         }
@@ -928,15 +928,15 @@
                             "details": [
                                 {
                                     "quantity": "1 bottle",
-                                    "price": 525
+                                    "price": 545
                                 },
                                 {
                                     "quantity": "6 bottles",
-                                    "price": 2750
+                                    "price": 2875
                                 },
                                 {
                                     "quantity": "12 bottles",
-                                    "price": 5100
+                                    "price": 5275
                                 }
                             ]
                         },
@@ -945,15 +945,15 @@
                             "details": [
                                 {
                                     "quantity": "1 bottle",
-                                    "price": 525
+                                    "price": 545
                                 },
                                 {
                                     "quantity": "6 bottles",
-                                    "price": 2750
+                                    "price": 2875
                                 },
                                 {
                                     "quantity": "12 bottles",
-                                    "price": 5100
+                                    "price": 5275
                                 }
                             ]
                         }
@@ -972,15 +972,15 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 255
+                                    "price": 275
                                 },
                                 {
                                     "quantity": "360 ml",
-                                    "price": 2395
+                                    "price": 2475
                                 },
                                 {
                                     "quantity": "bottle",
-                                    "price": 3995
+                                    "price": 4175
                                 }
                             ]
                         },
@@ -989,15 +989,15 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 325
+                                    "price": 345
                                 },
                                 {
                                     "quantity": "360 ml",
-                                    "price": 3495
+                                    "price": 3645
                                 },
                                 {
                                     "quantity": "bottle",
-                                    "price": 5995
+                                    "price": 6495
                                 }
                             ]
                         },
@@ -1006,15 +1006,15 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 425
+                                    "price": 445
                                 },
                                 {
                                     "quantity": "360 ml",
-                                    "price": 4895
+                                    "price": 4995
                                 },
                                 {
                                     "quantity": "bottle",
-                                    "price": 7995
+                                    "price": 8295
                                 }
                             ]
                         },
@@ -1023,15 +1023,15 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 425
+                                    "price": 445
                                 },
                                 {
                                     "quantity": "360 ml",
-                                    "price": 4895
+                                    "price": 4995
                                 },
                                 {
                                     "quantity": "bottle",
-                                    "price": 7995
+                                    "price": 8295
                                 }
                             ]
                         }
@@ -1050,15 +1050,15 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 275
+                                    "price": 295
                                 },
                                 {
                                     "quantity": "360 ml",
-                                    "price": 2795
+                                    "price": 2895
                                 },
                                 {
                                     "quantity": "bottle",
-                                    "price": 5595
+                                    "price": 5695
                                 }
                             ]
                         },
@@ -1067,15 +1067,15 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 295
+                                    "price": 325
                                 },
                                 {
                                     "quantity": "360 ml",
-                                    "price": 2995
+                                    "price": 3195
                                 },
                                 {
                                     "quantity": "bottle",
-                                    "price": 5795
+                                    "price": 5995
                                 }
                             ]
                         },
@@ -1084,15 +1084,15 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 315
+                                    "price": 345
                                 },
                                 {
                                     "quantity": "360 ml",
-                                    "price": 3395
+                                    "price": 3495
                                 },
                                 {
                                     "quantity": "bottle",
-                                    "price": 5995
+                                    "price": 6295
                                 }
                             ]
                         }
@@ -1111,15 +1111,15 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 355
+                                    "price": 375
                                 },
                                 {
                                     "quantity": "6 shots",
-                                    "price": 1995
+                                    "price": 2095
                                 },
                                 {
                                     "quantity": "12 shots",
-                                    "price": 3695
+                                    "price": 3895
                                 }
                             ]
                         },
@@ -1128,15 +1128,15 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 385
+                                    "price": 395
                                 },
                                 {
                                     "quantity": "6 shots",
-                                    "price": 2195
+                                    "price": 2245
                                 },
                                 {
                                     "quantity": "12 shots",
-                                    "price": 3895
+                                    "price": 4145
                                 }
                             ]
                         },
@@ -1145,15 +1145,15 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 385
+                                    "price": 395
                                 },
                                 {
                                     "quantity": "6 shots",
-                                    "price": 2195
+                                    "price": 2245
                                 },
                                 {
                                     "quantity": "12 shots",
-                                    "price": 3895
+                                    "price": 4245
                                 }
                             ]
                         },
@@ -1162,15 +1162,15 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 405
+                                    "price": 445
                                 },
                                 {
                                     "quantity": "6 shots",
-                                    "price": 2295
+                                    "price": 2445
                                 },
                                 {
                                     "quantity": "12 shots",
-                                    "price": 4395
+                                    "price": 4445
                                 }
                             ]
                         }
@@ -1187,7 +1187,7 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 375
+                                    "price": 395
                                 }
                             ]
                         },
@@ -1196,7 +1196,7 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 395
+                                    "price": 425
                                 }
                             ]
                         }
@@ -1214,11 +1214,11 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 395
+                                    "price": 425
                                 },
                                 {
                                     "quantity": "Bottle",
-                                    "price": 7395
+                                    "price": 7595
                                 }
                             ]
                         },
@@ -1227,11 +1227,11 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 395
+                                    "price": 425
                                 },
                                 {
                                     "quantity": "Bottle",
-                                    "price": 7395
+                                    "price": 7595
                                 }
                             ]
                         },
@@ -1240,11 +1240,11 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 395
+                                    "price": 425
                                 },
                                 {
                                     "quantity": "Bottle",
-                                    "price": 7395
+                                    "price": 7595
                                 }
                             ]
                         },
@@ -1253,11 +1253,11 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 395
+                                    "price": 425
                                 },
                                 {
                                     "quantity": "Bottle",
-                                    "price": 7395
+                                    "price": 7595
                                 }
                             ]
                         },
@@ -1266,11 +1266,11 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 445
+                                    "price": 475
                                 },
                                 {
                                     "quantity": "Bottle",
-                                    "price": 8995
+                                    "price": 9095
                                 }
                             ]
                         },
@@ -1279,11 +1279,11 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 445
+                                    "price": 475
                                 },
                                 {
                                     "quantity": "Bottle",
-                                    "price": 8995
+                                    "price": 9095
                                 }
                             ]
                         },
@@ -1292,11 +1292,11 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 525
+                                    "price": 545
                                 },
                                 {
                                     "quantity": "Bottle",
-                                    "price": 10995
+                                    "price": 11495
                                 }
                             ]
                         }
@@ -1314,11 +1314,11 @@
                             "details": [
                                 {
                                     "quantity": "Glass",
-                                    "price": 555
+                                    "price": 575
                                 },
                                 {
                                     "quantity": "Bottle",
-                                    "price": 2695
+                                    "price": 2845
                                 }
                             ]
                         },
@@ -1327,11 +1327,11 @@
                             "details": [
                                 {
                                     "quantity": "Glass",
-                                    "price": 555
+                                    "price": 575
                                 },
                                 {
                                     "quantity": "Bottle",
-                                    "price": 2695
+                                    "price": 2845
                                 }
                             ]
                         },
@@ -1344,7 +1344,7 @@
                                 },
                                 {
                                     "quantity": "Bottle",
-                                    "price": 3995
+                                    "price": 4245
                                 }
                             ]
                         },
@@ -1357,7 +1357,7 @@
                                 },
                                 {
                                     "quantity": "Bottle",
-                                    "price": 3995
+                                    "price": 4245
                                 }
                             ]
                         },
@@ -1366,11 +1366,11 @@
                             "details": [
                                 {
                                     "quantity": "Glass",
-                                    "price": 495
+                                    "price": 525
                                 },
                                 {
                                     "quantity": "Bottle",
-                                    "price": 2295
+                                    "price": 2495
                                 }
                             ]
                         }
@@ -1388,11 +1388,11 @@
                             "details": [
                                 {
                                     "quantity": "Glass",
-                                    "price": 555
+                                    "price": 575
                                 },
                                 {
                                     "quantity": "Bottle",
-                                    "price": 2695
+                                    "price": 2845
                                 }
                             ]
                         },
@@ -1401,11 +1401,11 @@
                             "details": [
                                 {
                                     "quantity": "Glass",
-                                    "price": 555
+                                    "price": 575
                                 },
                                 {
                                     "quantity": "Bottle",
-                                    "price": 2695
+                                    "price": 2845
                                 }
                             ]
                         },
@@ -1418,7 +1418,7 @@
                                 },
                                 {
                                     "quantity": "Bottle",
-                                    "price": 3995
+                                    "price": 4245
                                 }
                             ]
                         },
@@ -1431,7 +1431,7 @@
                                 },
                                 {
                                     "quantity": "Bottle",
-                                    "price": 3995
+                                    "price": 4245
                                 }
                             ]
                         },
@@ -1440,11 +1440,11 @@
                             "details": [
                                 {
                                     "quantity": "Glass",
-                                    "price": 495
+                                    "price": 525
                                 },
                                 {
                                     "quantity": "Bottle",
-                                    "price": 2295
+                                    "price": 2495
                                 }
                             ]
                         }
@@ -1461,7 +1461,7 @@
                             "details": [
                                 {
                                     "quantity": "Bottle",
-                                    "price": 3995
+                                    "price": 4245
                                 }
                             ]
                         },
@@ -1470,7 +1470,7 @@
                             "details": [
                                 {
                                     "quantity": "Bottle",
-                                    "price": 4295
+                                    "price": 4495
                                 }
                             ]
                         },
@@ -1479,7 +1479,7 @@
                             "details": [
                                 {
                                     "quantity": "Bottle",
-                                    "price": 9595
+                                    "price": 9895
                                 }
                             ]
                         }
@@ -1498,15 +1498,15 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 475
+                                    "price": 495
                                 },
                                 {
                                     "quantity": "360 ml",
-                                    "price": 5295
+                                    "price": 5495
                                 },
                                 {
                                     "quantity": "bottle",
-                                    "price": 8995
+                                    "price": 9495
                                 }
                             ]
                         },
@@ -1515,15 +1515,15 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 475
+                                    "price": 495
                                 },
                                 {
                                     "quantity": "360 ml",
-                                    "price": 5295
+                                    "price": 5495
                                 },
                                 {
                                     "quantity": "bottle",
-                                    "price": 8995
+                                    "price": 9495
                                 }
                             ]
                         },
@@ -1532,15 +1532,15 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 475
+                                    "price": 495
                                 },
                                 {
                                     "quantity": "360 ml",
-                                    "price": 5295
+                                    "price": 5495
                                 },
                                 {
                                     "quantity": "bottle",
-                                    "price": 9595
+                                    "price": 9495
                                 }
                             ]
                         },
@@ -1549,15 +1549,15 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 495
+                                    "price": 525
                                 },
                                 {
                                     "quantity": "360 ml",
-                                    "price": 5495
+                                    "price": 5695
                                 },
                                 {
                                     "quantity": "bottle",
-                                    "price": 9595
+                                    "price": 9995
                                 }
                             ]
                         },
@@ -1566,15 +1566,15 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 495
+                                    "price": 525
                                 },
                                 {
                                     "quantity": "360 ml",
-                                    "price": 5495
+                                    "price": 5695
                                 },
                                 {
                                     "quantity": "bottle",
-                                    "price": 9595
+                                    "price": 9995
                                 }
                             ]
                         },
@@ -1583,15 +1583,15 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 525
+                                    "price": 545
                                 },
                                 {
                                     "quantity": "360 ml",
-                                    "price": 5795
+                                    "price": 5995
                                 },
                                 {
                                     "quantity": "bottle",
-                                    "price": 9995
+                                    "price": 10495
                                 }
                             ]
                         },
@@ -1600,15 +1600,15 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 525
+                                    "price": 545
                                 },
                                 {
                                     "quantity": "360 ml",
-                                    "price": 5795
+                                    "price": 5995
                                 },
                                 {
                                     "quantity": "bottle",
-                                    "price": 9995
+                                    "price": 10495
                                 }
                             ]
                         },
@@ -1617,15 +1617,15 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 575
+                                    "price": 595
                                 },
                                 {
                                     "quantity": "360 ml",
-                                    "price": 6295
+                                    "price": 6495
                                 },
                                 {
                                     "quantity": "bottle",
-                                    "price": 10995
+                                    "price": 11995
                                 }
                             ]
                         },
@@ -1634,15 +1634,15 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 575
+                                    "price": 595
                                 },
                                 {
                                     "quantity": "360 ml",
-                                    "price": 6295
+                                    "price": 6495
                                 },
                                 {
                                     "quantity": "bottle",
-                                    "price": 10995
+                                    "price": 11995
                                 }
                             ]
                         }
@@ -1661,15 +1661,15 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 295
+                                    "price": 325
                                 },
                                 {
                                     "quantity": "360 ml",
-                                    "price": 3095
+                                    "price": 3395
                                 },
                                 {
                                     "quantity": "bottle",
-                                    "price": 5395
+                                    "price": 5595
                                 }
                             ]
                         },
@@ -1678,7 +1678,7 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 335
+                                    "price": 355
                                 },
                                 {
                                     "quantity": "360 ml",
@@ -1686,7 +1686,7 @@
                                 },
                                 {
                                     "quantity": "bottle",
-                                    "price": 6395
+                                    "price": 6695
                                 }
                             ]
                         },
@@ -1695,7 +1695,7 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 335
+                                    "price": 355
                                 },
                                 {
                                     "quantity": "360 ml",
@@ -1703,7 +1703,7 @@
                                 },
                                 {
                                     "quantity": "bottle",
-                                    "price": 6395
+                                    "price": 6695
                                 }
                             ]
                         },
@@ -1712,15 +1712,15 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 415
+                                    "price": 445
                                 },
                                 {
                                     "quantity": "360 ml",
-                                    "price": 4695
+                                    "price": 4895
                                 },
                                 {
                                     "quantity": "bottle",
-                                    "price": 7795
+                                    "price": 7995
                                 }
                             ]
                         },
@@ -1729,15 +1729,15 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 415
+                                    "price": 445
                                 },
                                 {
                                     "quantity": "360 ml",
-                                    "price": 4695
+                                    "price": 4895
                                 },
                                 {
                                     "quantity": "bottle",
-                                    "price": 7795
+                                    "price": 7995
                                 }
                             ]
                         },
@@ -1746,15 +1746,15 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 495
+                                    "price": 525
                                 },
                                 {
                                     "quantity": "360 ml",
-                                    "price": 5195
+                                    "price": 5295
                                 },
                                 {
                                     "quantity": "bottle",
-                                    "price": 8295
+                                    "price": 8495
                                 }
                             ]
                         },
@@ -1763,15 +1763,15 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 495
+                                    "price": 525
                                 },
                                 {
                                     "quantity": "360 ml",
-                                    "price": 5195
+                                    "price": 5295
                                 },
                                 {
                                     "quantity": "bottle",
-                                    "price": 8295
+                                    "price": 8495
                                 }
                             ]
                         },
@@ -1780,7 +1780,7 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 535
+                                    "price": 555
                                 }
                             ]
                         },
@@ -1789,7 +1789,7 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 590
+                                    "price": 625
                                 }
                             ]
                         },
@@ -1826,15 +1826,15 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 415
+                                    "price": 445
                                 },
                                 {
                                     "quantity": "360 ml",
-                                    "price": 4695
+                                    "price": 4895
                                 },
                                 {
                                     "quantity": "bottle",
-                                    "price": 7795
+                                    "price": 7995
                                 }
                             ]
                         },
@@ -1843,15 +1843,15 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 365
+                                    "price": 395
                                 },
                                 {
                                     "quantity": "360 ml",
-                                    "price": 4195
+                                    "price": 4395
                                 },
                                 {
                                     "quantity": "bottle",
-                                    "price": 7095
+                                    "price": 7395
                                 }
                             ]
                         },
@@ -1860,15 +1860,15 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 315
+                                    "price": 345
                                 },
                                 {
                                     "quantity": "360 ml",
-                                    "price": 3495
+                                    "price": 3895
                                 },
                                 {
                                     "quantity": "bottle",
-                                    "price": 5795
+                                    "price": 5995
                                 }
                             ]
                         }
@@ -1887,15 +1887,15 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 295
+                                    "price": 325
                                 },
                                 {
                                     "quantity": "360 ml",
-                                    "price": 3095
+                                    "price": 3295
                                 },
                                 {
                                     "quantity": "bottle",
-                                    "price": 5395
+                                    "price": 5595
                                 }
                             ]
                         },
@@ -1904,15 +1904,15 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 265
+                                    "price": 295
                                 },
                                 {
                                     "quantity": "360 ml",
-                                    "price": 2695
+                                    "price": 2895
                                 },
                                 {
                                     "quantity": "bottle",
-                                    "price": 4595
+                                    "price": 4695
                                 }
                             ]
                         },
@@ -1921,15 +1921,15 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 295
+                                    "price": 325
                                 },
                                 {
                                     "quantity": "360 ml",
-                                    "price": 3095
+                                    "price": 3295
                                 },
                                 {
                                     "quantity": "bottle",
-                                    "price": 5395
+                                    "price": 5595
                                 }
                             ]
                         },
@@ -1938,15 +1938,15 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 295
+                                    "price": 325
                                 },
                                 {
                                     "quantity": "360 ml",
-                                    "price": 3095
+                                    "price": 3295
                                 },
                                 {
                                     "quantity": "bottle",
-                                    "price": 5395
+                                    "price": 5595
                                 }
                             ]
                         },
@@ -1955,15 +1955,15 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 295
+                                    "price": 325
                                 },
                                 {
                                     "quantity": "360 ml",
-                                    "price": 3095
+                                    "price": 3295
                                 },
                                 {
                                     "quantity": "bottle",
-                                    "price": 5395
+                                    "price": 5595
                                 }
                             ]
                         },
@@ -1972,15 +1972,15 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 335
+                                    "price": 355
                                 },
                                 {
                                     "quantity": "360 ml",
-                                    "price": 3495
+                                    "price": 3595
                                 },
                                 {
                                     "quantity": "bottle",
-                                    "price": 5795
+                                    "price": 5995
                                 }
                             ]
                         },
@@ -1989,15 +1989,15 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 335
+                                    "price": 355
                                 },
                                 {
                                     "quantity": "360 ml",
-                                    "price": 3495
+                                    "price": 3595
                                 },
                                 {
                                     "quantity": "bottle",
-                                    "price": 5795
+                                    "price": 5995
                                 }
                             ]
                         },
@@ -2006,15 +2006,15 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 335
+                                    "price": 355
                                 },
                                 {
                                     "quantity": "360 ml",
-                                    "price": 3495
+                                    "price": 3595
                                 },
                                 {
                                     "quantity": "bottle",
-                                    "price": 5795
+                                    "price": 5995
                                 }
                             ]
                         }
@@ -2033,15 +2033,15 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 195
+                                    "price": 225
                                 },
                                 {
                                     "quantity": "360 ml",
-                                    "price": 1495
+                                    "price": 1795
                                 },
                                 {
                                     "quantity": "bottle",
-                                    "price": 2895
+                                    "price": 2995
                                 }
                             ]
                         },
@@ -2050,15 +2050,15 @@
                             "details": [
                                 {
                                     "quantity": "30 ml",
-                                    "price": 245
+                                    "price": 275
                                 },
                                 {
                                     "quantity": "360 ml",
-                                    "price": 2195
+                                    "price": 2395
                                 },
                                 {
                                     "quantity": "bottle",
-                                    "price": 3795
+                                    "price": 3995
                                 }
                             ]
                         }
@@ -2077,15 +2077,15 @@
                             "details": [
                                 {
                                     "quantity": "1 bottle",
-                                    "price": 295
+                                    "price": 325
                                 },
                                 {
                                     "quantity": "6 bottles",
-                                    "price": 1795
+                                    "price": 1845
                                 },
                                 {
                                     "quantity": "12 bottles",
-                                    "price": 2950
+                                    "price": 3245
                                 }
                             ]
                         }
@@ -2105,27 +2105,27 @@
                         {
                             "name": "Eureka!",
                             "details": "Combining the smoothness Jim Beam, a dash of Sweet & Sour with Pinneaple flavour, a pinch of Egg White, donned with the seduction of Red Wine!",
-                            "price": 375
+                            "price": 395
                         },
                         {
                             "name": "Blood Moon",
                             "details": "A cocktail that brings out ravishing red conjured up with the combo of Beetroot, Carrot, and Cinnamon, topped with essence of Lime.",
-                            "price": 375
+                            "price": 395
                         },
                         {
                             "name": "A Space Odyssey",
                             "details": "UnEarth the undiscovered truths of the universe with a cocktail made of Triple Sec, Orange Juice, Turmeric, and Chilli Salt Trim.",
-                            "price": 375
+                            "price": 395
                         },
                         {
                             "name": "Stardust",
                             "details": "We recreate the cosmos in your cocktail with Vodka, fresh Strawberry, Betal Leaves, Sweet & Sour, and Candy Flower.",
-                            "price": 375
+                            "price": 395
                         },
                         {
                             "name": "Footprints on the Moon",
                             "details": "Thi Crazy cocktail made with Vodka, Red Wine, Basil Leaves, Sweet & Sour, Basil Syrup, Clove, and Coke might leave you feeling higher than you've ever been!",
-                            "price": 375
+                            "price": 395
                         },
                         {
                             "name": "Ale the way to Space!",
@@ -2135,32 +2135,32 @@
                         {
                             "name": "Dark Matter",
                             "details": "This one's as dark as the beginning of the Big Bang! All beautiful and chaotic blended with Bacardi, Kala Khatta Syrup, Sweet & Sour, and some Coke.",
-                            "price": 375
+                            "price": 395
                         },
                         {
                             "name": "Axistence",
                             "details": "Orbiting in our axis of daily life gets pretty mundane. So, shake it up with a cocktail that is made of a dramatic mix of Vodka, Sweet & Sour, Fresh Ginger, and Lemongrass.",
-                            "price": 375
+                            "price": 395
                         },
                         {
                             "name": "Lime Space Continuum",
                             "details": "And all the banter gets even more interesting with a crazy cocktail created with the magic of Gin, Martini Rosso, Kafir Lime, Lime Juice, and Sugar.",
-                            "price": 375
+                            "price": 395
                         },
                         {
                             "name": "Sunsational",
                             "details": "A rich yellow that gives you a high so mellow; made with the right proportions of Bacardi, Ripe Banana, Pinneapple Juice, Banana Juice Puree, and Cardamom Powder.",
-                            "price": 375
+                            "price": 395
                         },
                         {
                             "name": "The Big Bang Theory",
                             "details": "It all started with a big bang of Gin, Earl Grey Tea, Honey, and Lavender Syrup. The truth of the universe is concentrated in this ecstatic cocktail!",
-                            "price": 375
+                            "price": 395
                         },
                         {
                             "name": "Ginesis",
                             "details": "Truly oriGINal in it taste, this cocktail made with Gin, Rasberry, Sweet & Sour, and Egg White establishes a state of pure bliss and cultivates a following of its own.",
-                            "price": 375
+                            "price": 395
                         }
                     ]
                 },
@@ -2172,56 +2172,56 @@
                         {
                             "name": "Rocketful of Sunshine",
                             "details": "Your all time favourite MOJITO made with the goodness of Bacardi, Mint Leaves, Lemon Chunks, Brown Sugar, Lime Juice, Soda, Sprite, and Monin Mint Syrup.",
-                            "price": 325,
-                            "pitcherPrice": 1499
+                            "price": 355,
+                            "pitcherPrice": 1595
                         },
                         {
                             "name": "Plutonic Love",
                             "details": "The classic OLD-FASHIONED cocktail you can always go back to back; made with Jim Beam, Orange Peel, Angostura Bitters, and White Sugar.",
-                            "price": 325
+                            "price": 355
                         },
                         {
                             "name": "Marsgarita",
                             "details": "The porpular MARGARITA always stealing the show; made with Tequila, Triple Sec, and Lime Juice.",
-                            "price": 325,
-                            "pitcherPrice": 1499
+                            "price": 355,
+                            "pitcherPrice": 1595
                         },
                         {
                             "name": "The Big Bang",
                             "details": "All the fun starts here with the WHISKEY SOUR, made with Jim Beam, Egg White, and Sweet & Sour.",
-                            "price": 325
+                            "price": 355
                         },
                         {
                             "name": "Bloody Marry-Go-Round",
                             "details": "Get tipsy when your BLOODY MARY made of Vodka, Tomato Juice, Celery Salt, Worcestershiresauce, Tabasco, and Black Pepper unleashes the thrill!",
-                            "price": 325
+                            "price": 355
                         },
                         {
                             "name": "Cosmospolitan",
                             "details": "When Vodka, Triple Sec, Cranberry Juice, and Lime Juice come together, you experience the entire cosmos in a drink!",
-                            "price": 325
+                            "price": 355
                         },
                         {
                             "name": "Stargasm",
                             "details": "Your SEX-ON-THE-BEACH is only more rewarding when in space; made with Vodka, Peach Syrup, Lime Juice, Orange Juice, and Cranberry Juice.",
-                            "price": 325
+                            "price": 355
                         },
                         {
                             "name": "Ball of Fire",
                             "details": "That craxy MELON BALL never stops to enthral; made with Vodka, Midori, Orange Juice, and Pinneapple Juice.",
-                            "price": 325
+                            "price": 355
                         },
                         {
                             "name": "The God Particle",
                             "details": "Never gets old, RED WINE SANGRIA!",
-                            "price": 425,
-                            "pitcherPrice": 1999
+                            "price": 455,
+                            "pitcherPrice": 2095
                         },
                         {
                             "name": "Paradise Restored",
                             "details": "WHITE WINE SANGRIA to restore your faith in the brewniverse!",
-                            "price": 425,
-                            "pitcherPrice": 1999
+                            "price": 455,
+                            "pitcherPrice": 2095
                         }
                     ]
                 }
@@ -2247,11 +2247,11 @@
                             "details": [
                                 {
                                     "quantity": "1000ml",
-                                    "price": 955
+                                    "price": 1095
                                 },
                                 {
                                     "quantity": "500ml",
-                                    "price": 655
+                                    "price": 745
                                 }
                             ]
                         },
@@ -2263,11 +2263,11 @@
                             "details": [
                                 {
                                     "quantity": "1000ml",
-                                    "price": 955
+                                    "price": 1095
                                 },
                                 {
                                     "quantity": "500ml",
-                                    "price": 655
+                                    "price": 745
                                 }
                             ]
                         },
@@ -2279,11 +2279,11 @@
                             "details": [
                                 {
                                     "quantity": "1000ml",
-                                    "price": 955
+                                    "price": 1095
                                 },
                                 {
                                     "quantity": "500ml",
-                                    "price": 655
+                                    "price": 745
                                 }
                             ]
                         },
@@ -2295,11 +2295,11 @@
                             "details": [
                                 {
                                     "quantity": "1000ml",
-                                    "price": 955
+                                    "price": 1095
                                 },
                                 {
                                     "quantity": "500ml",
-                                    "price": 655
+                                    "price": 745
                                 }
                             ]
                         }
@@ -2319,32 +2319,32 @@
                         {
                             "name": "Jager Bomb",
                             "details": "Jagermeister, Red Bull",
-                            "price": 475
+                            "price": 495
                         },
                         {
                             "name": "Jelly Fish",
                             "details": "Grenadine, Sambuca, Baileys, Blue Curacao",
-                            "price": 395
+                            "price": 425
                         },
                         {
                             "name": "Flaming Bomb Marly",
                             "details": "Grenadine, Bacardi, Cream De Menthe, Banana Liquor",
-                            "price": 395
+                            "price": 425
                         },
                         {
                             "name": "Sliperry Nippel",
                             "details": "Sambuca, Baileys, Cherry",
-                            "price": 395
+                            "price": 425
                         },
                         {
                             "name": "Blow Job",
                             "details": "Amaeretto, Kahlija, Baileys, Whipped",
-                            "price": 395
+                            "price": 425
                         },
                         {
                             "name": "Jelly Flavours",
                             "details": "Watermelon/4pes\nMango/4pes\nMango/4pes",
-                            "price": 395
+                            "price": 425
                         }
                     ]
                 }
@@ -2362,37 +2362,37 @@
                         {
                             "name": "WHY SO SIRIUS?",
                             "details": "Named after a star system, this is your favourite Apple Cinnamon Mojito made with fresh Mint, fresh Lemon chunks, Lime juice, Mint Syrup, and Cinnamon.",
-                            "price": 195,
+                            "price": 225,
                             "speciality": "None"
                         },
                         {
                             "name": "JEDI HIGH COUNCIL",
                             "details": "Keeping a check on your saas with this tasteful drink made with fresh Apple chunks, Basil leaves, Chaat Masala, Apple Juice, Lime Juice, and Basil Syrup.",
-                            "price": 225,
+                            "price": 245,
                             "speciality": "None"
                         },
                         {
                             "name": "YODA-LICIOUS!",
                             "details": "Give wisdom a chance! Lemon Juice, Beetroot, Chaat Masala, Black Salt, and Sugar make it happen.",
-                            "price": 255,
+                            "price": 275,
                             "speciality": "None"
                         },
                         {
                             "name": "GUIDE TO THE GALAXY #101",
                             "details": "Fresh Carrots, Orange Juice, Orange Crush, and Soda blend together to take you on a trip to the universe!",
-                            "price": 255,
+                            "price": 275,
                             "speciality": "None"
                         },
                         {
                             "name": "STRING THEORY",
                             "details": "This one looks beautiful with a complex miz of colors; made with fresh Watermelon, Orange Chunks, Chaat Masala, fresh Mint, Sweet and Sour, Orange Juice, and Watermelon Syrup.",
-                            "price": 225,
+                            "price": 245,
                             "speciality": "None"
                         },
                         {
                             "name": "DELTA OF VENUS",
                             "details": "Instantly fall in love with this one; made with fresh Orange chunks, Pomegranate Seeds, Chaat Masala, and Sprite!",
-                            "price": 255,
+                            "price": 275,
                             "speciality": "None"
                         }
                     ]
@@ -2410,31 +2410,31 @@
                     "items": [
                         {
                             "name": "Tiramisu",
-                            "price": 195,
+                            "price": 225,
                             "details": "",
                             "speciality": ""
                         },
                         {
                             "name": "Caramel & Peanut Butter",
-                            "price": 195,
+                            "price": 225,
                             "details": "",
                             "speciality": ""
                         },
                         {
                             "name": "Classic Chocolate Oreo",
-                            "price": 195,
+                            "price": 225,
                             "details": "",
                             "speciality": ""
                         },
                         {
                             "name": "Nutella & Banana",
-                            "price": 195,
+                            "price": 225,
                             "details": "",
                             "speciality": ""
                         },
                         {
                             "name": "Mix Berry",
-                            "price": 195,
+                            "price": 225,
                             "details": "",
                             "speciality": ""
                         }
@@ -2447,43 +2447,43 @@
                     "items": [
                         {
                             "name": "Iced Tea Ask for the flavour",
-                            "price": 155,
-                            "details": "",
-                            "speciality": ""
-                        },
-                        {
-                            "name": "Cold Coffee",
                             "price": 175,
                             "details": "",
                             "speciality": ""
                         },
                         {
-                            "name": "Fresh Lime Soda & Water",
-                            "price": 120,
-                            "details": "",
-                            "speciality": ""
-                        },
-                        {
-                            "name": "Red Bull",
+                            "name": "Cold Coffee",
                             "price": 195,
                             "details": "",
                             "speciality": ""
                         },
                         {
+                            "name": "Fresh Lime Soda & Water",
+                            "price": 145,
+                            "details": "",
+                            "speciality": ""
+                        },
+                        {
+                            "name": "Red Bull",
+                            "price": 225,
+                            "details": "",
+                            "speciality": ""
+                        },
+                        {
                             "name": "Tonic Water",
-                            "price": 100,
+                            "price": 105,
                             "details": "",
                             "speciality": ""
                         },
                         {
                             "name": "Ginger & Ale",
-                            "price": 100,
+                            "price": 125,
                             "details": "",
                             "speciality": ""
                         },
                         {
                             "name": "Diet Coke",
-                            "price": 100,
+                            "price": 125,
                             "details": "",
                             "speciality": ""
                         },
@@ -2501,7 +2501,7 @@
                         },
                         {
                             "name": "Canned Juice",
-                            "price": 120,
+                            "price": 125,
                             "details": "",
                             "speciality": ""
                         }
